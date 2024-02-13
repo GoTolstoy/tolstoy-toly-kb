@@ -1,0 +1,17 @@
+How do I connect my Instagram account to Tolstoy?
+
+Before you begin:
+Before you connect your Instagram account to Tolstoy, you need to make sure that you have the correct business accounts set up on Facebook and Instagram and that certain permissions are allowed.
+
+Connect Instagram to Tolstoy
+Go to your Tolstoy Library section and click on the + icon next to Instagram. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/941705604/0618fad04995016d5e4519c6/image.png)
+Note:
+If you see a + icon next to your social media accounts, it means that it is not connected.
+
+
+You will be taken to a Meta page. You need to connect Tolstoy with the business page that is connected to your Instagram.You can do this by selecting Edit previous settings. (screenshot image of this step: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/777944006/00d1c683797594fd592a9bbf/rYJRb3uDJVW3R2Z5yqU_K_-NCSUtzXiLMRf8521y1FQSc8uZHiuY5EtGFsYBphQ09mTGeJhefUMLzRKEuPJXDWa7_5dPT_Tymz5W-smX4RL_87njRn4aikS-wD5Xj4UO7kDQegGYgZhIwdfUuSKjSkY)
+Follow the prompts from Meta to make decisions about the permissions you will allow. It is optimal to select the second option for both prompts. 
+Note:
+If you decide to select the second option (Opt in current pages/accounts only), please make sure to choose one page and one account. (screenshot images: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/777952613/d9c617b97a8cf29b8c26c3da/vWW45JhQXmpilwoK3AQ1xqOFSvSTKqunHjy8suNeS10i06yKE3oe1QnXFdCDeW-cWhhEZDtg4Ff9qTyEtywBHZv68CtLLQLxKhY_7CcATiMGafQSj4wD4Dk8nRf4EkY-GxlB5HG9z3kbuX1L0T4MDsE & https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/777944036/3321c0d92533b1897cf56799/7LiI8mkOkwWQxkVTbPXN8abzWQGQDSdLDFXAVR-9rWR2Rsig8k0w-NTsqAMcuXrlI8hd9BcurVR3To0tMbOz22-RzglVeq7QcrBCsxDfjhQBPgLctmgm1WMLI7D4ZsCLFK4d8uuXCk-hlHptY5Sb2CE & https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/777944049/629791ff84070a4dce8455ac/24SckZg8C4amCnFi9yQ1U9FsPEcxPX7QR6RED94AZI21XXXb_2hf8_k1k3gJST0JZFleeoPk_EQMRIdLOo6fe4mQvkXNQ0xkoUsfZoQPeo5Ff72T2SPiS99hbv-d7zz7_BOaKnl_6E345stQRxpU-kw)
+You will receive a confirmation once Tolstoy has been connected. (screenshot image of this step: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/777944055/2c1688b91b4d2ca7241a1642/AjW7JlN8IhmFg0lpJKSKgHWZ864iCSmIqWdvfUVYbxS_4s6rr4fOfbjM2fj-v-YztByJhiCbCgn08EJ9JsOUWuU4hK-HRsY5J9O5RtqBWk3z0BnDfZgAOeai97TSv515cnVrvMcTYgzfR1y5rABgVcM)
+Those videos are now available in your Tolstoy account to tag products and increase your sales.
