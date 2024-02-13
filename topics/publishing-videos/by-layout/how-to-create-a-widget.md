@@ -66,3 +66,9 @@ Video branching only works on branching widgets and embedded videos. It doesn't 
      - The text on the text bubble.
    - **Text color**:
      - That will be the color of the text on your widget and the text bubble.
+
+Widget Vs. Embed
+
+A widget will appear "over top" of the site - it will remain static in its position even when the user scrolls, and it expands only when clicked. It can also be customized. ​
+
+An embedded Tolstoy is embedded into your very website. It is "attached" to the site, and will not follow the viewer while scrolling. 
