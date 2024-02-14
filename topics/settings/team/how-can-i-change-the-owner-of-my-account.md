@@ -1,0 +1,7 @@
+## How can I change the owner of my account?
+
+Learn how to transfer the ownership of your account to another teammate.
+In your account, click on your profile letter at the bottom left corner. Then, click on Settings -> Team, and then click on the small arrow near the role of your teammate. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/753212370/084e60fc88e620a202b3799b/image.png)
+Select Owner. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/753213858/034377ae5616c615a4796138/image.png)
+Click Transfer ownership. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/753215786/1ab68b8d408de285c7d1e9e2/image.png)
+That's it! Your teammate is now the owner of the account.

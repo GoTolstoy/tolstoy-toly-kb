@@ -1,0 +1,7 @@
+## How do I automatically email users when they answer my Tolstoy?
+
+On a Tolstoy, you might want to immediately email a user when they respond to your Tolstoy. This is a good way to confirm with the user that their response was received and will be handled. Follow this quick guide to see how!
+Navigate to your Tolstoy and click the Settings icon, then click Notifications. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/892200773/8e015854ffda60cf849496d1/image.png) 
+Scroll to the Respondent Notifications section. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/892201763/cd483e03a0331ae78c7503f2/image.png) 
+Under, Respondent event notifications, select when you want an email to be sent automatically. The options are User has reached end, Video response, Contact form response, and None. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/767332379/620809ef14f5674e256edf1b/image.png) 
+Click Save when you are done. 

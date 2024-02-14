@@ -1,4 +1,4 @@
-Examples of Tolstoy (different layouts) in Collection Pages:
+## Examples of Tolstoy (different layouts) in Collection Pages:
 
 
 https://www.therippleco.co.uk/collections/shop-all - The Ripple Co

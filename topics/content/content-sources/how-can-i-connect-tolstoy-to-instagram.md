@@ -1,0 +1,18 @@
+## How can I connect Tolstoy to Instagram?
+
+Instagram Graph API can be used only by “Instagram Professional accounts” (https://help.instagram.com/138925576505882) – this includes Business accounts (intended for companies), and Creator accounts (intended for individuals, like influencers).
+
+
+Requirements:
+A Facebook account (can be your personal)
+A Facebook page – ideally a dedicated testing page, so create one now (https://www.facebook.com/pages/create/)
+An Instagram account – ideally a dedicated account for testing (sign up for one https://www.instagram.com/)
+How to accept Graph API calls:
+
+
+Step 1 - Log into your Instagram account, go to account settings. Here, click “Switch to professional account”. (screenshot image of this step: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/673762251/7c645d6d82de3a6253f80b9c/image)
+You have two options: Creator and Business. Select Business, pick a category (can be anything) and skip the step to add contact information. 
+Go to your Facebook page's settings. On “Professional dashboard” select “Linked Accounts”. (screenshot image of this step: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/673762267/656d07bcc06e1b7c4cd00854/image)
+Click “Connect account” from Instagram. (screenshot image of this step: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/673762284/885e9d904ccdc9876b379dc6/image)
+This will show you a pop-up to enter Instagram credentials, and once you log in, you should see a success message. 
+You can now connect Tolstoy to your Instagram account. 
