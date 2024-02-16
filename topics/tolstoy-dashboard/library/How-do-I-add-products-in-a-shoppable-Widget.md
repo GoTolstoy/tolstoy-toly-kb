@@ -11,6 +11,6 @@
 ### For Swipeable Widget:
 
 1. Go to the Design tab of the Widget that you created in the Onsite tab, go to “Feed” and make sure "Make videos shoppable" is toggled on.
-2. Go to the "Videos" tab and choose your playlist/(s) and the videos will be automatically filtered. You can tag more products by selecting the video/(s) and searching for a product/(s) you want to tag. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/918480772/6467cb4f3f7bf69e39969279/image.png)
+2. Go to the "Videos" tab and choose your playlist/(s) and the videos will be automatically filtered. You can tag more products by selecting the video/(s) and searching for a product/(s) you want to tag. (screenshot image of this step: ![step](https://downloads.intercomcdn.com/i/o/918480772/6467cb4f3f7bf69e39969279/image.png))
 
 Once your viewers click Go to checkout, they will be taken to a checkout page in your store!

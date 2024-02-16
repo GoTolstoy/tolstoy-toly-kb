@@ -2,7 +2,7 @@
 
 If a significant play button covers most of the widget preview on mobile, this issue occurs by default on iOS devices when the battery-saving mode is activated. Unfortunately, there isn't anything we can do to change this behavior as it's related to how iOS manages power.
 
-What Can You Do?
+**What Can You Do?**
 
 While we can't directly control this behavior, here are a few steps you can take to resolve the issue:
 ​

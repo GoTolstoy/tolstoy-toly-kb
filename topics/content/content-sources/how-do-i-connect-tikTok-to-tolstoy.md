@@ -5,7 +5,7 @@
    **Note:**
    If you see a + icon next to your social media accounts, it means that it is not connected.
 
-2. Allow permissions for your TikTok to be connected, which may include entering your credentials if you are not logged into your TikTok account. (screenshot image of this step: ![Allow Permissions](https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/783342748/e2c01320a01fb31ac49aa747/wv6TxZWhRMvAj2zUA342KDh2M4FNM8SQGFxeKXUSdDAN3iy8APFp3eKMmQkqArtHBFgKOckIFRzLPLuqQTD0N827q-PhXnwyffggTqxtULCjDecuRii2s_KnKkU-gJ6YsX4bkchRHymk5cndS6T1nus)
+2. Allow permissions for your TikTok to be connected, which may include entering your credentials if you are not logged into your TikTok account. (screenshot image of this step: ![Allow Permissions](https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/783342748/e2c01320a01fb31ac49aa747/wv6TxZWhRMvAj2zUA342KDh2M4FNM8SQGFxeKXUSdDAN3iy8APFp3eKMmQkqArtHBFgKOckIFRzLPLuqQTD0N827q-PhXnwyffggTqxtULCjDecuRii2s_KnKkU-gJ6YsX4bkchRHymk5cndS6T1nus))
 
 3. Those videos are now available in your Tolstoy account to tag products and increase your sales. (screenshot image of this step: ![TikTok Connected](https://downloads.intercomcdn.com/i/o/942960549/eeb15c5e11312fb99a04b141/image.png))
 
