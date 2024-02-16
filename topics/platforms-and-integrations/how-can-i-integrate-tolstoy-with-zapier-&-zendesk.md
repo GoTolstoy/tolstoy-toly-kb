@@ -1,7 +1,6 @@
 ## How can I integrate Tolstoy with Zapier & Zendesk?
 
-1.First, make sure that you have integrated Tolstoy and Zapier. (https://help.gotolstoy.com/en/articles/5177395-zapier-integration)
-
+1. First, make sure that you have integrated Tolstoy and Zapier. (https://help.gotolstoy.com/en/articles/5177395-zapier-integration)
 2. Choose Tolstoy in the App Event. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/401455389/b265d8f052549472f992b286/image.png)
 3. Choose New Lead as the event. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/416939330/b406f2d52b67eaa0adbf449c/image.png)
 4. Choose your Tolstoy account and click Continue. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/416940400/baf98de6df57cc07d68e4972/image.png)

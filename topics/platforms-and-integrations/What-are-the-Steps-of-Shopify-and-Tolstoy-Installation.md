@@ -7,5 +7,7 @@
 5. To enable app embed, click on the Go To Shopify button. (screenshot image of this step: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/788768873/a4b254d16e7304afb0f9e46a/0eFnVv_lgd4sbFvGJHoPMLcCXBfd3mFnoyDgvWKJp90rS-HLU7aFieAWuw8Y_MDJ5xziClBWiiNxCNN96e06ueBMFgRP4qiR40zpiO1uUZpxUYmH3iDYQztoBKkGsqOS8rYBCmMnC8XNbMpNeZfg6aw)
 6. Once you’re back in your Shopify store, make sure that the app is enabled, and then click the Save button in the top right corner of the screen. (screenshot image of this step: https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/788768885/ed7fae50b9a7338b90c2aea3/WMWnLc0mv3KTC665onGT_wyVTxLfmHjvOCqNLxja6egLn1Rx_tj7WJ_SXrUJSgcTZEpUUoUW5bStt3OOLeFSIy8kIZMEN-7R830NGI-hB1x2a-_Tm2Nsn8h9pqAfwkbz9aWoVyTXj2klVhmiUvz59i4)
 Conversion tracking will be automatically applied to your Tolstoy account.
+
 Conversion tracking is crucial for businesses because it allows you to understand what happens when a customer interacts with your store and makes a purchase.
+
 When you know this information, you can take steps to strategically market your products so that you can make more conversions. Tolstoy has you covered to grow your business.
