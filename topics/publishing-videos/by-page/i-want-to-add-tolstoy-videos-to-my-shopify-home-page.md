@@ -1,0 +1,5 @@
+## I want to add Tolstoy videos to my Shopify home page.
+
+Make sure that you already tagged videos with products. In the Onsite tab > create the Tolstoy project that you want to display in your Homepage (Stories or Carousel)  > Tagged videos with products will automatically show in the “Videos” tab of the Tolstoy project that you created > click the “Publish” button on the upper right > Copy the ID > go to your Shopify admin themes > Customize > Add section/block > look for Tolstoy Carousel or Stories (select based on what you created in the Tolstoy dashboard) > paste the ID that you copied > and Hit Save.
+
+If you’re using Shopify v1 or do not have the option to use block/sections to add Tolstoy, you need to manually add the Stories or Carousel code in the “Edit Code” of your Shopify Theme. If you’re not familiar with it, contact your dev team or if not, our support team can do it for you.
