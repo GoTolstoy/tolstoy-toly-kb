@@ -9,4 +9,4 @@
 4. Once you have already found the file, you need to paste the code that you copied from Tolstoy in the code line where you want to appear the Tolstoy video and hit Save.
 
 
-**Video tutorial: https://www.loom.com/share/416a6fd4bd6f4fbf80e7b3dfa0f6ca2e**
+**Video tutorial: https://share.synthesia.io/bd6215d0-bc3b-40de-8487-0d1a2e6a5997**
