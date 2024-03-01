@@ -73,12 +73,15 @@ Tolstoy can be shared through any email automation tool that supports custom HTM
 
 If for some reason you're struggling to center your Tolstoy within the email, you can use this code snippet:
 
+```html
 <table cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td align="center" class="col" width="600">
 <div class="col_content">
-PASTE YOUR EMAIL CODE HERE
+<!-- PASTE YOUR EMAIL CODE HERE -->
+</div>
 </td>
 </tr>
 </table>
+
 
