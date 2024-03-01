@@ -1,0 +1,3 @@
+## How can I sync my product catalogue to Tolstoy, and what are the requirements for product imagery and website integration?
+
+You can sync your product catalogue to Tolstoy by uploading it [here](https://app.gotolstoy.com/account/installation). Follow the steps in the help article for a smooth experience. Product imagery is required when syncing your product catalogue. Make sure to complete all necessary columns in the CSV file, or the app may reject it. Tolstoy offers direct integration with certain website builders like Wix, Bigcommerce, and Wordpress, but manual integration is recommended for a smoother experience.
