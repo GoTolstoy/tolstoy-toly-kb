@@ -1,6 +1,13 @@
 ## What are the steps in creating a Tolstoy Hero video (only for Shopify)?
 
-1. Click on create Tolstoy.
+**Before you begin:**
+
+Currently, we do not support more than one hero using blocks.
+If you're going to set more than one hero live on your site, you need to use the manual code instead for the second one or any further hero videos. Go to the Install tab and click </> Use code instead.
+
+Here's how to set it up!
+
+1. Click on Create Tolstoy.
 
 2. Click on Create from scratch.
 
@@ -16,7 +23,8 @@
 
 8. Go to Step 3 - Complete and set live - Click on the "Complete" button then, "Publish".
 
-Click on Step 3…
-Click on Complete
-
 9. You may click on Pause if you want to temporarily remove it.
+
+**Note:**
+
+The hero video won't auto-play on iPhones in Low Power Mode with battery saver on.
