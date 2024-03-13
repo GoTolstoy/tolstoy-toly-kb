@@ -2,7 +2,7 @@
 
 ### Enable Tolstoy in app embeds
 
-Please make sure that Tolstoy is enabled in your app embeds on your Shopify site and have clicked save. Afterwards, make sure to click “completed” in the [Installation tab](https://app.gotolstoy.com/account/installation) of Tolstoy.
+- Please make sure that Tolstoy is enabled in your app embeds on your Shopify site and have clicked save. Afterwards, make sure to click “completed” in the [Installation tab](https://app.gotolstoy.com/account/installation) of Tolstoy.
 
 ### Minimum number of videos
 
