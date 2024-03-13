@@ -1,4 +1,4 @@
-## I have app blocks/sections, but I'm not sure where to place my Tolstoy publish id.
+## I have app blocks/sections, but I'm not sure where to place my Tolstoy Publish ID.
 
 To add your Tolstoy project on a v2 Shopify store, proceed with the following steps:
 
