@@ -1,4 +1,4 @@
-## How can I edit the thumbnail?
+## How can I edit/change the thumbnail?
 
 1. Go to "Library" in the left panel between "Products" and "Onsite". (screenshot image of this step: ![Step 1](https://downloads.intercomcdn.com/i/o/941693432/ef5abaac5750f6b5acf2c11f/image.png))
 
