@@ -1,4 +1,4 @@
-##  I want to edit the thumbnail
+##  I want to edit/change the thumbnail
 
 1. Go to your Library section on the left panel
 2. Hover over the video you want to edit the thumbnail, then click the three dots
