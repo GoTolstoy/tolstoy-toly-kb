@@ -1,4 +1,4 @@
-## Why does my carousel and stories disappear on my website after modifying the design?
+## Why does my carousel and stories disappear/do not appear on my website after modifying the design?
 
 It could be related to the **Minimum number of videos** feature. Please ensure that it's always set to **1** to be on the safe side. 
 
