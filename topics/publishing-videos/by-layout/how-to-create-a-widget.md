@@ -1,4 +1,4 @@
-## How to create a Widget (Branching version, also used for Founder Widget/Story)?
+## How to create a Widget (Branching version, floating video, also used for Founder Widget/Story)?
 
 Video branching only works on branching widgets and embedded videos. It doesn't apply to feeds like swipeable widgets, stories, carousels, hero, and TV pages.
 
