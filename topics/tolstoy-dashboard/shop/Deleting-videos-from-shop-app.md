@@ -1,4 +1,4 @@
 
-## Deleting videos from shop app
+## Deleting videos from Shop app
 
-You may hoever over the vidoe and click the "-" icon. That should remove the video
+You may hover over the video and click the "hide" icon on the upper right. That should remove the video from your Shop app.
