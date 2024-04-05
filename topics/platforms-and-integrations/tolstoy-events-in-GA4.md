@@ -2,14 +2,21 @@
 
 ### Main Event Names (Actions):
 
-**“tolstoyPageView”** event of Tolstoy loaded on a page, for widget this means also view as it is always visible on the page.
-**“tolstoyEmbedView”** - event of Tolstoy element (carousel, stories) viewed on the page, fired when the user scrolls to the element on the screen.
-**“tolstoyStarted”** click to play Tolstoy (click on the widget/carousel/stories).
-**“click”** with label of **button text** - click on an interactive button for branching video.
-**“tolstoyFeedScroll”** - scroll to next video in feed
-**“tolstoyModalClose”** close tolstoy modal event, with label of seconds opened.
-**“tolstoyVideoLoaded**-products” Current video playing with label of tagged products.
-**“tolstoyVideoLoaded-videoName”** Current video playing with label of video name.
+1. **“tolstoyPageView”** event of Tolstoy loaded on a page, for widget this means also view as it is always visible on the page.
+
+2. **“tolstoyEmbedView”** - event of Tolstoy element (carousel, stories) viewed on the page, fired when the user scrolls to the element on the screen.
+
+3. **“tolstoyStarted”** click to play Tolstoy (click on the widget/carousel/stories).
+
+4. **“click”** with label of **button text** - click on an interactive button for branching video.
+
+5. **“tolstoyFeedScroll”** - scroll to next video in feed
+
+6. **“tolstoyModalClose”** close tolstoy modal event, with label of seconds opened.
+
+7. **“tolstoyVideoLoaded**-products” Current video playing with label of tagged products.
+
+8. **“tolstoyVideoLoaded-videoName”** Current video playing with label of video name.
 
 ### Additional events:
 
