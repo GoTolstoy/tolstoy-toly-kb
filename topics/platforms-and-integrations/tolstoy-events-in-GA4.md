@@ -21,16 +21,29 @@
 ### Additional events:
 
 tolstoyReachedEnd - reached end
+
 tolstoyLeadFormSubmit - submit of lead form
+
 Input with label of text - submit text response
+
 tolstoyVideoSubmit - submit video response
+
 tolstoyAudioSubmit - submit audio response
+
 tolstoyImageSubmit - submit image response
+
 tolstoyFeedPause - click on pause in the feed
+
 tolstoyFeedPlay - click on play in the feed
+
 tolstoyVideoLoaded - video loaded in the feed
+
 tolstoyFeedNavigationArrowClick- click on arrow in the feed
+
 tolstoyFeedProductModalOpen - click on product info in feed
+
 tolstoyFeedProductModalClose - click on close product info in feed
+
 tolstoyOpenShareLink - click on a share platform
+
 tolstoyClickViewProduct - click on view product (URL product default)
