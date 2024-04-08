@@ -47,3 +47,47 @@ tolstoyFeedProductModalClose - click on close product info in feed
 tolstoyOpenShareLink - click on a share platform
 
 tolstoyClickViewProduct - click on view product (URL product default)
+
+tolstoyAddToCart - click on add to cart button
+
+tolstoyCartItemQuantityChange - click on quantity change button (- or +)
+
+tolstoyClickCart - click the view cart button
+
+tolstoyClickViewProduct - click a specific product from multiple tagged product on video
+
+tolstoyDescriptionActionButtonClick - expand the product description accordion
+
+tolstoyEmbedView - view tolstoy (stories/carousel) on viewport or screen view
+
+tolstoyFeedMenuModalClose - close modal after clicking […] menu
+
+tolstoyFeedNavigationArrowClick - click on arrow in the feed
+
+tolstoyFeedPause - click on pause in the feed
+
+tolstoyFeedPlay - click on play in the feed
+
+tolstoyFeedProductModalClose - click on close product info in feed
+
+tolstoyFeedProductModalOpen - click on product info in feed
+
+tolstoyFeedScroll - either swipe action or clicking the up/down arrow to play next/previous video
+
+tolstoyModalClose - close tolstoy modal event, with label of seconds opened
+
+tolstoyPageView - fires when landed on a page with Tolstoy
+
+tolstoyStarted - Start button clicked for the first time
+
+tolstoyVideoLoaded-products - Current video playing with label of tagged products
+
+tolstoyVideoLoaded-videoName - Current video playing with label of video name
+
+tolstoyVideoMuted - click mute button
+
+tolstoyVideoSeeked - move the timebar within the video
+
+tolstoyVideoUnmuted - click unmute button
+
+tolstoyVideoWatched - when someone completed watching a video
