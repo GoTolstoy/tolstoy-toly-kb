@@ -1,6 +1,6 @@
 ## Product Overview
 
-UGC Search allows you to search for user-generated content on Instagram that you're tagged in or that uses specific hashtags. Users will be able to see the content and browse which content they would like to use on their channels through Tolstoy. From there, they can either add it directly to the library (if they already have usage rights) or request usage rights from the creator, monitored automatically through the platform.
+UGC Search allows you to search for user-generated posts on Instagram that you're tagged in or that uses specific hashtags. Users will be able to see the content and browse which content they would like to use on their channels through Tolstoy. From there, they can either add it directly to the library (if they already have usage rights) or request usage rights from the creator, monitored automatically through the platform.
 
 ## User Flow
 
