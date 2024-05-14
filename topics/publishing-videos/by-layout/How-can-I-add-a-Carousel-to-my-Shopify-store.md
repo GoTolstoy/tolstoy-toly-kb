@@ -4,7 +4,6 @@
 
 ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/caaa7bdd-122a-4562-8c5a-ecbfaae3a8b7)
 
-
 2. Click ‘Create from scratch’.
 
 ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/fa5efde9-5d29-4977-8b5b-e02529634501)
