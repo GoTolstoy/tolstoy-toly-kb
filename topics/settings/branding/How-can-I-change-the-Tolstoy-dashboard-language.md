@@ -1,3 +1,5 @@
 ## How can I change the Tolstoy dashboard language?
 
-There’s currently no option to change the language of the Tolstoy dashboard, however if you want to change the language for system buttons for the Tolstoy videos that will display on your website, you can click your profile (bottom right) > Settings > Branding > Settings > change the Front facing language from there.
+You may navigate and click on your Profile > Settings > My workspace > App Language.
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/a840baa8-37e0-40a4-83df-2e9876e893f8)
