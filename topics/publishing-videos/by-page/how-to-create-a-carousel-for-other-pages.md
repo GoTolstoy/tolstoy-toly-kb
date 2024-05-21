@@ -30,7 +30,15 @@ Once you have created the Carousel, you will be redirected to its own dashboard.
 ### In a Carousel project dashboard, you’ll find 3 tabs:
 
 1. **Videos**: Manage which videos will be shown for the specific project.
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/75a03131-e529-4d71-973a-973eeb28adc7)
+
+
 2. **Design**: Edit the appearance of the Carousel and customize the player feed.
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/c4d29ed0-039d-4ac9-a474-40902a2143d6)
+
+
    - In the Design tab of the Carousel, there are 4 dropdowns:
      - **Widget**
        - Tip: The default carousel type offers more customization choices. However, we're continuously exploring ways to enhance customization for Spotlight type carousels.
@@ -100,3 +108,6 @@ Once you have created the Carousel, you will be redirected to its own dashboard.
        - Buttons: Allows you to customize button shape and radius, etc.
 
 3. **Analytics**: This is where you can see the analytics of the specific project.
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/4f530f48-2413-46f4-9cfc-f335cb6e6eb9)
+
