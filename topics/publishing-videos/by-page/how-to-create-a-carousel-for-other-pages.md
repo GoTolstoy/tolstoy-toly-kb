@@ -45,19 +45,19 @@ Once you have created the Carousel, you will be redirected to its own dashboard.
        - Horizontal spacing: Refers to the amount of empty or filled space between carousels arranged side by side.
        - Horizontal padding: Refers to the extra space on the left and right sides of the carousel.
        - Vertical padding: Refers to the extra space above and below the carousel.
-     - **Border**
+     - Border
        - Border thickness: Customize the thickness of the border around your Carousel, creating a more distinct and defined look.
        - Border color: Customizes the color of the border around your Carousel, allowing you to match your brand's color scheme.
-     - **Title**
+     - Title
        - Text: Adds a title to your Carousel, providing context and information to your viewers.
        - Text size: Allows customization of the size of the text displayed in the embedded video player.
        - Text weight: Allows customization of the thickness of the text displayed in the embedded video player.
        - Text color: Allows customization of the color of the text displayed in the embedded video player.
-     - **Tile name** When toggled, it will be based on the video name that is set in Tolstoy Dashboard > Library section (you can also rename the video from there).
+     - Tile name When toggled, it will be based on the video name that is set in Tolstoy Dashboard > Library section (you can also rename the video from there).
        - Location: Choose between Under or Over.
        - Text size: Set to your preferred size.
        - Text color: Set to your preferred color.
-     - **Play Button**
+     - Play Button
        - Background: Visual backdrop of the play button.
        - Background color: Refers to the specific color assigned to the backdrop of the play button.
        - Border: Refers to the boundary surrounding the play button.
