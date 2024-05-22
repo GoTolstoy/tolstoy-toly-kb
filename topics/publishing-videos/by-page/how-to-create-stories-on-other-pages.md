@@ -14,7 +14,11 @@ If you want to publish stories/create Tolstoy Stories on other pages (not for Pr
    
    ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/0ecca92e-0c0c-4103-b123-4fbe336899f2)
 
-4. Choose where you want to display your Stories. You have the option to display them on Home pages, Collection pages, or Other pages. Pick the option that best fits your needs.
+4. Stories
+
+   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/52aa08ab-6c2c-49c9-8619-ecd3cbf95f72)
+
+5. Choose where you want to display your Stories. You have the option to display them on Home pages, Collection pages, or Other pages. Pick the option that best fits your needs.
    
    ![Step 4](https://downloads.intercomcdn.com/i/o/916305942/867079b38ac7e866d96a0172/image.png)
 
