@@ -22,7 +22,8 @@
 
 5. Choose Product pages, Collection pages, or Other pages. Pick the option that best fits your needs.
    
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/4c8d45de-2da0-43cc-8b62-59d59318c5c1)
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/78b97766-f9b1-4059-8538-70fa5dda8f34)
+
 
 
 Once you have created the Carousel, you will be redirected to its own dashboard. (**Note**: If you create a layout/feature, not just Carousel but for all types of layouts/features in the Onsite tab, it's referred to as a **Project**, and each project has its own dashboard.) Here, you can manage the Videos, Design, and Analytics of the project you created.
