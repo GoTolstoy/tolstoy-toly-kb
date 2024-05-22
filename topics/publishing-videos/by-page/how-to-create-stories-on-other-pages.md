@@ -28,9 +28,13 @@ Once you created the Stories, you will be redirected to its own dashboard (**Rem
 
 1. **Videos** - This is where you can manage what videos will show for the specific project.
 
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/7b6e92af-028d-473b-85df-82fa6f49ebdc)
 
    
 2. **Design** - This is where you can edit the looks of the Stories, and customize the player feed
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/8b02bddd-8c0f-4f76-91eb-36b654c3b98e)
+
 
 - In the Design tab of the Stories, there are 4 dropdowns:
   - **Widget**
@@ -94,3 +98,6 @@ Once you created the Stories, you will be redirected to its own dashboard (**Rem
 ​     Buttons - Allows you to customize button shape and radius etc.
 
 3. **Analytics** - This is where you can see the analytics of the specific project.
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/e724fbf1-fdfd-4a75-bc54-193bcd1162d1)
+
