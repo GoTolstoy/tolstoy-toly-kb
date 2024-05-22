@@ -32,7 +32,8 @@ Once you have created the Carousel, you will be redirected to its own dashboard.
 
 1. **Videos**: Manage which videos will be shown for the specific project.
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/75a03131-e529-4d71-973a-973eeb28adc7)
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/a2830b2a-907e-44cf-accb-a1af4a3f4b05)
+
 
 
 2. **Design**: Edit the appearance of the Carousel and customize the player feed.
