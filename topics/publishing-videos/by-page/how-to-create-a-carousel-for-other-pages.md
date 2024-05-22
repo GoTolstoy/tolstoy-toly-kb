@@ -20,7 +20,7 @@
 ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/f0bb58e1-01fd-4074-96be-8e21c9c23edd)
 
 
-5. Choose **Other pages**.
+5. Choose Product pages, Collection pages, or Other pages. Pick the option that best fits your needs.
    
 ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/4c8d45de-2da0-43cc-8b62-59d59318c5c1)
 
