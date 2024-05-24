@@ -24,7 +24,8 @@ Before you begin, make sure that you already tagged videos with products in your
 
 3. Go to your Shopify admin themes -> Customize.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/00ba24d0-c437-42c3-955d-9b0146342d91)
+   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/39192516-a6ab-4bc2-b81a-08090a4f1b89)
+
 
 
 4. In the home page, add section/block and look for Tolstoy Carousel or Tolstoy Stories (select based on what you created in the Tolstoy dashboard).
