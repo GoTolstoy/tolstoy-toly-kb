@@ -24,7 +24,7 @@ Before you begin, make sure that you already tagged videos with products in your
 
 3. Go to your Shopify admin themes -> Customize.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/39192516-a6ab-4bc2-b81a-08090a4f1b89)
+   
 
 
 
