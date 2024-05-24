@@ -1,6 +1,8 @@
 ## I want to add Tolstoy videos to my Shopify home page.
 
+
 Before you begin, make sure that you already tagged videos with products in your library. 
+
 
 1. In the Onsite tab, create the Tolstoy project that you want to display in your home page (Stories or Carousel).
 
