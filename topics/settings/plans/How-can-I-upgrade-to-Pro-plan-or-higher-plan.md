@@ -2,7 +2,7 @@
 
 To upgrade, click your profile letter on bottom left -> Settings -> Plans -> select the plan you want to upgrade.
 
-**Note:** We offer a free 14-day trial for the Pro and Business plans if you haven't tried it yet. :)
+**Note:** We offer a free 14-day trial for the Pro and Business plans if you haven't tried it yet. 🙂
 
 ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/17823dc5-ab44-45ea-a7ec-b01949ec056c)
 
