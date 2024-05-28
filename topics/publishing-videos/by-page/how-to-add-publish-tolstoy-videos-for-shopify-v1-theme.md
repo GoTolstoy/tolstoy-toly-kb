@@ -2,7 +2,13 @@
 
 1. In your Tolstoy Dashboard to Onsite > select the Tolstoy project/video you created > click the “Publish” button on the top right > click the “Use code instead” dropdown and click “Copy code”
 
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/e7cfdade-7b0f-4df1-88fa-225f38bb4f07)
+
+
 2. Once you copied the code, go to your Shopify admin > Online Store > Themes > click on the three dots of the theme where you want to add the Tolstoy video > click Edit code
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/383b3309-30ee-4bb9-89b3-1de26991eafc)
+
 
 3. You now need to find the file of the page where you want to add the Tolstoy, if you’re adding it in a product page usually the file name is product-template.liquid but if not you may need to ask a help from your dev team.
 

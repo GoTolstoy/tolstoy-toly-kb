@@ -31,4 +31,4 @@
 4. Click on Link. ![screenshot](https://tolstoy-2c549356d0c0.intercom-attachments-1.com/i/o/677517706/7228844f573e43e3450a6567/ae762849-8ba5-4bdb-9882-c4c058fdba8a.png)
 5. Select Pages. ![screenshot](https://tolstoy-2c549356d0c0.intercom-attachments-1.com/i/o/677517723/9312384d55e288fdde58e942/fc28dbc9-30e4-4c14-8562-6764beacfac0.png)
 6. Choose the page you want to add. ![screenshot](https://tolstoy-2c549356d0c0.intercom-attachments-1.com/i/o/677517738/b53adcdad96224916ebf22d4/2adb00b2-22da-429c-af67-ea6cd287eb80.png)
-7. Once you're done, click on add. ![screenshot](https://tolstoy-2c549356d0c0.intercom-attachments-1.com/i/o/677517752/49e6ddc5c8f08c5405bb92de/02a07765-82f6-4e27-8cc6-521fbd54fae8
+7. Once you're done, click on add. ![screenshot](https://tolstoy-2c549356d0c0.intercom-attachments-1.com/i/o/677517752/49e6ddc5c8f08c5405bb92de/02a07765-82f6-4e27-8cc6-521fbd54fae8.png)

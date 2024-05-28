@@ -2,7 +2,13 @@
 
 1. Click the Tolstoy stories you want to remove. On the top right, click “Pause”.
 
-2. Your stories are now temporarily removed from your Shopify store. To add the stories back, you can simply click “Publish” then, “Done”.
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/2dd4e8aa-12f7-4d9e-8d67-ed5b8f9a81ab)
+
+
+2. Your stories are now temporarily removed from your Shopify store. To add the stories back, you can simply click “Publish”.
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/a0d09044-09b6-4668-9046-b0d893c8938e)
+
 
 **Additional questions:**
 
