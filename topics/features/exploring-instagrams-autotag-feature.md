@@ -4,7 +4,7 @@ The Autotag feature automatically tags products in Tolstoy videos for connected 
 
 ### Here's how to set it up:
 
-1. Go to Library -> Instagram -> Click the Autotag button.
+1. Go to Library -> Instagram -> Click the **Autotag** button.
 
    ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/50cf071e-1aaf-4c4d-81e7-58f43e165e09)
 
