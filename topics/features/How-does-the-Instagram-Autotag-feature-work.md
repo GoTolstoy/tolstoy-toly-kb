@@ -1,4 +1,4 @@
-## Exploring Instagram's Autotag Feature
+## How does the Instagram Autotag feature work?
 
 The Autotag feature automatically tags products in Tolstoy videos for connected Instagram accounts, using the products tagged with Instagram Shopping tags.
 
