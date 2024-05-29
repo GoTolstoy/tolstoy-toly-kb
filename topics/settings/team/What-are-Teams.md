@@ -10,4 +10,5 @@ Currently, there are two roles team members may have.
 **Owner** - the workspace creator. Can access all personal libraries.
 **Admin** - Added by the creator to the workspace. Has full access to the team library and their own personal library, but doesn't have access to other team members' personal libraries.
 ​
+
 ​**Note: Only the account owner can gain access to the billing section.**
