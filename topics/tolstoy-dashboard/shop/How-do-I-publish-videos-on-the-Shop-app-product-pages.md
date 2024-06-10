@@ -65,4 +65,4 @@ To hide or remove the feed from your Shop product page, simply click the orange 
 ![Pausing your feed](https://downloads.intercomcdn.com/i/o/956788808/46e43ff7f0e1964fce2cff4b/image.png)
 
 **Important:**
-When you're ready to relaunch the feed, click the Publish button to make your feed visible and live in your Shop PDPs.
+When you're ready to relaunch the feed, click the Publish button to make your feed visible and live in your Shop PDPs. Also, our videos only appear on the **SHOP mobile app**. They are not shown on SHOP app browser site.
