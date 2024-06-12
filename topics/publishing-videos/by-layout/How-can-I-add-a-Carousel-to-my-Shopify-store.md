@@ -89,9 +89,9 @@ Go to your Shopify theme, click on the three dots, and choose Edit code.
 This is how to make the title go with the site's font.
 
 
-Add this code to the carousel's code in the custom liquid. Change the <your own font> to the font's code.
+Add this code to the carousel's code in the custom liquid. Change the (your own font) to the font's code.
 
 .tolstoy-carousel-title 
 { 
-font-family:<your own font> !important; 
+font-family:(your own font) !important; 
 }
