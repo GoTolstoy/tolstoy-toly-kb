@@ -2,7 +2,7 @@
 
 Displaying stories is a great way to engage your customers and add more content to your Shopify store. You can easily display stories in your store in a few simple steps.
 
-1. Create Tolstoy stories.
+1. Create Tolstoy stories (https://help.gotolstoy.com/en/articles/8736137-how-to-create-product-pages-stories-pdp-stories).
 2. Click on Publish. 
    ![Publish](https://downloads.intercomcdn.com/i/o/887797007/1ed691b0669479e5e10fecba/image.png)
 3. Copy ID and click "Done". 
