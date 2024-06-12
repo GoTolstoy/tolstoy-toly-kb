@@ -43,10 +43,10 @@
 ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/12db9fcf-3479-454e-be79-85c2efc0fe53)
 
 
-If you can't find the 'Tolstoy carousel' on your Shopify product page, copy the code by:
+If you can't find the 'Tolstoy carousel' on your Shopify product page, copy the code by clicking on the "Published" button in the Tolstoy app.
 
- - Clicking on the drop-down alongside "Pause" (this indicates the carousel is live) or "Publish" (make sure to click this to set the carousel live and choose Done) button in the Tolstoy app.
-- Go to your Shopify theme, click on the three dots, and choose Edit code.
-- ​Type product in the search field. Under Sections or Snippets, whichever is applicable, click on product-template.liquid and paste the code into your product page's template liquid in your desired position. Go to your selected page to see your carousel in action.
+Go to your Shopify theme, click on the three dots, and choose Edit code.
+
+​Type product in the search field. Under Sections or Snippets, whichever is applicable, click on product-template.liquid and paste the code into your product page's template liquid in your desired position. 
 
 
