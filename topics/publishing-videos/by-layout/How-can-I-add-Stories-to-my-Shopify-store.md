@@ -4,9 +4,14 @@ Displaying stories is a great way to engage your customers and add more content 
 
 1. Create Tolstoy stories (https://help.gotolstoy.com/en/articles/8736137-how-to-create-product-pages-stories-pdp-stories).
 2. Click on Publish. 
-   ![Publish](https://downloads.intercomcdn.com/i/o/887797007/1ed691b0669479e5e10fecba/image.png)
-3. Copy ID and click "Done". 
-   ![Copy ID](https://downloads.intercomcdn.com/i/o/887798503/ad2ff6da846c8a50d2714d99/image.png)
+   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/0eba6163-4bed-4a97-94fb-58a10dc03a0f)
+
+3. Scroll down to Step 3 and copy the Publish ID. 
+   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/7a68052e-027d-415d-a2cc-0167e09e8069)
+
+   Here's the Publish/Feed ID in Settings.
+   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/632b8002-6e1d-4f78-8fe9-e7fb71bb5ca3)
+
 4. Go to your Shopify theme and click Customize. 
    ![Customize](https://downloads.intercomcdn.com/i/o/686518798/4f2913b8b5c88aa190370be4/image.png)
 5. Go to the App embeds panel and make sure that Tolstoy is toggled ON. 
@@ -26,19 +31,20 @@ Displaying stories is a great way to engage your customers and add more content 
 12. Paste the Publish ID, and click "Save". 
     ![Paste ID](https://tolstoy-2c549356d0c0.intercom-attachments-1.com/i/o/686531761/1f3504c82cabcc4e3fd5a6da/147918f2-0366-4be9-a3b2-ddd8ff3eec8b.png)
 
-If you can’t find “Tolstoy Story” in your Shopify sections, copy the following code and paste it into your page, in the position you desire.
+**Here's a publishing tutorial : https://share.synthesia.io/6c4e3381-4e16-4d12-b11d-54f508fc7601**
 
-```html
-<tolstoy-stories
-  data-tags="{% for tag in product.tags -%}{{ tag }},{%- endfor %}"
-  class="tolstoy-stories"
-  data-publish-id="PASTE ID HERE" 
-  data-product-id="{{ product.id }}">
-</tolstoy-stories>
+If you can’t find “Tolstoy stories” in your Shopify sections, copy the following code and paste it into your page, in the position you desire.
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/0b72978d-dd77-48d6-adbd-41397966645f)
 
 
+You can find the code by clicking the **Published** button, then  **</> No app blocks? Use code instead**
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/52c78c81-1109-4e60-ad3f-8c07361edca3)
 
-You can find the code by clicking the drop-down alongside the Publish/Pause button, then </> Use code instead. (screenshot image: https://downloads.intercomcdn.com/i/o/887802984/95f28485cdd2db7062687551/image.png)
 ​
-Go to your Shopify theme, click on the three dots, and choose Edit code. (screenshot image: https://downloads.intercomcdn.com/i/o/686865258/fa415b4c597ae70d6d16b115/image.png)
+Go to your Shopify theme, click on the three dots, and choose Edit code. 
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/3f761b2a-ba1d-4932-b227-32393542a0d3)
+
+
 Type product in the search field. It's usually under Sections or Snippets, click on product-template.liquid and paste the code into your product page's template liquid in your desired position.
+
+**Video tutorial: https://share.synthesia.io/bd6215d0-bc3b-40de-8487-0d1a2e6a5997**
