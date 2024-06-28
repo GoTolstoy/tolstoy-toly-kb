@@ -1,0 +1,44 @@
+version: 2.1
+
+orbs:
+  aws-cli: circleci/aws-cli@2.0.3
+
+jobs:
+  backup-git:
+    docker:
+      - image: cimg/base:current
+    steps:
+      - checkout
+      - aws-cli/setup:
+          aws-access-key-id: AWS_ACCESS_KEY_ID
+          aws-secret-access-key: AWS_SECRET_ACCESS_KEY
+          profile-name: AWS_USER
+      - run:
+          name: Get Commit Diff
+          command: |
+            git diff --name-only HEAD~3 HEAD > commit_diff.txt
+            git diff --name-only HEAD~3 --diff-filter=D HEAD > deleted_commit_diff.txt
+            path_list=$(jq -Rs 'split("\n") | del(.[] | select(. == ""))' commit_diff.txt)
+            deleted_list=$(jq -Rs 'split("\n") | del(.[] | select(. == ""))' deleted_commit_diff.txt)
+
+            JSON_PAYLOAD=$(jq -n \
+              --arg repo_name "$CIRCLE_PROJECT_REPONAME" \
+              --argjson path_list "$path_list" \
+              --argjson deleted_list "$deleted_list" \
+              '{repo_name: $repo_name, path_list: $path_list, deleted_list: $deleted_list}'
+            )
+            echo $JSON_PAYLOAD > payload.json
+      - run:
+          name: Sync to S3
+          command: |
+            aws s3 sync ./introduction-to-tolstoy/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/introduction-to-tolstoy/ --delete
+            aws s3 sync ./topics/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/topics/ --delete    
+
+workflows:
+  version: 2
+  backup-on-commit:
+    jobs:
+      - backup-git:
+          filters:
+            branches:
+              only: master
