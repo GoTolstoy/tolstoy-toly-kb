@@ -33,8 +33,7 @@ jobs:
       - run:
           name: Sync to S3
           command: |
-            aws s3 sync ./introduction-to-tolstoy/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/introduction-to-tolstoy/ --delete
-            aws s3 sync ./topics/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/topics/ --delete
+            aws s3 sync . s3://tolstoy-toly-kbs/tolstoy-toly-kb/ --delete --exclude ".circleci/*" --exclude "README.md"
       - run:
           name: Trigger embeddings
           command: |
