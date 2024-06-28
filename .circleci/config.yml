@@ -28,11 +28,21 @@ jobs:
               '{repo_name: $repo_name, path_list: $path_list, deleted_list: $deleted_list}'
             )
             echo $JSON_PAYLOAD > payload.json
+      - store_artifacts:
+          path: payload.json
       - run:
           name: Sync to S3
           command: |
             aws s3 sync ./introduction-to-tolstoy/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/introduction-to-tolstoy/ --delete
-            aws s3 sync ./topics/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/topics/ --delete    
+            aws s3 sync ./topics/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/topics/ --delete
+      - run:
+          name: Trigger embeddings
+          command: |
+            aws lambda invoke \
+              --function-name TRIGGER_EMBEDDING \
+              --cli-binary-format raw-in-base64-out \
+              --payload file://payload.json  \
+              response.json
 
 workflows:
   version: 2
