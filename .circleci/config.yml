@@ -37,6 +37,7 @@ jobs:
             aws s3 sync ./topics/ s3://tolstoy-toly-kbs/tolstoy-toly-kb/topics/ --delete
       - run:
           name: Trigger embeddings
+          echo "Function Name: $TRIGGER_EMBEDDING"
           command: |
             aws lambda invoke \
               --function-name $TRIGGER_EMBEDDING \
