@@ -1,4 +1,4 @@
-## Everything You Need to Know Getting Started with the Free Package
+## Everything You Need to Know Getting Started with the Free Package 
 
 Welcome to Tolstoy! We're excited to introduce you to our Free Package, perfect for brands eager to get their videos on the Shop app quickly and easily. Whether you're just starting out or looking to explore our platform, this package offers essential tools to enhance your video marketing strategy.
 
