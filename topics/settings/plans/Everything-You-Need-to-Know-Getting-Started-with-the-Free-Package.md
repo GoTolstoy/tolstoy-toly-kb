@@ -19,4 +19,4 @@ Benefit from responsive live chat support to address any queries or technical is
 Integrate seamlessly with leading e-commerce platforms like Shopify and Salesforce Commerce Cloud, social media channels such as TikTok and Instagram, and cloud storage solutions including Google Drive and Dropbox. Expand your reach and streamline workflows by connecting Tolstoy with CRM systems like HubSpot and support tools like Intercom and Zendesk, facilitating comprehensive customer engagement strategies.
 
 
-Get started today with Tolstoy's Free Package and discover how easy it is to showcase your brand through compelling videos. For more info, click [https://www.gotolstoy.com/pricing#]. Have questions? Reach out to our team—we're here to help you every step of the way!
+Get started today with Tolstoy's Free Package and discover how easy it is to showcase your brand through compelling videos. For more info, click [here](https://www.gotolstoy.com/pricing#). Have questions? Reach out to our team—we're here to help you every step of the way!
