@@ -1,7 +1,7 @@
-## How to Change Your Billing Information
+To cancel your account, please follow these steps:
+1. Log into your Tolstoy dashboard.
+2. Navigate to the 'Settings' tab.
+3. Click on 'Billing'.
+4. At the bottom of the page, you will find an option to 'Cancel Subscription'. Follow the prompts to confirm cancellation.
 
-1. Click your Tolstoy profile (bottom left). ![Click your Tolstoy profile](https://downloads.intercomcdn.com/i/o/940656816/3ca7679464f4f4a81c5d1856/image.png)
-   
-2. Click on Settings and navigate to the Billing tab. ![Navigate to Billing tab](https://downloads.intercomcdn.com/i/o/940661406/a99325ce4e7ae03badfc1a70/image.png)
-   
-3. Update your billing information and click on Save once you're ready. ![Update and Save](https://downloads.intercomcdn.com/i/o/545664017/39d4946490ce0622fed196ac/image.png)
+If you need further assistance, please contact our support team by clicking the 'Talk to support' button, and we will be happy to assist you.
