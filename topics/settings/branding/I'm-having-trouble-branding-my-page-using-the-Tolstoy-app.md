@@ -1,3 +1,1 @@
-## I'm having trouble branding my page using the Tolstoy app.
-
-Branding or adding a logo to your Tolstoy feeds/videos is a premium feature. You need to be on the Pro plan or higher. You can still add an email logo on the Free plan, though.
+Ensure that the logo file meets the required specifications (e.g., file size, format). Check if there are any browser-specific issues by trying different web browsers or clearing the cache. If the problem persists, contact support for further assistance.
