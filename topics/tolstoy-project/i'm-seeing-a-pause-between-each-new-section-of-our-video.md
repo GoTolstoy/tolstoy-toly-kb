@@ -1,3 +1,7 @@
-## I'm seeing a pause between each new section of our video – is there a way to have the questions pop up immediately?
+## Troubleshooting 0 Sec Watch Time Issue
+If you encounter a situation where all responses on your video are showing 0 sec watch time, this may indicate a potential glitch or issue with the analytics tracking. Here are steps you can take:
+1. Verify the video plays normally on different devices.
+2. Check if the issue persists across different videos or just a specific one.
+3. Contact support immediately as this might require further investigation by our development team.
 
-Click your video > Look for the clock icon on the Videos tab (you’ll see this in the video player preview on the right) and make sure the button’s appearance time is set to 00:00. Click the green check mark once done.
+It's important to report these issues as they help us improve and ensure accurate analytics.
