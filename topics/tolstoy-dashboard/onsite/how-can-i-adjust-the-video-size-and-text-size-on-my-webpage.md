@@ -1,3 +1,1 @@
-## How can I adjust the video size and text size on my webpage?
-
-To adjust the video size and text size of a Tolstoy video on your webpage. You can go to Tolstoy Dashboard > Onsite > select the Tolstoy project you want to edit > Design tab > look for the Item Size or Text Size in the available dropdowns.
+Ensure to clarify that font adjustments are possible under the Free plan but may require specific steps or conditions to be met for changes to take effect on the website. Provide a step-by-step guide on how to adjust fonts effectively under different plans.
