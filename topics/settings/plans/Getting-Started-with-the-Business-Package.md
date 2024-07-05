@@ -1,4 +1,4 @@
-## Everything You Need to Know Getting Started with the Business Package
+## Getting Started with the Business Package
 
 Welcome to Tolstoy! We're excited to introduce you to our Business Package, designed for brands with 30K-100K visitors per month and those with multiple stores. This comprehensive package empowers you to scale your video marketing efforts across various platforms and locations effectively.
 
