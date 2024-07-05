@@ -1,4 +1,4 @@
-## Everything You Need to Know Getting Started with the Enterprise Package
+## Getting Started with the Enterprise Package
 
 Welcome to Tolstoy! We're excited to introduce you to our Enterprise Package, ideal for brands with over 100K visitors per month on their websites. With unlimited views and advanced features, this package ensures your video content reaches its maximum potential, supporting your brand's growth and visibility.
 
