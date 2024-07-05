@@ -1,4 +1,4 @@
-## Everything You Need to Know Getting Started with the Pro Package
+## Getting Started with the Pro Package
 
 Welcome to Tolstoy! We're excited to introduce you to our Pro Package, tailored for brands with under 30K visitors per month on their websites. This package offers enhanced features to maximize engagement and conversions through video content, all at an affordable monthly rate.
 
