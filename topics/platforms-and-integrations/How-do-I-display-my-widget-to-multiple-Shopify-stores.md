@@ -1,4 +1,4 @@
-## How do I connect Tolstoy to multiple Shopify stores?
+## How do I display my widget to multiple Shopify stores?
 
 At Tolstoy, we understand that businesses operate with multiple stores. To help you manage all stores in one place, we’ve made it possible to connect your Tolstoy app to multiple Shopify stores.
 
