@@ -6,7 +6,8 @@ If you need to use the same widget across multiple stores, you can display it in
 
 Here's how to do it:
 
-1. Install the Tolstoy app in your Shopify stores.
+1. Install the Tolstoy app in your Shopify stores. ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/e42c7ab0-63c0-4f58-9b2a-e87d492e5252)
+
 2. On the Tolstoy app/dashboard, click the dropdown option to access your stores in the upper left corner.
    ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/43e62d92-b857-4757-afc1-49d20018edae)
 
