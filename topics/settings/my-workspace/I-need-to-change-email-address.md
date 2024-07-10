@@ -1,15 +1,6 @@
-## I need to change email address
+To change the email address associated with your account, you currently need to create a new account with your desired email and then transfer the ownership of the workspace to the new account. Here are the steps:
+1. **Create a New Account**: Sign up with the new email address you want to use.
+2. **Invite the New Account as a Team Member**: From your current account, invite the new account to join your workspace.
+3. **Transfer Ownership**: Once the new account accepts the invitation, you can transfer the ownership of the workspace to it.
 
-Unfortunately, we cannot change the email used in the account. But we have two options:
-1. Downgrade your current account. Create a new account with correct email address
-2. Create a new account with the correct email address. Invite the new account as a team member on your workspace. Accept the invitation sent on email. Change the account ownership.
-​
-
-​**How can I add team members to my Tolstoy account?**
-https://help.gotolstoy.com/en/articles/5752903-how-can-i-add-team-members-to-my-tolstoy-account
-​
-
-​**How can I change the owner of my account?**
-https://help.gotolstoy.com/en/articles/6386297-how-can-i-change-the-owner-of-my-account
-
-
+Please note, direct changing of the email linked to your account is not supported at this time.
