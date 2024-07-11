@@ -23,3 +23,6 @@ Our business plan starts at $299 per month, offering Unlimited Tolstoys and 50,0
 The Enterprise plan provides a fixed price and offers unlimited Tolstoy views, the option to remove Tolstoy branding, and the ability to create a custom landing page. This plan also features customized analytics, VIP support, a dedicated Success Manager, and regularly conducts strategy and performance analysis.
 
 💡Tip: The Enterprise plan is best for brands with over 100K visitors/month and brands seeking enterprise-grade service level.
+
+
+Please note that only the Free, Pro, Business, and Enterprise packages are currently offered. Previously offered packages are no longer available, except for users who previously availed of the White Label package, who can continue to access those specific features.
