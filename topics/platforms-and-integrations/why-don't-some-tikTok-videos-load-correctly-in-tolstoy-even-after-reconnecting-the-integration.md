@@ -1,3 +1,1 @@
-## Why don't some TikTok videos load correctly in Tolstoy even after reconnecting the integration?
-
-Tolstoy only works with actual videos and not images or carousels. Make sure the content you're trying to load is a video.
+Ensure that your Instagram and TikTok accounts are properly integrated by checking the integration settings in your Tolstoy account. For Instagram, only videos created directly on your account are pulled, and tagged videos are not included. For TikTok, ensure the content is in video format as images or carousels are not supported. If issues persist, consider reconnecting your integrations and allow up to 24 hours for videos to synchronize after integration. Additionally, check for any browser issues such as needing to clear cache or use incognito mode if videos are not loading properly.
