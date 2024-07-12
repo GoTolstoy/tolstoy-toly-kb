@@ -1,7 +1,7 @@
 ## Image Carousels
 
 
-# Product Overview
+### Product Overview
 
 Image carousels allow brands with static images to engage users with more content by combining multiple images into a single, interactive asset. By incorporating image carousels into your widgets and feeds, you can showcase your products in a visually appealing and engaging way alongside your videos, encouraging customers to explore more of your content.
 
@@ -11,7 +11,7 @@ Image carousels seamlessly integrate with your existing assets and offer the fol
 - Automatically tag products from the underlying images
 - Easily add carousels to playlists and use them in widgets, just like images and videos
 
-## Set-up
+### Set-up
 
 ### Creating an Image Carousel
 
@@ -33,7 +33,7 @@ Once you have created an image carousel, you can easily incorporate it into your
 2. Use the image carousel in widgets, just as you would with images and videos
 3. The image carousel will appear on your site in the designated widget locations
 
-# Customer Experience
+### Customer Experience
 
 When customers visit your site, they will encounter image carousels seamlessly integrated into your widgets. The carousels will showcase your products and content in an engaging and interactive way.
 
@@ -42,7 +42,7 @@ In feeds, customers can interact with the image carousels by:
 - Swiping right and left to browse through the images in the carousel
 - Continuing to swipe through the rest of the feed after viewing the carousel
 
-# Best Practices
+### Best Practices
 
 To make the most of the image carousel feature, consider the following best practices:
 
