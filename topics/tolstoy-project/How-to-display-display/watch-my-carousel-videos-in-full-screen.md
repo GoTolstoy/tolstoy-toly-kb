@@ -1,5 +1,2 @@
-## How to display display/watch my carousel videos in full screen
-
-Go to the design tab and look for the feature 'View feed in fullscreen' turn on the toggle and it should provide you a better viewing experience. 
-
-Note: This is not applicable for Spotlight carousel. Only for default.  
+## How to Watch Carousel Videos in Full Screen
+To enable full screen viewing for carousel videos, navigate to the design tab and activate the 'View feed in fullscreen' feature. This setting is applicable only for default carousels and not for spotlight carousels, which do not support full screen mode.
