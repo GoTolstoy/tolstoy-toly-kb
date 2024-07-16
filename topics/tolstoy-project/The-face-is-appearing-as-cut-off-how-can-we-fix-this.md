@@ -1,3 +1,3 @@
-## The face is appearing as cut off. how can we fix this?
+# Design Customization
 
-Go to the project, then navigate to the design tab, click the widget subsection then adjust the video alignment. 
+When customizing the appearance of your Tolstoy videos, it's important to note that certain design elements like rounded edges are default settings for offsite and interactive videos and currently cannot be altered. This limitation ensures consistency in video presentation across various platforms.
