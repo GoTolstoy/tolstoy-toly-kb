@@ -1,7 +1,7 @@
-## How can I delete Instagram data?
+To delete your account, please follow these steps:
+1. Log into your Tolstoy dashboard.
+2. Navigate to the 'Account Settings' section.
+3. At the bottom of the page, you will find an option to 'Delete Account'.
+4. Click on 'Delete Account' and follow the instructions to confirm your decision.
 
-Connecting Instagram to Tolstoy allows you to import your video content from Instagram and use it in your video experiences on and off site.
-
-If you decide to remove the integration and want to delete all your imported data as well, you can contact our support using the chat at the right side corner or send an email to [support@gotolstoy.com](mailto:support@gotolstoy.com).
-
-After requesting to delete this content, your data will be removed within 7 days. You can follow-up on your ticket to ask about the request status.
+Please note that once your account is deleted, all data associated with it will be permanently removed and cannot be recovered.
