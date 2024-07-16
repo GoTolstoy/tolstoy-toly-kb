@@ -1,5 +1,10 @@
-## If we have a square video aspect ratio, how do we make it not cut on mobile?
+# Adjusting Video Display for Mobile
 
-For interactive videos - branching widgets and embedded, you can choose "fit to screen" (both arrows pointing outwards) for a perfect mobile view. Just go to Onsite > select the Tolstoy project that you want to adjust > Videos tab > on the video player preview on the right, click fit to screen.
+When creating interactive videos, it's crucial to ensure that all elements are visible and accessible on mobile devices. Here are the steps to adjust the display settings:
 
+1. Go to your Tolstoy Dashboard.
+2. Navigate to **Onsite** and select the Tolstoy project you want to edit.
+3. Click on the **Design** tab.
+4. Adjust the **Item Size** option in the dropdowns to ensure all elements fit within the mobile screen.
 
+If the **Text Size** option is not available, adjusting the overall item size can help make the content more mobile-friendly.
