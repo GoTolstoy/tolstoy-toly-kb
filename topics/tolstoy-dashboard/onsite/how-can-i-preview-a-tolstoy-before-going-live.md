@@ -1,7 +1,14 @@
-## How can I preview a Tolstoy before going live?
+## Maximizing Tolstoy for B2B Marketing
+As a B2B marketing consultant, leveraging interactive videos can significantly enhance your client engagement and lead generation. Here are some advanced tips:
 
-To preview your Tolstoy, follow these simple steps:
+1. **Lead Qualification**: Utilize interactive elements like questions and lead forms to qualify leads effectively. Tailor questions to filter leads based on budget, position, and urgency.
 
-1. On the builder tab, click on Preview in the top right corner of the screen. (screenshot image of this step: ![Step 1](https://downloads.intercomcdn.com/i/o/888389428/4b30fa58e48e8588092b505c/image.png))
+2. **Client Testimonials**: Encourage clients to create video testimonials. Guide them on how to record impactful messages that resonate with your target audience.
 
-2. Your Tolstoy will open up in a new window that will show you what your Tolstoy would look like. (screenshot image of this step: ![Step 2](https://downloads.intercomcdn.com/i/o/888390582/c6562c45acd1641ab37d9a30/image.png))
+3. **Educational Content**: Create content that not only informs but also engages. Use interactive quizzes or polls to make learning about your services interactive.
+
+4. **Personal Interaction**: Implement video responses to add a personal touch to your interactions, making your consultancy feel more accessible and trustworthy.
+
+5. **Follow-ups and Notifications**: Set up notifications to keep track of interactions within your videos to enable timely follow-ups.
+
+These tailored strategies will help you use Tolstoy more effectively in your B2B marketing efforts.
