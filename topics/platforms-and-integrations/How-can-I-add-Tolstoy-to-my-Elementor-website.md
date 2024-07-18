@@ -1,7 +1,10 @@
-## How can I add Tolstoy to my Elementor website?
+# Embedding Tolstoy on Websites
 
-1. Search Code at your search bar. Then click and drag HTML and position it.
-2. In the Tolstoy Dashboard > Go to Onsite > select the Tolstoy Embed that you created > Install tab > copy the code.
-3. Paste the code (in Elementor HTML Block) and click Update. You're set! Check out the new awesome Tolstoy at your website!
+To embed Tolstoy on your website, including landing pages, follow these steps:
+1. Go to your Tolstoy Dashboard.
+2. Navigate to 'Onsite' and select the Tolstoy you want to embed.
+3. Click on the 'Install' tab.
+4. Copy the embed code provided.
+5. Paste this code into the HTML section of your website where you want the Tolstoy to appear.
 
-
+Note: If you are using widgets, the app won't provide any code since it's automatic. For manual embedding, ensure you are using the correct format as described above.
