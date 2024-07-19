@@ -1,4 +1,4 @@
-## Does Tolstoy Have a Video Editor?
+![image](https://github.com/user-attachments/assets/2d8450ed-d829-47ff-9e17-ebc046edb2b6)## Does Tolstoy Have a Video Editor?
 
 Tolstoy includes a Video Editor, which offers minor video editing support. This tool is not a full-fledged video editor but provides essential features to enhance your videos and improve their engagement potential.
 
@@ -6,6 +6,8 @@ Tolstoy includes a Video Editor, which offers minor video editing support. This 
 To start using the Video Editor in Tolstoy, follow these steps:
 1. Go to Your Project: Navigate to your project branching widget or embed project.
 2. Navigate to the Videos Tab: Within your project, head to the "Videos" tab.
+   ![image](https://github.com/user-attachments/assets/831a9f80-f219-4da7-8344-c95cfd998960)
+
 
 ### Video Editing Options
 In the Videos tab, you'll find a range of editing options:
