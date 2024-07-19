@@ -8,7 +8,8 @@ Getting started with your free trial is easy. Just follow these steps:
 2. Go to Settings: Navigate to the "Settings" section.
 3. Select Plans: Click on the "Plans" tab.
 4. Start Your Free Trial: Click "Start free 14-day trial for Pro" to begin your trial period.
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/a4772cb3-caab-4333-bbf0-af4950277dba)
+
+![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/a4772cb3-caab-4333-bbf0-af4950277dba)
 
 This trial gives you access to all the features of the Pro Package, allowing you to see firsthand how Tolstoy can help you create engaging, shoppable videos, and manage your video content more effectively.
 
