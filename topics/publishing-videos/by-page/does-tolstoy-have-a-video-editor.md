@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d8450ed-d829-47ff-9e17-ebc046edb2b6)## Does Tolstoy Have a Video Editor?
+## Does Tolstoy Have a Video Editor?
 
 Tolstoy includes a Video Editor, which offers minor video editing support. This tool is not a full-fledged video editor but provides essential features to enhance your videos and improve their engagement potential.
 
