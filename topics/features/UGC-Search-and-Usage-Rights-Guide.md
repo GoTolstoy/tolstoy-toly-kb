@@ -53,4 +53,4 @@ Once you've selected a post, you can access the content in two ways:
 By following these steps, you can effectively search for UGC, request usage rights, and manage approved content in the Tolstoy app.
 ​
 
-For a visual guide on the UGC Search and Usage Rights Request Process, you can refer to this (Loom video) [https://www.loom.com/share/71fb72893f1a4159a912c0e276c727b8]
+For a visual guide on the UGC Search and Usage Rights Request Process, you can refer to this [Loom video](https://www.loom.com/share/71fb72893f1a4159a912c0e276c727b8)
