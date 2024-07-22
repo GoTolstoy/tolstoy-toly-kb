@@ -68,6 +68,6 @@ To change whether you want the video to open in full screen or picture-in-pictur
 
 ![1 9](https://github.com/user-attachments/assets/363ff79d-5b13-4311-9412-963420603c08)
 
-### Troubleshooting
+## Troubleshooting
 
 If you don't see the GIF even though there is a fallback playlist set up, please contact support for assistance.
