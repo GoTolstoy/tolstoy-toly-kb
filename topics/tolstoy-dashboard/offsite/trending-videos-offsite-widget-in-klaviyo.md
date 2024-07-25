@@ -1,6 +1,6 @@
-# Offsite: Trending videos
+# Trending Videos Offsite Widget in Klaviyo
 
-The Trending Videos off-site widget is a versatile feature designed primarily for email campaigns but can also be used in flows. This guide will walk you through the process of setting up and configuring this widget for your e-commerce store.
+The Trending Videos offsite widget in Klaviyo is a versatile feature designed primarily for email campaigns but can also be used in flows. This guide will walk you through the process of setting up and configuring this widget for your e-commerce store.
 
 ## Getting Started
 Select "Trending videos" to begin creating your widget.
