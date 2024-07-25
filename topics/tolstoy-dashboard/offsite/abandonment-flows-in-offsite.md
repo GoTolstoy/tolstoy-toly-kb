@@ -1,6 +1,6 @@
-# Abandonment Flows off-site widget in Klaviyo
+# Abandonment Flows Offsite widget in Klaviyo
 
-The Abandonment Flows off-site widget in Klaviyo is a powerful new feature that allows you to dynamically populate videos based on product IDs featured in your email flows.
+The Abandonment Flows offsite widget in Klaviyo is a powerful new feature that allows you to dynamically populate videos based on product IDs featured in your email flows.
 
 ## Getting Started
 Select "Abandonment Flows" to begin creating your widget.
