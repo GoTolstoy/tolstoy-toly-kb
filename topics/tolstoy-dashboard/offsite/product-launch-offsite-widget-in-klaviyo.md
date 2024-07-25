@@ -1,6 +1,6 @@
-# Offsite: Product launch
+# Product Launch Offsite Widget in Klaviyo 
 
-The Product Launch off-site widget is designed to showcase a single product campaign. This guide will walk you through the process of setting up and configuring this widget.
+The Product Launch offsite widget in Klaviyo is designed to showcase a single product campaign. This guide will walk you through the process of setting up and configuring this widget.
 
 ## Getting Started
 Select "Product Launch" to begin creating your widget.
