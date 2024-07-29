@@ -1,4 +1,5 @@
 ## How can I set up a widget on a specific product page that opens up a window where customers can view video and shop products?
+## How can I set up a widget on a specific product page that opens up a window where customers can view video and shop products?
 
 You can choose between Stories or Swipeable Widget. Recommended is Stories or what we call Product page stories.
 
