@@ -1,4 +1,4 @@
-# App overview
+# App Overview
 
 The Tolstoy web app allows users to import, create, and curate videos and images, using them to build feeds that can be added to their sales channels. The primary users are e-commerce managers of medium-sized e-commerce brands using Shopify.
 
