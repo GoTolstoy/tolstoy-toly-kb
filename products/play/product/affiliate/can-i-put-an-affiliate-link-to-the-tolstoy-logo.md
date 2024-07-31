@@ -1,3 +1,3 @@
 ## Can I put an affiliate link to the Tolstoy logo?
 
-Currently, we only support sharing the affiliate link via social media. If you have any further questions or need assistance with affiliate marketing, please feel free to reach out to our head of affiliates, Nimrod, at nimrod@gotolstoy.com
+You can share your affiliate link on social media or in any other way you prefer, but we do not support putting an affiliate link on the Tolstoy logo. If you have any questions or need help with affiliate marketing, you can contact our head of affiliates, Nimrod, at nimrod@gotolstoy.com.
