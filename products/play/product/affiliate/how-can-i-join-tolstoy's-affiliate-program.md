@@ -1,6 +1,6 @@
 ## How can I join Tolstoy's Affiliate Program?
 
-We released Tolstoy's partner program! Receive a 30% commission for life by simply telling others the power of Tolstoy.
+We released Tolstoy's partner program! Receive a 15% commission for life by simply telling others the power of Tolstoy.
 
 1. Sign up using this link [Tolstoy Affiliate Program](https://gotolstoy.firstpromoter.com/). Submit your email, first name, and your password. Click on Sign Up. (screenshot image of this step: ![Sign Up](https://downloads.intercomcdn.com/i/o/560901201/48794f2e9b8baf609e21a2fd/image.png))
 
