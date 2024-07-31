@@ -3,7 +3,7 @@
 Sign up using this [URL](https://gotolstoy.firstpromoter.com/). Submit your email, first name and your password. Click on Sign Up.
 
 
-- **What is the fee?** ​30% recurring commission for every paid user.
+- **What is the fee?** ​15% recurring commission for every paid user.
 - **What is the cookie duration?** ​90 days cookie duration.
 - **Can I join without any paid personal account?** ​Yes.
 - **How long will I receive my commission?** ​Your monthly commission will continue to be received so long as the referred paying users stay subscribed.
