@@ -1,4 +1,4 @@
-## Home
+## Home page
 
 The home screen of this platform is showcasing three popular use cases for managing and promoting online retail content:
 
