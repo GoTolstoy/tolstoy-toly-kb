@@ -52,6 +52,7 @@
             - When a source is not yet connected, this uniform empty state serves a dual purpose. It visually indicates that the integration is available but not yet activated, and it acts as a call to action, prompting the user to establish the connection. Once connected, this section would transition to display content from the integrated platform's media library, maintaining a consistent user experience across all sources.
             - **Screenshot** of the library page when youtube is not connected and selected: (https://app.gotolstoy.com/videos/youtube)
                 
-                ![Screenshot 2024-04-28 at 12.54.32.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0548034f-b37a-4e7d-8430-4cbbccc72b60/23c158c9-644e-4249-9a04-c5a7084c006b/Screenshot_2024-04-28_at_12.54.32.png)
+                ![image](https://github.com/user-attachments/assets/75bbf033-471f-4107-9c51-7e589f9f2b9f)
+
                 
         - integrations page
