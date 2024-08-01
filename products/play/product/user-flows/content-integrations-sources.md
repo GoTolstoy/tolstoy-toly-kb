@@ -1,3 +1,5 @@
+## Content Integrations Sources
+
 - Goal
     - The goal of this class of integrations is for users to be able to easily access existing sources of fresh content. These integrations allow users to connect sources where their content already exists, and to automatically access and import that content on an ongoing basis.
 - List of content integrations
@@ -13,21 +15,21 @@
     - social
         - instagram
             
-            The integration allows users to connect their Business instagram account and auto import video, image and image carousel files from it. There can only be one Instagram account connected per Tolstoy account. The videos will be added and refreshed under the instagram source automatically one connected.
+            The integration allows users to connect their Business instagram account and auto import video, image and image carousel files from it. You can connect multiple Instagram accounts on one Tolstoy account. The videos will be added and refreshed under the instagram source automatically once connected.
             
-            In addition users can Find UGC - search content by hashtags and their Instagram mention, ask for content rights and use the content after approved. Requesting rights is manual in a comment on the post in Instagram. Once the content is approved by the publisher its automatically moved to approved folder and is ready to use.
+            In addition, users can find UGC Search content by hashtags and their Instagram mention, ask for content rights and use the content after approved. Requesting rights is manual via a direct message in Instagram. Once the content is approved by the publisher it is automatically moved to approved folder and is ready to use.
             
             There is also an option auto tag assets from instagram with products based on exact matching the name of the tagged product in instagram to the name of a product in shopify catalog.
             
         - tiktok
             
-            The integration allows users to connect their Tiktok account and auto import video from it. There can only be one Tiktok account connected per Tolstoy account. The videos will be added and refreshed under the tiktok source automatically one connected.
+            The integration allows users to connect their Tiktok account and auto import video from it. You can connect multiple TikTok accounts on one Tolstoy account. The videos will be added and refreshed under the TikTok source automatically one connected.
             
-            In addition, users can manually import video via URL to the video in tiktok. users have to check the checkbox that they have rights to the video.
+            In addition, users can manually import videos via a URL to the video in TikTok. Users have to check the checkbox that they have rights to the video.
             
         - youtube
             
-            The integration allows users to connect their youtube and select specific folders to auto display video files from the selected folders in the tolstoy app. Even though the files are automatically displayed under the youtube source in the Library, the files are not auto imported, a file is only imported after tagging it with a product or a playlist. There can only be one youtube account connected per Tolstoy account.
+            The integration allows users to connect their youtube and select specific folders to auto display video files from the selected folders in the tolstoy app. Even though the files are automatically displayed under the YouTube source in the Library, the files are not auto imported, a file is only imported after tagging it with a product or a playlist. There can only be one YouTube account connected per Tolstoy account.
             
     - ai
         - D-ID
@@ -37,7 +39,7 @@
 - UX / UI
     - these integrations can be found in 2 areas inside the app
         - library page
-            - The content source integrations (such as Instagram, Tiktok and Google drive) are available from the **Library page** in the app.
+            - The content source integrations (such as Instagram, Tiktok, YouTube, and Google drive) are available from the **Library page** in the app.
             - The library page presents a content management area where users can connect various content sources for their assets (videos and images) in addition to organize and tag their assets.
             - This page has 2nd navigation panel grouping the assets by type, source or playlist. The content source integrations are available under the ‘Sources’ menu item.
             - **Sources Menu Item:**
