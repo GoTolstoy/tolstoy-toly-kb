@@ -1,8 +1,10 @@
+## Integrations Page
+
 - Goal
     
     The goal of this page is to show users all available integrations and mage (connect/disconnect) them. There are four types of integrations (there are additional integrations available through zapier) each with it’s own goal to assist the user. 
     
-- List integrations
+- List of integrations
     - Ecom platforms: To integrate product catalog, website and personalize the experience across Tolstoy to match the integrated platform.
         - shopify
             
@@ -44,4 +46,5 @@
     - The design uses icons, clear typography, and a mix of colors to visually separate each platform and guide the user through the process of integrating their video content and data with various service providers.
     - **Screenshot** of integration page (https://app.gotolstoy.com/integrations):
         
-        ![Screenshot 2024-04-28 at 12.21.59.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0548034f-b37a-4e7d-8430-4cbbccc72b60/cf7c443e-2dfc-4425-bea4-1000c2fc47f2/Screenshot_2024-04-28_at_12.21.59.png)
+       ![image](https://github.com/user-attachments/assets/d56f4fb6-aa73-4909-a242-13e40376e70d)
+
