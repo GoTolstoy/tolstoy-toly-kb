@@ -44,7 +44,7 @@
         - A "Connect" button, likely to initiate the integration process. There are various connection processes, some only include api/app key and other require signup to the integrated platform.
         - A "Show me how" link, to a help article, providing detailed instructions for setting up the integration.
     - The design uses icons, clear typography, and a mix of colors to visually separate each platform and guide the user through the process of integrating their video content and data with various service providers.
-    - **Screenshot** of integration page (https://app.gotolstoy.com/integrations):
+    - **Screenshot** of [integration page](https://app.gotolstoy.com/integrations):
         
        ![image](https://github.com/user-attachments/assets/d56f4fb6-aa73-4909-a242-13e40376e70d)
 
