@@ -1,36 +1,37 @@
-Library
+## Library
+
 - Goal
     
-    The goal of this page is to allow users to manage their contents assets (videos and images). In the Library tab users add and create assets either by recording and uploading or by connecting content sources. In addition to adding assets, users organize their assets by assigning them to playlists and tagging them with products. this is the central place in the Tolstoy app to manage the content on an ongoing basis.
+    The goal of this page is to allow users to manage their content assets (videos and images). In the Library tab, users add and create assets either by recording and uploading or by connecting content sources. In addition to adding assets, users organize their assets by assigning them to playlists and tagging them with products. This is the central place in the Tolstoy app to manage the content on an ongoing basis.
     
 - 2nd navigation:
     - All videos
         
-        view all imported video assets. notice that from some of the sources the videos are only displayed and not imported until tagged or added to playlist.
+        View all imported video assets. Notice that from some of the sources, the videos are only displayed and not imported until tagged or added to playlist.
         
     - All images
         
-        view all imported image assets. notice that from some of the sources the videos are only displayed and not imported until tagged or added to playlist.
+        View all imported image assets. Notice that from some of the sources, the videos are only displayed and not imported until tagged or added to playlist.
         
     - Carousels
         
-        view all imported image carousel assets from instagram, in addition users can create native tolstoy image carousels. each carousel can have sound (added in tolstoy).
+        View all imported image carousel assets from instagram. In addition, users can create native Tolstoy image carousels. Each carousel can have a sound (added in Tolstoy).
         
     - Sources
         
-        view assets by their source, some sources import all assets automatically to tolstoy while others require manual importing on one way or the other. read content-integrations-sources.md to learn more.
+        View assets by their source, some sources import all assets automatically to tolstoy while others require manual importing on one way or the other. Read content-integrations-sources.md to learn more.
         
     - Trending videos
         
-        view trending assets, trending is calculated by  based on number of likes and comments per days since post.
+        View trending assets. Trending is calculated based on the number of likes and comments per day since post.
         
     - Playlists
         
-        view assets by playlists, playlists are created for internal organization and easy distribution of content through tolstoy. a video can be im multiple playlists. 
+        View assets by playlists. Playlists are created for internal organization and easy distribution of content through Tolstoy. A video can be in multiple playlists. 
         
 - UI/UX
     
-    the videos are organized in a grid of tiles, the layout is designed to efficiently organize and manage video content. Here’s a detailed breakdown:
+    The videos are organized in a grid of tiles. The layout is designed to efficiently organize and manage video content. Here’s a detailed breakdown:
     
     - **Search and Filter Options:**
     At the top of the screen, there’s a search bar to help users find specific videos quickly. There’s also a "+ Filter" option, suggesting advanced filtering capabilities to refine the search based on parameters like date, tags, or video type.
@@ -40,11 +41,11 @@ Library
             - Video title (e.g., "Screen Recording 2024-...", "milk content collection flow...").
             - The creator’s name or the associated account.
             - Timestamps indicating the video's length and how many days ago it was added.
-            - Number of products tags that the video is associated with, or specific playlists.
+            - Number of product tags that the video is associated with, or specific playlists.
         - Each video thumbnail has an action option like "+ Playlist", allowing users to add videos to different playlists for organized access.
-        - A click on the video opens the product tagging modal. the modal is built from a preview of the video next to a search bar to search product catalog with products that appear in the video. for some videos there are ai suggested product users can approve or decline. read tag-modal.md to learn more.
+        - A click on the video opens the product tagging modal. The modal is built from a preview of the video next to a search bar to search product catalog with products that appear in the video. For some videos, there are AI suggested products that users can approve or decline. Read tag-modal.md to learn more.
             
     - **New Asset Button:**
     In the upper right corner, there is a “New asset” button, which serves as a call to action for users to upload new videos or create new content directly within the app.
 
-This screen is designed for ease of use, with visual and textual clues to help users manage their video content efficiently. The layout supports quick actions and easy navigation within a large volume of video assets, enhancing productivity for managing digital media in e-commerce or other digital platforms.
+This screen is designed for ease of use, with visual and textual clues, to help users manage their video content efficiently. The layout supports quick actions and easy navigation within a large volume of video assets, enhancing productivity for managing digital media in e-commerce or other digital platforms.
