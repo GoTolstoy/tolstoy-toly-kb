@@ -1,4 +1,5 @@
-Home
+## Home
+
 The home screen of this platform is showcasing three popular use cases for managing and promoting online retail content:
 
 1. **Product Page Stories:**
