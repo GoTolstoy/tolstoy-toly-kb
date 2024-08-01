@@ -1,6 +1,8 @@
-## Do You Offer a Free Trial?
+## Do you offer a free trial?
 
-Yes, we do! For our first-time users, we offer a free 14-day trial of the Pro Package. This is a fantastic opportunity for you to explore all the advanced features and see how Tolstoy can elevate your video marketing strategy. You can cancel anytime if you feel it's not a good fit, no strings attached.
+For first-time users, yes, we offer a free 14-day trial of the Pro Package. This is a fantastic opportunity for you to explore all the advanced features and see how Tolstoy can elevate your video marketing strategy. You can cancel anytime if you feel it's not a good fit, no strings attached.
+
+For non-first-time users, it will depend on the status of the account. We will first review the account and follow up regarding the eligibility of the user to extend the trial and to what extent.
 
 ### How to Start Your Free Trial
 Getting started with your free trial is easy. Just follow these steps:
