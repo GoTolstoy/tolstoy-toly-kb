@@ -50,7 +50,7 @@
                 - The placeholder showcases the logo of the respective platform, clearly indicating which service it pertains to.
                 - A "Connect" button is prominently displayed, suggesting a single-step action to link the platform to the app.
             - When a source is not yet connected, this uniform empty state serves a dual purpose. It visually indicates that the integration is available but not yet activated, and it acts as a call to action, prompting the user to establish the connection. Once connected, this section would transition to display content from the integrated platform's media library, maintaining a consistent user experience across all sources.
-            - **Screenshot** of the library page when youtube is not connected and selected: (https://app.gotolstoy.com/videos/youtube)
+            - **Screenshot** of the [library page when youtube is not connected and selected]:(https://app.gotolstoy.com/videos/youtube)
                 
                 ![image](https://github.com/user-attachments/assets/75bbf033-471f-4107-9c51-7e589f9f2b9f)
 
