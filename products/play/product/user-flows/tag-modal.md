@@ -1,8 +1,8 @@
-Tag modal
+## Tag modal
 
 - UI/UX
     
-    The modal that appears after clicking on a video asset in the Library and project Builder, it provides a detailed interface for managing that specific videos products. Here’s a detailed description:
+    The modal that appears after clicking on a video asset in the Library and project Builder provides a detailed interface for managing those specific video products. Here’s a detailed description:
     
     - **Video Preview and Information:**
         - The left side of the modal shows a large thumbnail preview of the selected video, along with its title. On hover on the thumbnail, there are additional details like the video length.
