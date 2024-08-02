@@ -1,5 +1,3 @@
-## How can I create Tolstoy Audience in Google Analytics
-
 ## Creating a Tolstoy Audience in Google Analytics
 
 1. Open your Google Analytics account.
