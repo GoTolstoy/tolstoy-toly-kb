@@ -7,7 +7,7 @@ Increase engagement, add dynamics, and boost sales by adding Tolstoy’s Shoppab
 There are three types of videos that you can share:
 1. Swipeable - (Shoppable video feed) transform your videos into a dynamic shopping experience by tagging products.
 2. Branching - (Interactive video) creating videos that include Calls-To-Action (CTAs). Guide your audience through a personalized journey by enabling them to make choices within the video.
-3. A single video - for a straightforward approach, select the Branching format and upload a single video.
+3. Video Collection Campaign 
 
 Here are the steps:
 
