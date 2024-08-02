@@ -7,11 +7,11 @@ There are two types of carousel widgets, one that's suitable for email flows tri
 
 ### Email campaigns - Trending videos
 
-The 'Trending videos' use case is great to add to a newsletter, product launch and even to a welcome flow. Even though it's designed for campaigns it can be used in a flow only it would show the same videos no matter what the trigger is.
+The 'Trending videos' use case is great to add to a newsletter, product launch and even to a welcome flow. Even though it's designed for campaigns, it can be used in a flow, only it would show the same videos no matter what the trigger is.
 
 ### Selecting the videos source and GIF action
 
-By default, a new 'Trending videos' project's videos are shown from a new set of playlists selected. In this case, since the feed is not yet added to your site the GIF will redirect to a new TV page automatically added to your store. 
+By default, a new 'Trending videos' project's videos are shown from a new set of playlists selected. In this case, since the feed is not yet added to your site, the GIF will redirect to a new TV page automatically added to your store. 
 
 If you want to source the videos from an existing onsite project use the following steps:
 
@@ -52,5 +52,5 @@ Simply add the code to an email template, the GIF automatically updates with new
 
 ### Klaviyo flows
 
-To preview the GIF for the email flows use cases, edit the template from the flow, it will show broken images instead of the videos in the GIF, it's OK. To preview properly click 'Preview & test' and swipe through events. The GIF will show different videos per event based on the products connected to it. If you can't see the GIF it means there were no three videos found for the GIF. 
+To preview the GIF for the email flows use cases, edit the template from the flow, it will show broken images instead of the videos in the GIF, it's OK. To preview properly, click 'Preview & test' and swipe through events. The GIF will show different videos per event based on the products connected to it. If you can't see the GIF it means there were no three videos found for the GIF. 
 ![screenshot](https://downloads.intercomcdn.com/i/o/1031220777/626f2f7194b911390a61c857/image.png)
