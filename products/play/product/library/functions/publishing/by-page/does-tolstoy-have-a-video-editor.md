@@ -6,7 +6,8 @@ Tolstoy includes a Video Editor, which offers minor video editing support. This 
 To start using the Video Editor in Tolstoy, follow these steps:
 1. Go to Your Project: Navigate to your project branching widget or embed project.
 2. Navigate to the Videos Tab: Within your project, head to the "Videos" tab.
-   ![image](https://github.com/user-attachments/assets/831a9f80-f219-4da7-8344-c95cfd998960)
+   ![image](https://github.com/user-attachments/assets/9df4fb72-c47c-4bcf-bc30-ec5d05796b55)
+
 
 
 ### Video Editing Options
