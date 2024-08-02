@@ -1,5 +1,13 @@
-## How do I upload a CSV file for native site?
+# How do I upload a CSV file for native site?
 
+Uploading a CSV file is not mandatory for all Tolstoy users, but it is essential for native sites, especially if you want to tag products in your videos. Here are the benefits of uploading a CSV file:
+
+1. **Product Tagging:** Allows you to link specific products directly in your videos. Viewers can click on these tags to learn more or purchase the product directly from the video.
+2. **Enhanced User Experience:** By tagging products in videos, you provide a seamless shopping experience, allowing customers to interact with your products directly through the video content.
+3. **Increased Engagement and Conversions:** Interactive videos with product tags can lead to higher engagement rates and potentially increase conversions, as customers can shop directly from the video.
+4. **Efficient Management:** Having all your product details in a CSV file makes it easier to manage and update product links in your videos, especially if you have a large inventory.
+
+## Steps to Upload a CSV File
 1. On your Excel spreadsheet, click File > Import. ![Step 1](https://downloads.intercomcdn.com/i/o/799530467/0b596bc4253146efd5d5173f/image.png)
 2. Click My Drive > Files. ![Step 2](https://downloads.intercomcdn.com/i/o/799530611/c4ce98733a9d15e3fc69e7e2/image.png)
 3. Click Import data. ![Step 3](https://downloads.intercomcdn.com/i/o/799530800/19cefb2af3f09dbb11f66cd0/image.png)
