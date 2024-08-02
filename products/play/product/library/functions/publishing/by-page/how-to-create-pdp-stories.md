@@ -1,18 +1,24 @@
 ## How to create Product pages stories (PDP Stories)?
 
 1. In the Tolstoy Dashboard, go to the Onsite tab.
-   ![Step 1](https://downloads.intercomcdn.com/i/o/916260741/929a99ef3d8847530fc2072f/image.png)
+ ![image](https://github.com/user-attachments/assets/dee4fa62-5de1-4ea5-b0d2-ff32d8b42374)
+
 2. Click "Create Tolstoy".
-   ![Step 2](https://downloads.intercomcdn.com/i/o/916261041/6bde8bf6e57d2994e8559c43/image.png)
+ ![image](https://github.com/user-attachments/assets/abbe5019-d4e2-4d1b-bf05-d8f4262507db)
+
 3. Choose "Product pages stories".
-   ![Step 3](https://downloads.intercomcdn.com/i/o/916261227/23ebf8578d4dcd51d42a1bce/image.png)
+ ![image](https://github.com/user-attachments/assets/7949a78f-114e-4aa8-91ad-5eeaa63c4c7c)
+
 4. Click "Start creating".
-   ![Step 4](https://downloads.intercomcdn.com/i/o/916261698/03c0ff88d8dd8286ccfb3927/image.png)
+![image](https://github.com/user-attachments/assets/b11bac7c-bbb2-4290-bdcc-214641bb61f5)
+
 5. Go to the Videos tab.
-   ![Step 5](https://downloads.intercomcdn.com/i/o/916263571/73d126ed602127fbf48dd202/image.png)
+![image](https://github.com/user-attachments/assets/3b51ec86-ac82-4a60-a7d0-f755ee5a83bf)
+
 6. The condition will be 'Product tagged' by default.
    (**Note**: Videos will show here if you tag a product to a video in the Tolstoy Dashboard > Videos tab. If you’re Non-Shopify, you can add a CSV file for your products and if you’re a Shopify, your products are automatically synced in Tolstoy.)
-   ![Step 6](https://downloads.intercomcdn.com/i/o/916264157/a6b11bdb672fe71883864296/image.png)
+![image](https://github.com/user-attachments/assets/c4ebd6d2-2e90-4bbd-8c2d-3146109bdc2e)
+
 
 Reference: [Tolstoy Help Article](https://help.gotolstoy.com/en/articles/8736137-how-to-create-product-pages-stories-pdp-stories)
 
