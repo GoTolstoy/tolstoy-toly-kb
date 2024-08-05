@@ -1,26 +1,30 @@
-## How to create Stories on other pages?
+## how to create Stories on other pages?
 
 If you want to publish stories/create Tolstoy Stories on other pages (not for Product Pages) you can follow the steps below:
 
 1. In the Tolstoy Dashboard, go to the Onsite tab.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/d776ad87-95d3-4433-803d-1fae38f142d0)
+![image](https://github.com/user-attachments/assets/b4a47b4f-9322-4cb6-94cd-e2f6a9a7d98f)
+
 
 2. Click "Create Tolstoy".
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/666df754-74a9-439a-aaad-0b128847c0a3)
+![image](https://github.com/user-attachments/assets/3ae1a51e-5217-4525-9c37-b2b296ab4bd2)
 
 3. Click on "Create from scratch".
    
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/0ecca92e-0c0c-4103-b123-4fbe336899f2)
+![image](https://github.com/user-attachments/assets/33837056-6ae3-4362-ae4e-2af479f1517c)
+
 
 4. Stories
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/52aa08ab-6c2c-49c9-8619-ecd3cbf95f72)
+![image](https://github.com/user-attachments/assets/988954e4-0fa3-446d-a586-4b51c95b5091)
+
 
 5. Choose where you want to display your Stories. You have the option to display them on Home pages, Collection pages, or Other pages. Pick the option that best fits your needs.
    
-   ![Step 4](https://downloads.intercomcdn.com/i/o/916305942/867079b38ac7e866d96a0172/image.png)
+![image](https://github.com/user-attachments/assets/55443b4f-7630-473d-8c10-63cb2c25bd40)
+
 
 Once you created the Stories, you will be redirected to its own dashboard (**Remember**: If you create a layout/feature not just Stories but for all types of layouts/features in the Onsite tab, we call that a **Project** and each project has their own dashboard). This is where you can manage the Videos, Design and the Analytics of that project you created.
 
