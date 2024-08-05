@@ -1,6 +1,21 @@
-## The videos on Shop app loads very very slowly
+# The videos on Shop app loads very very slowly
 
-Your first and second video sizes may be a bit large. By default, we preload the current and next videos. The video starts playing when around 20%-25% is downloaded. Sometimes less, sometimes more. Unfortunately, we don't have control over these numbers in the Shop app.
-Here's a tip from our dev team - either reduce the video sizes or reorder the videos from smallest to largest, putting the smaller files in the beginning.
+## Understanding Video Loading Times
 
-To further improve our UX, we already submitted a new player version where we use Shop app entry points to display the initial videos and download the rest in the background. Our tests show that it will only take 2-3 seconds for the first video to start playing. However, the go live date of this new player version is totally tied with the Shop app updates. Hopefully, this will be rolled out soon!
+Video size significantly impacts loading times in the Shop app. Larger files take longer to load, which can delay video playback and affect user experience. By default, the Shop app preloads the current and next videos to facilitate smoother transitions.
+
+### Tips for Optimizing Video Size
+- **Reduce Video Size**: Compress your videos without significantly sacrificing quality. Tools like Handbrake or Adobe Media Encoder can help.
+- **Reorder Videos**: Arrange videos by size, placing smaller files first. This can help in faster loading of initial content.
+
+## Preloading Behavior
+
+The Shop app starts playing a video when about 20%-25% of it is downloaded. This threshold varies, but optimizing video size can reduce the wait time.
+
+### Upcoming Improvements
+
+A new player version is in development that uses Shop app entry points to display initial videos and download the rest in the background. This update is expected to reduce the initial play start time to 2-3 seconds. The release is dependent on the next Shop app updates.
+
+## Conclusion
+
+Optimizing video content is crucial for maintaining a smooth user experience in the Shop app. Follow these guidelines to enhance video loading times and ensure your viewers enjoy a seamless viewing experience.
