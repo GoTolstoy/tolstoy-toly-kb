@@ -2,34 +2,39 @@
 
 1. Go to the Onsite tab.
 
-![image](https://github.com/user-attachments/assets/9c3786ad-c0d7-4c5e-a15e-9315e778f08c)
+![image](https://github.com/user-attachments/assets/34f1d72a-4088-4fd9-9e1f-e2e62813e5e4)
 
 2. Click Create Tolstoy.
 
-![image](https://github.com/user-attachments/assets/7629fc19-8356-42d3-93f0-e8841745faf8)
+![image](https://github.com/user-attachments/assets/c995beeb-dca2-4b2b-bf1d-8622cfe90e2b)
+
 
 3. Create from scratch
 
-![image](https://github.com/user-attachments/assets/e23f97b8-c6a6-49f7-9870-f6bea194eb39)
+![image](https://github.com/user-attachments/assets/8741d059-97a0-492f-bf35-7059a7bc9e9b)
+
 
 4. Choose Carousel or Stories.
 
-![image](https://github.com/user-attachments/assets/d98a354d-208f-4cd1-a705-555c71445483)
+![image](https://github.com/user-attachments/assets/98ddd0e7-3001-4b4d-a22d-893493dfbb9a)
+
 
 5. Collection pages
 
-![image](https://github.com/user-attachments/assets/3453de29-c1e7-4619-9761-f75ffa02f780)
+![image](https://github.com/user-attachments/assets/5ebe355c-f10a-4153-943d-16528139e3d5)
 
 
 **​Videos** - This is where you can see what videos are showing (Video Library) on the carousel or stories.
 
-![image](https://github.com/user-attachments/assets/7834b578-024f-4a83-9ccb-c034fd94cbd6)
+![image](https://github.com/user-attachments/assets/5cf548bb-ef52-42e7-969d-7b89ad191ae6)
+
 
 💡**Tip:** Once you create the Carousel or stories, it will automatically have a set playlist of “Product tagged”. This means that all videos that have tagged products will show in the carousel or stories that you created (you can tag videos with products in the “Videos” tab).
 
 6. Click Publish when ready.
 
-![image](https://github.com/user-attachments/assets/86d75404-efef-4753-a3bc-34d8e0ea2654)
+![image](https://github.com/user-attachments/assets/f77b1596-8420-46c7-843d-e14c053111a3)
+
 
 7. Go to your Shopify Themes -> Customize.
 
@@ -57,7 +62,8 @@
 
 
 **Note:** You'll find the Publish ID in the Tolstoy app when you click the Published button on the upper right. Scroll down to Step 3.
-![image](https://github.com/user-attachments/assets/ab1570a7-f90f-423c-9fc4-a39c7ffb1787)
+![image](https://github.com/user-attachments/assets/bc83d164-fa6f-42e5-8e5a-b7db3e8b0a64)
+
 
 
 
