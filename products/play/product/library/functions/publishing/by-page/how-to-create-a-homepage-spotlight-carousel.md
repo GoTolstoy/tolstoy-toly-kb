@@ -1,27 +1,30 @@
-## How to create a Homepage Spotlight Carousel?
+## how to create a homepage spotlight carousel?
 
 The Carousel feature in Tolstoy helps you create short, engaging videos that catch your customers' attention.
 
 1. In the Tolstoy Dashboard, navigate to the Onsite tab.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/a6ca03c2-4eef-40fa-aac0-d255f49a84cf)
+  ![image](https://github.com/user-attachments/assets/ccbb7f2c-e4c9-4c34-a868-8a4c23e9fa14)
 
 
 2. Click "Create Tolstoy".
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/d236cd22-7942-4d3f-b5ed-972334600d86)
+![image](https://github.com/user-attachments/assets/18f42325-f4d5-446f-b671-8719dc3459d1)
 
-   
+
 3. Click "Homepage spotlight".
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/a2fb7e85-6546-4cb1-bbf5-2753b2c3e6b6)
+![image](https://github.com/user-attachments/assets/b478ed66-03d0-45e2-9200-5b9c5b9af80e)
+
 
 
    - 💡Tip: The Spotlight Carousel is a newly released carousel type. You can switch it back to the default style within the design tab.
     
 4. Click "Start creating".
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/5e706cea-df37-4314-8840-3f741f26dcfd)
+![image](https://github.com/user-attachments/assets/24b191f6-fa9a-43d0-8e8c-35300b813eee)
+
+
 
 
 5. Go to the Videos tab.
