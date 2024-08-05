@@ -1,4 +1,4 @@
-## Examples of Tolstoy Interactive Widget or Founder Widget or Founder Story:
+## Examples of Tolstoy Interactive Widgets and Founder Stories
 
 - [OMSOM](https://omsom.com/)
 - [SOUL](https://www.getsoul.com/)
