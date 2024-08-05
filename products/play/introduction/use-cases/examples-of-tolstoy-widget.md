@@ -1,4 +1,4 @@
-## Examples of Tolstoy Widget:
+## Examples of Tolstoy Widget
 
 - [People’s Beauty](https://peoplesbeauty.com/collections/essentials/products/essentials-kit)
 - [SwimOutlet](https://www.swimoutlet.com/collections/sporti/sporti-x-mat-chavez)
