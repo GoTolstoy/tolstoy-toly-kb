@@ -1,4 +1,4 @@
-## I want to add Tolstoy videos to my Shopify home page.
+## i want to add Tolstoy videos to my Shopify home page.
 
 
 Before you begin, make sure that you already tagged videos with products in your library. 
