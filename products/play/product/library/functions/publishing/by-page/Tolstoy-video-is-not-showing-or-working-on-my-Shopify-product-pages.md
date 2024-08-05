@@ -1,4 +1,4 @@
-## Tolstoy video is not showing or working on my Shopify product pages
+## tolstoy video is not showing or working on my Shopify product pages
 
 Please ensure that the correct ID is pasted on your Tolstoy app block/section in your Shopify theme product template. 
 ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/81f98764-8800-4baa-845d-c7ca8b29324c)
