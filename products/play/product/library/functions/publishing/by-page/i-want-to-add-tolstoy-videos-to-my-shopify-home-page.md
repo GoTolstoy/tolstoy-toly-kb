@@ -6,20 +6,22 @@ Before you begin, make sure that you already tagged videos with products in your
 
 1. In the Onsite tab, create the Tolstoy project that you want to display in your home page (Stories or Carousel).
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/e519a9ee-0d8d-4a2f-986d-16bd5282502b)
+![image](https://github.com/user-attachments/assets/fd2535f2-4451-45fc-9c38-c8bef9a5e730)
 
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/20b19bae-5be0-4fe1-a962-81508e0d2ac3)
+![image](https://github.com/user-attachments/assets/20e5feed-82df-4c88-ac7d-6006eb1a4b5c)
 
 
 2. Tagged videos with products will automatically show in the **Videos** tab of the Tolstoy project that you created.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/1b93d7c8-b50c-484c-bc67-235b87177979)
-   
+   ![image](https://github.com/user-attachments/assets/462c8d74-bc52-4c61-a067-487717f74012)
+
 
 3. Click the **Publish** button on the upper right and copy the ID.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/ade33326-d251-4021-9b9b-52ef4b08d305)
+![image](https://github.com/user-attachments/assets/9128bf35-3905-441a-88fc-cf60b0a30898)
+
+![image](https://github.com/user-attachments/assets/72a637fe-9594-4e2f-8d29-ae308ebe1134)
 
 
 
