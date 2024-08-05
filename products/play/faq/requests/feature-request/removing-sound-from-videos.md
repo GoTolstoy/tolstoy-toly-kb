@@ -1,10 +1,8 @@
-# [Tutorial Video](https://www.loom.com/share/00c2ad19dd324987b704768a59c6f5f8?sid=af64e2fa-c850-41bb-955c-188ebd6394e9)
-
-## Introduction:
+## Introduction
 
 In this tutorial, we'll walk you through the steps to remove sound from your videos for your video feeds. Whether you're a brand looking to showcase your videos without any music copyright issues or simply want to have more control over the audio in your video content, this feature will help you achieve your goals.
 
-## Methods:
+## Methods
 
 1. Default Global Setting
 2. Manual Removal/Restoration
@@ -45,6 +43,6 @@ If you want to preview the sound of a video that has been muted:
 
 This preview feature allows you to review the video's audio without affecting the muted setting for playback on your website or video feeds.
 
-## Conclusion:
+## Conclusion
 
 Removing sound from your videos is a simple process using our platform. Whether you prefer the global setting for a blanket mute or the manual method for more granular control, you can easily manage the audio in your video content. If you have any questions or need further assistance, don't hesitate to reach out to our support team.
