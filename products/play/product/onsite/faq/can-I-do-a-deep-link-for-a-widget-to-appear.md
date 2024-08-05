@@ -1,3 +1,3 @@
-## can I do a deep link for a widget to appear?
+## Can I do a deep link for a widget to appear?
 
-yes, you can use a deep link in your rules tab. 
+Yes, you can use a deep link in your rules tab. 
