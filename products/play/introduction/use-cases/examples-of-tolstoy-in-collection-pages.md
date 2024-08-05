@@ -1,6 +1,5 @@
-## Examples of Tolstoy (different layouts) in Collection Pages:
+## Examples of Tolstoy in Collection Pages
 
-
-https://www.therippleco.co.uk/collections/shop-all - The Ripple Co
-https://www.malathebrand.com/collections/bundles - Mala the Brand
-https://pmdbeauty.com/collections/tools - PMD Beauty
+- [The Ripple Co](https://www.therippleco.co.uk/collections/shop-all)
+- [Mala the Brand](https://www.malathebrand.com/collections/bundles)
+- [PMD Beauty](https://pmdbeauty.com/collections/tools)
