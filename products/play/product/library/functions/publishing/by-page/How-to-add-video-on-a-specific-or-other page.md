@@ -1,6 +1,14 @@
-## How to add video on a specific/other page?
+## how to add video on a specific or other page?
 
-Go to Onsite > Create from Scratch > Choose Stories or Carousel. Then, choose Other pages.
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/f1401018-c0e1-42a8-abf9-37deb53612c0)
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/1c592c1f-441d-415e-ad7d-a8c97a65be39)
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/80dde3b1-2596-4f26-ad3f-af1aad25e43b)
+1. Go to Onsite  
+![image](https://github.com/user-attachments/assets/5524aef9-7ff5-4316-9a59-bab985b18f58)
+
+2. Click create Tolstoy 
+![image](https://github.com/user-attachments/assets/b97ff50e-73f4-4ac2-951e-4a81d2b320c5)
+
+3. Click create from scratch
+![image](https://github.com/user-attachments/assets/21c0397a-cf8a-4480-bc02-d41431b39239)
+
+3. Choose Stories or Carousel. Then, choose Other pages.
+![image](https://github.com/user-attachments/assets/5a86283c-77d3-4818-80d7-0b851d24b40f)
+![image](https://github.com/user-attachments/assets/584456bc-4889-4d67-88a3-71e55325f625)
