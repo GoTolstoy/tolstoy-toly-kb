@@ -1,4 +1,4 @@
-## Examples of Tolstoy TV Page / Discover / For you feed:
+## Examples of Tolstoy TV Pages
 
 - [Carroten](https://carroten.com.au/pages/carroten-tv)
 - [Culture Kings](https://www.culturekings.com.au/pages/shop-the-feed)
