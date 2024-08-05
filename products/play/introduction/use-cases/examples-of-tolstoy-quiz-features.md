@@ -1,6 +1,6 @@
-## Examples of Tolstoy Quiz or the Quiz feature:
+## Examples of Tolstoy Quiz Features
 
-- [Korean Skincare Quiz](https://koreanskincare.nl/pages/ksquiz) - Korean Skincare
+- [Korean Skincare Quiz](https://koreanskincare.nl/pages/ksquiz)
 - [Dermaclara](https://www.dermaclara.com/)
 - [Fairy Tales Hair Care - Hair Quiz for Kids](https://fairytaleshaircare.com/pages/hair-quiz-kids)
 - [Liforme - Yoga Mat Quiz](https://liforme.com/pages/yoga-mat-quiz)
