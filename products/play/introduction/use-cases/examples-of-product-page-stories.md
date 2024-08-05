@@ -1,0 +1,13 @@
+## Examples of Product Page Stories (PDP Stories)
+
+- [Color Science - Sunforgettable Total Protection Face Shield Flex SPF 50](https://www.colorescience.com/collections/best-sellers/products/sunforgettable-total-protection-face-shield-flex-spf-50)
+- [KOSAS - Revealer Concealer](https://kosas.com/products/revealer-concealer)
+- [Milk Makeup - Lip + Cheek](https://milkmakeup.com/products/lip-cheek?variant=dash-light-pink-shimmer)
+- [RMS Beauty - Liplights Cream Lip Gloss](https://www.rmsbeauty.com/products/liplights-cream-lip-gloss)
+- [PMD Beauty - Personal Microderm Elite Pro](https://pmdbeauty.com/collections/pmd-tools/products/personal-microderm-elite-pro?variant=36110598897814)
+- [r.e.m beauty - Sweetener Foundation](https://rembeauty.com/products/sweetener-foundation?variant=42620752658695)
+- [Mala the Brand - Cereal](https://www.malathebrand.com/collections/originals-collection/products/cereal)
+- [Leletny - Glossy Double Arch Pony](https://leletny.com/collections/everyday-basics/products/glossy-double-arch-pony)
+- [Zorali - Escapade Backpack Desert](https://www.zorali.com/products/escapade-backpack-desert?variant=32131705176177)
+- [Frank Body - Glycolic Body Scrub](https://www.frankbody.com/au/products/glycolic-body-scrub/)
+- [Dermaclara - Silicone Patch for Forehead](https://www.dermaclara.com/collections/patches/products/silicone-patch-for-forehead)
