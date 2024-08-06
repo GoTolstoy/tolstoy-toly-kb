@@ -18,6 +18,6 @@
 ![image](https://github.com/user-attachments/assets/e067eff3-83e8-40f6-956b-33df9ef750db)
 
 
-The Ui will depend on the Tolstoy project.
+The UI will depend on the Tolstoy project.
 
 That's it! You're all done. Refresh your website to make sure your Tolstoy is removed.
