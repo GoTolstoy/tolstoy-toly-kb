@@ -1,4 +1,4 @@
-## Does Tolstoy Have a Video Feed Designer?
+## does Tolstoy Have a Video Feed Designer?
 
 Toly includes a Video Feed Designer, which offers minor video editing support focused on behavior and multiproduct page customization. This tool is not a full-fledged video editor but provides essential features to enhance your video feed.
 
