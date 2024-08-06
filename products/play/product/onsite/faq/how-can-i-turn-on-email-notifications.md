@@ -3,7 +3,11 @@
 In Tolstoy Dashboard, follow these steps to turn on email notifications:
 
 1. Go to Onsite or Offsite.
-2. Choose the Tolstoy project for which you want to edit the email notifications. Click on the Settings icon (beside the Analytics button on the upper right). (screenshot image of this step: ![Step 2](https://downloads.intercomcdn.com/i/o/850634246/259db84f725f25f9fdff7548/1704a6dd-3e95-483d-a8f9-3180fb1f2ca8))
-​
-3. Go to the Notifications subsection. Enter the email/(s) you want to receive notification and click Save.
-4. Choose the notification/(s) you wish to receive and click Save when you are done.
+![image](https://github.com/user-attachments/assets/b93193f3-d0e7-42ea-981f-bd5a720e7c96)
+
+2. Choose the Tolstoy project for which you want to edit the email notifications. Click on the Settings icon (beside the Analytics button on the upper right).
+![image](https://github.com/user-attachments/assets/d3485838-8453-4c3b-a620-7f255bc4ed09)
+
+3. Go to the Notifications subsection. Enter the email/(s) you want to receive notifications and choose the notification/(s) you wish to receive. Click Save.
+![image](https://github.com/user-attachments/assets/035e9fd3-6d68-41b7-b83d-b8fd969dba02)
+
