@@ -1,13 +1,15 @@
-## I've added a video but it's not showing on my product pages. I'm on Shopify.
+# I've added a video but it's not showing on my product pages. I'm on Shopify.
 
-1. Click your profile letter on the lower left > Settings > Installation. Make sure to click the **"Complete"** button on the upper right.
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/40f27002-05fd-451b-81ca-f1f971dcbf52)
+If you've added a video to your Shopify product pages and it's not displaying, follow these steps to troubleshoot and resolve the issue:
 
-2. Go to Library and start tagging products to videos.
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/cdf9033b-309d-4fe2-aeb3-1d5e578ecb6e)
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/cbf0ea3d-ef90-4f9b-8943-f21f63004087)
+1. **Check Installation Status**: Navigate to your profile in the lower left corner, go to Settings > Installation, and ensure you've clicked the **'Complete'** button. This confirms the installation of the Tolstoy app on your Shopify store.
 
-3. Go to Onsite > click the Tolstoy video/project you'd like to publish > click the **"Publish"** button on the upper right and follow the publishing steps.
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/508f9c33-e4f4-494b-b13e-6ccc15af49b9)
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/c6bdab3c-1e5a-4116-9db6-6208a3d10367)
+2. **Tag Products to Videos**: Go to the Library section and start tagging your products to the videos. This step is crucial as it links your videos with the products.
 
+3. **Publish Your Video**: Navigate to Onsite, select the Tolstoy video or project you wish to publish, and click the **'Publish'** button. Follow the subsequent steps to ensure your video is live.
+
+4. **Verify App Embeds**: In your Shopify admin, go to Online Store > Themes > Customize. Navigate to the specific product page and check if the Tolstoy app block or section is added and enabled.
+
+5. **Check Video Settings**: Ensure that the video format and settings are compatible with Shopify's requirements. Adjust if necessary to meet platform specifications.
+
+By following these steps, you should be able to resolve the issue of videos not showing on your Shopify product pages. If the problem persists, please contact our support team for further assistance.
