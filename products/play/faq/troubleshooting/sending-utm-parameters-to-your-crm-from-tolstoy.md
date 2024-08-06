@@ -1,0 +1,3 @@
+## Sending UTM Parameters to Your CRM from Tolstoy
+
+We ensure the seamless passage of UTM parameters from the URL to our widget/player. When a user clicks or plays a Tolstoy widget or video, if the parent URL contains UTM parameters, they are automatically transmitted to our data. One efficient method to accomplish this is by integrating Tolstoy with Zapier, enabling us to retrieve Tolstoy data directly from Zapier's platform. However, we don't support sending UTM parameters with offsite videos, only onsite.
