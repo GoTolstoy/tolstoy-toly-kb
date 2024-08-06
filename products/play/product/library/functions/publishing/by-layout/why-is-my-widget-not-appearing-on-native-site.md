@@ -4,10 +4,12 @@
    
 2. Ensure to manually copy and paste the Tolstoy Script on your website's <head> section.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/24f1b268-c107-4bd8-a79b-53008bc46ef0)
+![image](https://github.com/user-attachments/assets/b890ff5d-c3ea-4c94-aaaf-41795ed7263e)
+
 
    
 3. Make sure that your Tolstoy is published.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/721a1374-a461-4af4-893e-57b6d0198301)
+![image](https://github.com/user-attachments/assets/968572b4-601b-45a7-8355-3455d33baf8a)
+
 
