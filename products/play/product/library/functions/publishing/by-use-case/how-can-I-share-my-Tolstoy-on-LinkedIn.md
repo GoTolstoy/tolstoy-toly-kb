@@ -4,11 +4,13 @@
 
 2. Open your Linkedin chat, and click on the quotation marks.
 
-    ![LinkedIn Quote](https://downloads.intercomcdn.com/i/o/541126490/962c98c96be82859caab4e14/image.png)
+![image](https://github.com/user-attachments/assets/33e5bd08-173b-4dff-bc69-74d342437f38)
+
 
 3. You'll be able to record a new Tolstoy or add one from your library - let's add a new Tolstoy from your library.
 
-    ![Add From Library](https://downloads.intercomcdn.com/i/o/542419328/63cc9fc995dd7ab94f1a6505/image.png)
+![image](https://github.com/user-attachments/assets/d2051502-8098-486a-ae65-c4a84848feb5)
+
 
 4. In the pop up window, click on the Tolstoy you'd like to send.  
 
@@ -16,8 +18,9 @@
 
 5. Click on Enter to send.
 
-    ![Enter to Send](https://downloads.intercomcdn.com/i/o/544309493/6ef93d1a562e2a1827182125/image.png)
+![image](https://github.com/user-attachments/assets/89f7bd9f-8aad-4992-9d7c-2c0230cf0b51)
+
 
 That is it! Your Tolstoy is now shared in Linkedin.
 
-![Shared Tolstoy](https://downloads.intercomcdn.com/i/o/544310261/7b114d96e74fc1b2a20200ec/image.png)
+![image](https://github.com/user-attachments/assets/d4d05512-5a84-4028-a535-fdc1d277393a)
