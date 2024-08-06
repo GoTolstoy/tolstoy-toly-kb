@@ -4,8 +4,11 @@
 
 Wondering how you can set up and link your phone number so your audience can reach you right straight from the Tolstoy video? Here's how you can set it up.
 
+
 1. Click on the dropdown and select Custom.
 ![image](https://github.com/user-attachments/assets/63df76d1-df09-47ea-856e-f6cc63a4a1c9)
+
+
 
 
 
