@@ -4,8 +4,14 @@ Toly includes a Video Feed Designer, which offers minor video editing support fo
 
 Accessing the Video Feed Designer
 1. Go to your project.
+![image](https://github.com/user-attachments/assets/9b0d6d80-d838-4d5e-88dd-9def4dece0a7)
+
 2. Navigate to the Design tab.
+
 3. Find and select the Video Feed section.
+
+![image](https://github.com/user-attachments/assets/1a2e6c2e-9a6b-45f8-8d22-a53231da1400)
+
 
 In the Video Feed section, you will find options for Behavior and Multiproduct Page settings to support your videos.
 
