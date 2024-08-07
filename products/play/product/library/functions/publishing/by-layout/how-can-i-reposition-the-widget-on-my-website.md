@@ -1,15 +1,18 @@
-## How can I reposition the widget on my website?
+## how can i reposition the widget on my website?
 
 1. First, go to the Design tab and click on Widget.
 
-    ![Widget](https://downloads.intercomcdn.com/i/o/849597811/97db87f97f616de631b83c15/b2e0237f-a03e-4dc8-9029-067b0e01e324)
+![image](https://github.com/user-attachments/assets/89dc67ea-f5f9-4c0a-83dd-80fc559f75e2)
+
 
 2. Scroll down to Appearance -> Video alignment, then click the Reposition button.
 
-    ![Reposition](https://downloads.intercomcdn.com/i/o/849598328/b7cc381daa0406bae7fbaad9/3eff9f79-f7b2-417e-b1bf-ff31ddc5d0f8)
+![image](https://github.com/user-attachments/assets/7f3e6ea3-b4ef-438c-a999-8fccdd89ce69)
+
 
 3. Drag to adjust the video alignment.
 
-    ![Drag](https://downloads.intercomcdn.com/i/o/849598683/4a8f56b893eed9c7b1188322/b10f5547-68ea-49e7-ba3a-07e590c4e905)
+![image](https://github.com/user-attachments/assets/5e21ef6a-6bff-4f6e-aeee-f0b5ba37f52e)
 
 4. When you're satisfied, click Save.
+5.  ![image](https://github.com/user-attachments/assets/527206fa-1199-4f57-88ae-64722d8167e4)
