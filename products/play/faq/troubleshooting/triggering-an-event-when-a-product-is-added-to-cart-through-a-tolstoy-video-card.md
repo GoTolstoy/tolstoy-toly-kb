@@ -1,3 +1,5 @@
+## Triggering an Event When a Product is Added to Cart Through a Tolstoy Video Card
+
 Here's the code to subscribe to our events.
 
 ```javascript
