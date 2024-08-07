@@ -1,4 +1,4 @@
-## Tolstoy Events in GA4
+## tolstoy events in ga4
 
 ### Main Event Names (Actions):
 
