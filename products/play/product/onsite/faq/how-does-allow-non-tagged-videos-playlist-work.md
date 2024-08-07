@@ -5,5 +5,6 @@ The **Allow non tagged videos on PDPs** feature allows all videos that align wit
 
 
 If you don't want all the videos to show and just display the right videos on the product pages, make sure you don't use this feature. Only use the **Product Tagged** playlist on the **Videos** tab. 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c2ca06df-46dc-4231-b639-420ec49f70f6)
+
 
