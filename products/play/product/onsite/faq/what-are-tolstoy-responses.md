@@ -1,8 +1,8 @@
 ## What are Tolstoy responses?
 
 ### It is important to note that this feature only applies to:
-**1. Branching widgets or founder videos
-2. Embed Tolstoy projects**
+- Branching widgets or founder videos
+- Embed Tolstoy projects
 
 1. Navigate to the Responses tab of the Tolstoy project you want to check.
 ![image](https://github.com/user-attachments/assets/641640f7-35e3-4275-bc00-4a8cbae7312d)
