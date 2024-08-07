@@ -1,4 +1,4 @@
-## Next JS Implementation
+## next js implementation
 
 Our dev team created a Tolstoy implementation on Sandbox environment for next.js.
 
