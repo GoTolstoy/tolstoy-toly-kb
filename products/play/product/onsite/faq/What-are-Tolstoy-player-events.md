@@ -37,5 +37,5 @@ name (Nullable) - The name that the user submitted
 phone (Nullable) - The phone number that the user submitted
 customFields (Nullable) - A list of the custom fields that you’ve added to the form (each object has the custom key and the user’s input value)
 ​
-- Tolsoty Ended - The user completed the Tolstoy and reached the end
+- Tolstoy Ended - The user completed the Tolstoy and reached the end
 name: tolstoyReachedEnd
