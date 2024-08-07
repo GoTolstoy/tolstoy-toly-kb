@@ -1,13 +1,18 @@
-## How do I instantly share my Tolstoys in Gmail?
+## how do i instantly share my tolstoys in gmail?
 
 Follow these simple steps to learn how to share your Tolstoys in Gmail:
 
 1. First, download the Tolstoy Chrome extension. [Tolstoy Chrome Extension](https://chrome.google.com/webstore/detail/tolstoy/lddobacmfjhpmcdapikgehklfonmnoeg?hl=en)
 2. In your Chrome extension manager, go to the Tolstoy extension. Make sure to enable the extension on all sites. ![Extension Manager](https://downloads.intercomcdn.com/i/o/460974202/9ace16a5a5b7dde8e9d62c84/image.png)
-3. Compose a new email, and click on the pink quotation marks. ![Compose Email](https://downloads.intercomcdn.com/i/o/460773011/b12934efd32bf168cc1a6c21/image.png)
-4. You can choose one from your library, or record a Tolstoy on the spot. ![Choose from Library](https://downloads.intercomcdn.com/i/o/460856622/e67ff00da26e32f73a7aa151/image.png)
-5. If you choose your library, you will see all of the Tolstoys in your account. Pick the one you'd like to send - you can also search by name! ![Choose from Library](https://downloads.intercomcdn.com/i/o/460892720/89bd294a1721f0a6caaf473a/image.png)
+3. Compose a new email, and click on the pink quotation marks. ![image](https://github.com/user-attachments/assets/6bbd7b84-b617-447c-a980-f07e04ef50a0)
 
-The Tolstoy you chose will appear in the email as a hyperlinked gif, and will be ready to send. ![Selected Tolstoy](https://downloads.intercomcdn.com/i/o/460894283/e93a53b6b621d51d76f2f920/image.png)
+4. You can choose one from your library, or record a Tolstoy on the spot.![image](https://github.com/user-attachments/assets/2e9b891f-e5c0-4412-befc-a3885bdba7a8)
+
+5. If you choose your library, you will see all of the Tolstoys in your account. Pick the one you'd like to send - you can also search by name! ![image](https://github.com/user-attachments/assets/16b8a7d2-b210-41b1-9811-ce71fbe765e3)
+
+
+
+The Tolstoy you chose will appear in the email as a hyperlinked gif, and will be ready to send. ![image](https://github.com/user-attachments/assets/b167cb97-3b46-41ed-a1f9-2888facf9faa)
+
 
 If you choose to record one on the spot - this will trigger the extension, enabling you to record your face only, your screen + face, or just screen. The Tolstoy will then be saved in your account library, and you could then share it following the steps above.
