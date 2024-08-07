@@ -1,3 +1,3 @@
-## Is the quiz feature included in the free plan?
+## Is the Quiz Feature Included in the Free Plan?
 
-Yes, the Quiz feature is included in the Free plan but only for Offsite to be shared in SMS or Email
+Yes, the quiz feature is included in the free plan but only for offsite use, to be shared via SMS or email.
