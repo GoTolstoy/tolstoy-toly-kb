@@ -1,4 +1,4 @@
-## React Implementation
+## react implementation
 
 Our dev team created a Tolstoy implementation on Sandbox environment for react.
 
