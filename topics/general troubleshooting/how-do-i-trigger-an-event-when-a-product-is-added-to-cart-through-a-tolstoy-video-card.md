@@ -1,7 +1,8 @@
-## How do I trigger an event when a product is added to cart through a Tolstoy video card?
+## Triggering an Event When a Product is Added to Cart Through a Tolstoy Video Card
 
 Here's the code to subscribe to our events.
 
+```javascript
 function openMiniCartModal(productHandle) {
     if (window.CustomCartHandler && typeof window.CustomCartHandler.openMiniCart === "function") {
         window.CustomCartHandler.openMiniCart(productHandle);
@@ -29,3 +30,4 @@ if (window.tolstoyWidget) {
 } else {
     window.addEventListener("tolstoyWidgetReady", subscribeToQuickShopClick);
 }
+```
