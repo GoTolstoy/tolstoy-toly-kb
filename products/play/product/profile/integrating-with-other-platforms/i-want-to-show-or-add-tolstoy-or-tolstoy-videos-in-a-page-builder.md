@@ -1,4 +1,4 @@
-## I want to show or add Tolstoy or Tolstoy videos in a Page Builder, like Replo, GemPages, PageFly, Zipify, Shogun etc.
+## i want to show or add tolstoy or tolstoy videos in a page builder, like replo, gempages, pagefly, zipify, shogun etc.
 
 If you want to display Carousel or Stories in a Page Builder. You can go to Onsite tab > select the Tolstoy project that you created > click the publish button (top right) > click “Use code instead” > copy code.
 
