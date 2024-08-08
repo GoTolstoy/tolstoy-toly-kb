@@ -1,18 +1,16 @@
-## Tapcart Code Block for Homefeed Top Bar Implementation
+## Tapcart Code Block for Apps That Use Side Navigation
 
-### For Apps that Use Bottom Navigation
-
-**HTML Code:**
+### HTML Code
 
 ```html
 <tolstoy-block
-    data-publish-id="**PROJECT_PUBLISH_ID**"
-    data-block-type="video-page"
-    data-nav-type="header-and-bottom-navbar"
+    data-publish-id=""**PROJECT_PUBLISH_ID**""
+    data-block-type=""video-page""
+    data-nav-type=""header""
 ></tolstoy-block>
 ```
 
-**CSS Code:**
+### CSS Code
 
 ```css
 * {
@@ -22,17 +20,17 @@
 }
 ```
 
-**JavaScript Code:**
+### JavaScript Code
 
 ```javascript
 function createTolstoyBlock() {
-    const script = document.createElement('script');
-    script.setAttribute('type', 'module');
-    script.setAttribute('defer', '');
-    script.setAttribute('src', 'https://widget.gotolstoy.com/we/widget.js');
-    script.setAttribute('data-app-key', 'TOLSTOY_APP_KEY');
-    
-    document.head.appendChild(script);
+  const script = document.createElement('script');
+  script.setAttribute('type', 'module');
+  script.setAttribute('defer', '');
+  script.setAttribute('src', 'https://widget.gotolstoy.com/we/widget.js');
+  script.setAttribute('data-app-key', 'TOLSTOY_APP_KEY');
+  
+  document.head.appendChild(script);
 }
 
 createTolstoyBlock();
