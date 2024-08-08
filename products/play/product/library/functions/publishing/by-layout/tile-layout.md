@@ -1,4 +1,4 @@
-How to Use Tolstoy's New Tile Feature to Add Product Videos on Shopify
+## how to use tolstoy's mew Tile feature to add product videos on shopify
 Tutorial Video
 Introduction: In this article, we'll guide you through the process of using Tolstoy's new tile feature to dynamically add a product video to your Shopify product pages (PDPs). The tile feature allows you to insert a single block to your Template that automatically displays the respective product videos on all your product pages.
 Prerequisites:
@@ -7,15 +7,19 @@ You should have some videos tagged with products in your Tolstoy account.
 
 Steps:
 
-Creating a New Tile Project:
+1. Creating a New Tile Project:
 
-Go to "Onsite Create" in Tolstoy.
-Select a "Tile" project.
+- Go to "onsite" then click "create Tolstoy" > Select the "Tile" layout then click "start creating"
+
+![image](https://github.com/user-attachments/assets/05b153f1-dc95-4597-88de-a86adc6a4a95)
+![image](https://github.com/user-attachments/assets/8ec9148e-ccf0-4a99-a60f-65b79969afc0)
+![image](https://github.com/user-attachments/assets/24ffb9f9-da61-4b97-989f-f26b40979457)
 
 
-Selecting Product Videos:
 
-In the project, navigate to the "Videos" section.
+2. Selecting Product Videos:
+
+- In the project, navigate to the "Videos" section.
 You'll see a list of products that have associated product videos.
 
 
@@ -34,7 +38,7 @@ Customize the play button with a border and control the transparency.
 Save your design changes.
 
 
-Publishing the Tile:
+3. Publishing the Tile:
 
 Once your design is ready, go to the "Publish Instructions" section.
 Copy the "Publish ID" provided and click "Add block". This will guide you to your product template and add a block.
