@@ -1,13 +1,13 @@
-## I already created Carousel. Now, I was wondering how am I supposed to bring it on the page on my Shopify website?
+## i already created carousel. now, i was wondering how am i supposed to bring it on the page on my shopify website?
 
 1. In the Tolstoy Dashboard -> Onsite -> Click the carousel you created.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/aa6d3d2c-2a58-447f-afc6-925b57f482fd)
+![image](https://github.com/user-attachments/assets/e54d379e-a681-410e-99f5-996aad020fb8)
 
 
 2. Click the **Publish** button.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/b539f7a2-c791-491b-aa42-48d80c7feb8c)
+![image](https://github.com/user-attachments/assets/733338f1-85ea-49ae-a6d3-49ad8197ebc2)
 
 
 3. Copy the Publish ID.
@@ -32,5 +32,6 @@
 
 7. Paste the **publish ID** that you copied from the Tolstoy dashboard. **Save**.
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/804cc110-51d4-49d4-b7a0-a986e6a0db3f)
+ ![image](https://github.com/user-attachments/assets/37706027-0c1a-478b-967f-42bfbf3251fc)
+
 
