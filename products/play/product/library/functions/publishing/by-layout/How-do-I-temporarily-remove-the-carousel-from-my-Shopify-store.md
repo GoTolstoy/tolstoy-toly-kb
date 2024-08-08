@@ -1,7 +1,11 @@
-## How do I temporarily remove the carousel from my Shopify store?
+## how do i temporarily remove the carousel from my shopify store?
 
-1. In the Tolstoy app, click the Tolstoy carousel you want to remove, and click Pause. ![Step 1](https://downloads.intercomcdn.com/i/o/887837175/fcfc3ced07ae63b9bc7fd50b/image.png)
-2. Your carousel is now temporarily removed from your Shopify store. To add the carousel back, you can simply click Publish then, Done. ![Step 2](https://downloads.intercomcdn.com/i/o/887837846/3d258757c71124d096d6c7f2/image.png) 
+1. In the Tolstoy app, click the Tolstoy carousel you want to remove, and click Pause. 
+![image](https://github.com/user-attachments/assets/1e8a8ce0-f66b-4b32-ac29-13fee92d6bd9)
+
+2. Your carousel is now temporarily removed from your Shopify store. To add the carousel back, you can simply click Publish then, Done. 
+![image](https://github.com/user-attachments/assets/e7432dcc-de4c-4769-9427-254d04570b0c)
+![image](https://github.com/user-attachments/assets/6e87e6d2-3121-4a89-987a-b21ecdd0d40e)
 
 **Additional questions:**
 
