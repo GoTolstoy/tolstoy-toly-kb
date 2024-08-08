@@ -1,4 +1,4 @@
-## How do I temporarily remove stories from my Shopify store?
+## how do I temporarily remove stories from my Shopify store?
 
 1. Click the Tolstoy stories you want to remove. On the top right, click “Published” then click "Pause".
 
