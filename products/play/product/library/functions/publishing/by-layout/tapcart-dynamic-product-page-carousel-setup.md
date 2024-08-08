@@ -1,6 +1,12 @@
 ## Tapcart Dynamic PDP Carousel Setup
 
-The **PROJECT_PUBLISH_ID** in the HTML code needs to be replaced with the publish ID from the TV project, which you can find in the Tolstoy app. Make sure to replace the **TOLSTOY_APP_KEY** in the JS code with your Tolstoy app key.
+The **PROJECT_PUBLISH_ID** in the HTML code needs to be replaced with the publish ID from the TV project, which you can find in the Tolstoy app.
+
+![image](https://github.com/user-attachments/assets/bd51bcd9-668c-4eb2-ae42-cea808a05e3d)
+
+Make sure to replace the **TOLSTOY_APP_KEY** in the JS code with your Tolstoy app key.
+
+![image](https://github.com/user-attachments/assets/29260c3c-78ce-4e9a-9c87-78caa3fa3e15)
 
 You can use this [Guidde video walkthrough](https://app.guidde.com/share/playbooks/omfqybH3Rr2yFVjgejuSTg?origin=7hK1MO5mPsQuiT0iQVou54jqkwJ3).
 
