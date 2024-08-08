@@ -33,11 +33,9 @@
 
 ### Configuring Tolstoy for Feed Implementation
 
-**The feed can be implemented either from the Homefeed Top Bar or via Navigation Item.**
+The feed can be implemented either from the **Homefeed Top Bar** or via **Navigation Item**. Please note, only Tapcart users on an Enterprise plan can use the Navigation item implementation.
 
-Please note, only Tapcart users on an Enterprise plan can use the Navigation item implementation.
-
-7. Choose if it's a home page top bar or navigation item, and then click **Done**.
+1. Choose if it's a home page top bar or navigation item, and then click **Done**.
 
    ![image](https://github.com/user-attachments/assets/b11d0eec-216b-45de-b8fa-ef49b565efe1)
 
