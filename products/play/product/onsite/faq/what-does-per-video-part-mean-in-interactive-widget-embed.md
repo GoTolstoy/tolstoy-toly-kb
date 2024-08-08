@@ -1,3 +1,3 @@
-## What does "per video part" mean in Interactive Widget/Embed?
+## Understanding "Per Video Part" in Interactive Widget/Embed
 
-It is the number of video parts/steps per Tolstoy video. For example, in this [video](https://rubkik.gotolstoy.com/?embed=lxcv4pcrbn827&max-width=960px&height=540px), there are 4 video parts/steps on a single Tolstoy embedded video.
+"Per video part" refers to the number of video segments or steps within a Tolstoy video. For example, in this [video](https://rubkik.gotolstoy.com/?embed=lxcv4pcrbn827&max-width=960px&height=540px), there are four video parts or steps in a single Tolstoy embedded video.
