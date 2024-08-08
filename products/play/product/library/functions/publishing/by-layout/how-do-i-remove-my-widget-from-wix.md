@@ -1,4 +1,4 @@
-## How do I Remove my Widget from Wix?
+## how do i remove my widget from wix?
 
 1. Log in to your Wix site Dashboard.
    
