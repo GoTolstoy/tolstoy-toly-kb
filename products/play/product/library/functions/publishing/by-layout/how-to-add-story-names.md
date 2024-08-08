@@ -1,4 +1,4 @@
-## How to add story names
+## how to add story names
 
 1. Go to Onsite and click the video stories you'd like to add story names to.
 ![image](https://github.com/user-attachments/assets/81663e37-c781-445e-91bc-2b1c42fa00ad)
