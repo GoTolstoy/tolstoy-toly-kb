@@ -4,15 +4,18 @@ Tag your Shopify products in the videos in your Tolstoy library. You can learn a
 
 1. Go to the Shop tab in Tolstoy. 
 
-![Step 1](https://downloads.intercomcdn.com/i/o/956773744/ed7f01d2cf452723dbdb4c8e/image.png)
+![image](https://github.com/user-attachments/assets/fa0c2db6-4e5a-4c4f-9701-ae74cc1160c4)
+
 
 2. Select Product page. 
 
-![Step 2](https://downloads.intercomcdn.com/i/o/956774046/d8c9b55649aa75809b0da2a7/image.png)
+![image](https://github.com/user-attachments/assets/2e2ad930-3732-4399-a3f6-f987dc651170)
+
 
 3. Start creating. 
 
-![Step 3](https://downloads.intercomcdn.com/i/o/956774484/36e922d6b6b659924eeaf087/image.png)
+![image](https://github.com/user-attachments/assets/ccc518a7-e44d-4be4-872f-426d1be0da21)
+
 
 ### Features and Adjustments
 
@@ -29,7 +32,8 @@ Tag your Shopify products in the videos in your Tolstoy library. You can learn a
 - Now, you can click on each video to add or remove any products before continuing the process of setting up your feeds.
 - You can tag one or multiple products in each video. When you are finished tagging products for that video, click the Save button.
 
-![Adding/removing products](https://downloads.intercomcdn.com/i/o/956784754/555aa9fa79d7917dc0d719b1/image.png)
+![image](https://github.com/user-attachments/assets/520508ac-b178-47e4-b608-1afefc7be8a7)
+
 
 #### 3. Video Inventory
 
@@ -41,7 +45,8 @@ Tag your Shopify products in the videos in your Tolstoy library. You can learn a
 
 - Once you have added all of the products that you want in your product page feed, select Publish. This will launch your selected videos as a feed on your Shop product pages.
 
-![Setting Shop Live](https://downloads.intercomcdn.com/i/o/956787500/887ebfc105b132e524339301/image.png)
+![image](https://github.com/user-attachments/assets/66b98229-0c37-44a1-b16a-9ea27e36af4c)
+
 
 ### Updating your feed
 
@@ -52,7 +57,8 @@ You can easily update your Shop product pages feed with new video content by add
   - Untag videos that you don’t want to show in your product pages feed.
 - When you’re finished tagging or untagging videos, simply click the Sync Videos button located in the top right corner of the page. This action will update your feed with the recently added or removed videos.
 
-![Updating your feed](https://downloads.intercomcdn.com/i/o/956788394/86fa83605c7b3c0dbe998bd7/image.png)
+![image](https://github.com/user-attachments/assets/840df354-1c01-4f40-9ef6-2ce3fdc7188e)
+
 
 **Remember!**
 Anytime you tag a product in a Tolstoy video, that video will also appear next to your products on Shop after you sync your videos.
@@ -62,7 +68,8 @@ Also, whenever you make any changes to your product page feeds, you must click S
 
 To hide or remove the feed from your Shop product page, simply click the orange Pause button located in the top right corner of the page. This action will conceal the feed in your Shop while you make adjustments such as adding or removing videos.
 
-![Pausing your feed](https://downloads.intercomcdn.com/i/o/956788808/46e43ff7f0e1964fce2cff4b/image.png)
+![image](https://github.com/user-attachments/assets/7c1e5846-e38e-45dc-83bf-10e2d6c11bbe)
+
 
 **Important:**
 When you're ready to relaunch the feed, click the Publish button to make your feed visible and live in your Shop PDPs. Also, our videos only appear on the **SHOP mobile app**. They are not shown on SHOP app browser site.
