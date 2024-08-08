@@ -1,29 +1,28 @@
-## How to create a carousel on other pages?
+## how to create a carousel on other pages?
 
 1. In the Tolstoy Dashboard, navigate to the **Onsite** tab.
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/c2975d16-d637-41e4-af13-fcd1965befff)
+![image](https://github.com/user-attachments/assets/56626781-c053-46af-8713-501c2779378d)
 
 
 2. Click on **Create Tolstoy**.
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/5d936be3-88d2-46a3-86bb-f9ea0bfb5643)
+![image](https://github.com/user-attachments/assets/a96b6c6f-86ae-4056-b566-94a0afb82d32)
 
-   
+
 3. Select **Create from scratch**.
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/496a60d7-3ca3-4115-89c7-ff87bd9904d5)
+![image](https://github.com/user-attachments/assets/e08e8684-700a-41da-b92d-b40f2a266e3f)
 
 
-4. **Carousel**
+4. Select **Carousel**
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/f0bb58e1-01fd-4074-96be-8e21c9c23edd)
+![image](https://github.com/user-attachments/assets/343092e6-6f0b-4074-9c9c-90ba19a76be4)
 
 
-5. Choose Product pages, Collection pages, or Other pages. Pick the option that best fits your needs.
+6. Choose Product pages, Collection pages, or Other pages. Pick the option that best fits your needs.
    
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/78b97766-f9b1-4059-8538-70fa5dda8f34)
-
+![image](https://github.com/user-attachments/assets/6408b407-a3e6-482d-aac6-aa54c220ca2f)
 
 
 Once you have created the Carousel, you will be redirected to its own dashboard. (**Note**: If you create a layout/feature, not just Carousel but for all types of layouts/features in the Onsite tab, it's referred to as a **Project**, and each project has its own dashboard.) Here, you can manage the Videos, Design, and Analytics of the project you created.
