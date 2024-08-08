@@ -1,8 +1,8 @@
-## How do I publish videos on the Shop app's brand page/homepage?
+## How do I publish videos on the Shop app's brand page/home page?
 
-Add videos to your Shop app homepage to let new users explore your products in a way that’s proven to convert better.
+Add videos to your Shop app brand page/homepage to let new users explore your products in a way that’s proven to convert better.
 
-1. You need to first tag products in your videos in your Tolstoy video library.
+1. You need to first tag products in your videos in your Tolstoy Library.
 
 **Important:**
 The tagging step is crucial to ensure that your store stands out and presents videos in a unique and engaging way. By not completing this tagging step, Tolstoy won't be able to showcase the videos in your Shop store.
@@ -21,7 +21,7 @@ The tagging step is crucial to ensure that your store stands out and presents vi
 
 **Important:**
 You can only create your home page feed using videos that are already in your Tolstoy library.
-Click on the Video Library to access those videos. You can add videos to your Video Library by importing them from Instagram, TikTok, or uploading them directly to your Tolstoy Video Library.
+Click on Library to access those videos. You can add videos to your Library by importing them from Instagram, TikTok, or uploading them directly to your Library.
 
 ### Setting Shop Live
 
@@ -31,20 +31,20 @@ For first-time users, click Publish which is located in the top right corner of 
 
 ### Updating your feed
 
-Easily refresh your Shop's home page feed with new video content by adding fresh videos from your Video Library. To include new videos in the feed, follow the same process as above, and afterward, simply click the "Sync Videos" button located in the top right corner of the page. This action will update your feed with the recently added videos.
+Easily refresh your Shop's brand page/home page feed with new video content by adding fresh videos from your Library. To include new videos in the feed, follow the same process as above, and afterward, simply click the "Sync Videos" button located in the top right corner of the page. This action will update your feed with the recently added videos.
 
 ### Pausing your feed
 
-To hide or remove the feed from your Shop home page, simply click the orange Pause button located in the top right corner of the page. This action will conceal the feed in your Shop app while you make adjustments such as adding, removing, or reordering videos.
+To hide or remove the feed from your Shop brand page/home page, simply click the orange Pause button located in the top right corner of the page. This action will conceal the feed in your Shop app while you make adjustments such as adding, removing, or reordering videos.
 
 **Important:**
-When you're ready to relaunch the feed, click the Publish button to make your feed visible and live on your Shop's Home page. 
+When you're ready to relaunch the feed, click the Publish button to make your feed visible and live on your Shop's brand page/home page. 
 
 ![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956729126/dc74db692cd00d2be17827c0/image.png)
 
 ### Reordering videos for Shop app homepage carousel
 
-The order of the videos in a carousel can be changed if you want to highlight specific videos as the first ones to be seen in the feed. To reorder the videos on the Shop home carousel:
+The order of the videos in a carousel can be changed if you want to highlight specific videos as the first ones to be seen in the feed. To reorder the videos on the Shop brand/home page carousel:
 
 1. Select and drag the video to the position where you want it in the feed. 
 
