@@ -1,11 +1,4 @@
-## Configuring Tapcart within Tolstoy for Feed Implementation
-
-### Tutorial Videos
-
-- [Navigation Item implementation](https://share.synthesia.io/embeds/videos/36865632-2350-438f-9765-b6c004b53ef6)
-- [Homefeed Top Bar implementation](https://share.synthesia.io/embeds/videos/0733361c-74a5-461e-a0f4-7aeb413416c6)
-
-### Steps to Configure Tapcart within Tolstoy
+## Steps to Configure Tapcart within Tolstoy
 
 1. Go to **Onsite**.
 
@@ -31,12 +24,12 @@
 
    ![image](https://github.com/user-attachments/assets/78c4ca98-c883-4eaf-8195-9bfb3babd9b4)
 
-### Configuring Tolstoy for Feed Implementation
-
-The feed can be implemented either from the **Homefeed Top Bar** or via **Navigation Item**. Please note, only Tapcart users on an Enterprise plan can use the Navigation item implementation.
-
-1. Choose if it's a home page top bar or navigation item, and then click **Done**.
+7. Choose if it's a home page top bar or navigation item, and then click **Done**.
 
    ![image](https://github.com/user-attachments/assets/b11d0eec-216b-45de-b8fa-ef49b565efe1)
 
 **Note:** If your Tapcart app uses multi-currency, go to the **Design** tab and turn off **Product price** under the **Product Card** section.
+
+## Configuring within Tapcart
+
+The feed can be implemented either from the **Homefeed Top Bar** or via **Navigation Item**. Please note, only Tapcart users on an Enterprise plan can use the Navigation item implementation.
