@@ -1,12 +1,10 @@
-## Tapcart Code Block for Side Navigation Implementation
-
-For apps that use side navigation
+For apps that use side navigation:
 
 **HTML** code:
 
 ```html
 <tolstoy-block
-    data-publish-id=""**PROJECT_PUBLISH_ID**""
+    data-publish-id=""PROJECT_PUBLISH_ID""
     data-block-type=""video-page""
     data-nav-type=""custom-screen""
 ></tolstoy-block>
@@ -23,3 +21,17 @@ For apps that use side navigation
 ```
 
 **JS** code:
+
+```javascript
+function createTolstoyBlock() {
+  const script = document.createElement('script');
+  script.setAttribute('type', 'module');
+  script.setAttribute('defer', '');
+  script.setAttribute('src', 'https://widget.gotolstoy.com/we/widget.js');
+  script.setAttribute('data-app-key', 'TOLSTOY_APP_KEY');
+  
+  document.head.appendChild(script);
+}
+
+createTolstoyBlock();
+```
