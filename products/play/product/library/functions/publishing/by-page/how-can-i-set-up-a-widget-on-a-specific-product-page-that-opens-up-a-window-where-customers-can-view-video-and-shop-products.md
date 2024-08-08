@@ -1,35 +1,38 @@
-## How can I set up a widget on a specific product page that opens up a window where customers can view video and shop products?
-## How can I set up a widget on a specific product page that opens up a window where customers can view video and shop products?
+## how can i set up a widget on a specific product page that opens up a window where customers can view video and shop products?
 
 You can choose between Stories or Swipeable Widget. Recommended is Stories or what we call Product page stories.
 
 **Swiepable Widget** is the pop-up version usually on bottom right of the page.
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/96eebc32-d7b5-424e-9b52-a1622d2a3bad)
+![image](https://github.com/user-attachments/assets/876c6d71-3a83-4e3d-a3aa-8e77178068a7)
 
 
 **Stories** are like Instagram Stories constantly showing in your PDPs.
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/f6427c6d-8200-4793-a5bb-2f5ce98fa339)
+![image](https://github.com/user-attachments/assets/ef1e17f2-3873-4240-9133-095e00dcab35)
 
 
 ### How to create a Swipeable Widget:
 
 1. In the Tolstoy Dashboard, go to Onsite -> Create Tolstoy
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/47f95747-e54e-403c-bb4a-dc1b16cd54be)
+![image](https://github.com/user-attachments/assets/108fc1db-87ec-4892-8809-1d8cc37b7329)
+
 
 
 2. Create from scratch 
   
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/1958e624-7ece-4e98-8228-90196d3c8132)
+![image](https://github.com/user-attachments/assets/ede768ba-32c3-41c1-8eb5-7bb40f1d97a6)
+
   
 
 3. Widget
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/36909e8d-63b8-4d6c-a5f6-5dd8e0b5f964)
+![image](https://github.com/user-attachments/assets/d1424eef-f444-40f7-bf6b-745d456c86d0)
+
 
 
 4. Swipeable
 
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/95dab38c-5feb-43e7-a6d4-d09b2b23c7a7)
+![image](https://github.com/user-attachments/assets/1bb090f2-06a1-4e99-85f1-3e391d67d86f)
+
