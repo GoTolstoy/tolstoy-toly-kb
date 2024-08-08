@@ -9,15 +9,18 @@ The tagging step is crucial to ensure that your store stands out and presents vi
 
 2. Once you have tagged the products in your videos, click on the Shop section. 
 
-![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956722803/6afd4e6bff38df2064b21046/image.png)
+![image](https://github.com/user-attachments/assets/ef247e63-66cd-4572-b791-43293af84bab)
+
 
 3. Select Brand page. 
 
-![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956723390/fd9451ff5a78bc697d8657ed/image.png)
+![image](https://github.com/user-attachments/assets/4bb006aa-633e-4757-9bd4-780d8c9c6a81)
+
 
 4. Start creating. 
 
-![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956723903/3f3150993419fa2a24148145/image.png)
+![image](https://github.com/user-attachments/assets/ae59182e-8ee5-41ed-90ef-2272449bdccb)
+
 
 **Important:**
 You can only create your home page feed using videos that are already in your Tolstoy library.
@@ -27,7 +30,8 @@ Click on Library to access those videos. You can add videos to your Library by i
 
 For first-time users, click Publish which is located in the top right corner of the screen. Otherwise, click on the Sync videos button. This will launch your selected videos as a feed on your Shop's home page. 
 
-![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956724834/15edac59c6ee075e0f84936b/image.png)
+![image](https://github.com/user-attachments/assets/885114d5-8a92-4ec7-8df0-34563937ca47)
+
 
 ### Updating your feed
 
@@ -40,7 +44,8 @@ To hide or remove the feed from your Shop brand page/home page, simply click the
 **Important:**
 When you're ready to relaunch the feed, click the Publish button to make your feed visible and live on your Shop's brand page/home page. 
 
-![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956729126/dc74db692cd00d2be17827c0/image.png)
+![image](https://github.com/user-attachments/assets/5af2d426-096c-4c88-9970-6a7356fa46c1)
+
 
 ### Reordering videos for Shop app homepage carousel
 
@@ -48,11 +53,13 @@ The order of the videos in a carousel can be changed if you want to highlight sp
 
 1. Select and drag the video to the position where you want it in the feed. 
 
-![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956730446/c233320904f0704059f6a3cb/image.png)
+![image](https://github.com/user-attachments/assets/1f7d4f5d-680e-497e-9fa8-3af5739ce913)
+
 
 2. Once you’re happy with the order of the videos, click Sync videos in the top right corner. 
 
-![Screenshot of this step](https://downloads.intercomcdn.com/i/o/956732172/7720124d7620c550cba2c7a8/image.png)
+![image](https://github.com/user-attachments/assets/7c208fdf-e71d-40fa-b579-c3008b17ba64)
+
 
 **Important:**
 Always click the Sync videos button if you are adding/deleting/making any changes to the videos. Also, our videos only appear on the **SHOP mobile app**. They are not shown on SHOP app browser site.
