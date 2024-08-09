@@ -1,12 +1,24 @@
-## How to Integrate Tolstoy with Live Chat
+## how to integrate tolstoy with live chat
 
 Ready to integrate live chat with your Tolstoy? If you're using Intercom, Gorgias, tawk.to, LiveChat, HelpScout, Drift, or HubSpot, you can simply add this chat feature through your Tolstoy builder:
 
-1. In Tolstoy Dashboard > Go to Onsite > select the Tolstoy Widget that you want to integrate the chat > then go to Videos tab.
-2. Click on the circled button to open the drop-down menu of answer options. (screenshot image of this step: ![Step 1](https://downloads.intercomcdn.com/i/o/850642889/4727b78e50b717d1e2add1b7/faab633b-39c7-43ae-9f26-52bf9ee1f3b0))
+1. In Tolstoy Dashboard > Go to Onsite > select the Tolstoy Widget that you want to integrate the chat > then go to Videos tab. 
+![image](https://github.com/user-attachments/assets/f93d7193-cb2b-4c75-897c-37600b91aa32)
+
+2. Click on the circled button to open the drop-down menu of answer options. 
+![image](https://github.com/user-attachments/assets/e90425a6-9287-416d-b1e8-42ac06d53927)
+
 3. Select Other and then, Chat.
-4. Open up this new drop-down menu to see the available live chat platforms you can connect to.
-5. Choose the live chat platform that you want to use and click Save!
+![image](https://github.com/user-attachments/assets/d92b44c0-ea0e-49c2-9e28-19ae1cd8b684)
+![image](https://github.com/user-attachments/assets/f6da4008-0522-44ae-b714-901fa854576d)
+
+
+5. Open up this new drop-down menu to see the available live chat platforms you can connect to.
+![image](https://github.com/user-attachments/assets/3ab91065-0cdd-4455-ab2a-14e3583d6b73)
+
+6. Choose the live chat platform that you want to use and click Save!
+![image](https://github.com/user-attachments/assets/c3c90c38-1c2a-4a91-9be2-7b8d41451c12)
+
 
 As long as you have the live chat platform installed on the site that you selected, then you're good to go. Users can click on the button, and it will automatically open up the live chat.
 
