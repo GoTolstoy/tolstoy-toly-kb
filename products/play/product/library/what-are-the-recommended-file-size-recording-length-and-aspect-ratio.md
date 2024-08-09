@@ -1,4 +1,4 @@
-## What are the Recommended File Size, Recording Length, and Aspect Ratio?
+## what are the recommended file size, recording Length, and aspect ratio?
 
 When creating content, file size, recording length, and screen orientation are all important considerations.
 
