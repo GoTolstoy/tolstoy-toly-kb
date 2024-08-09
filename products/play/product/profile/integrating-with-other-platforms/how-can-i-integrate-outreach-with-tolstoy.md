@@ -1,10 +1,25 @@
-## How can I integrate Outreach with Tolstoy?
+## how can i integrate outreach with tolstoy?
 
-1. Navigate to our Integrations page. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/745275878/52f55d515ab0c4ccf3d18731/image.png)
-2. Click on Connect next to the Outreach app. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/745276732/e918c92ba3ca88cc179b00a3/image.png)
-3. Your account will then be integrated with Outreach! To try the integration out, click on Share. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/745278483/5e50ed43cebdaf95033c7b10/image.png)
-4. Navigate to the Email tab - click on Select email distribution system, and select Outreach from the dropdown menu. Copy the code and paste it into your tool. (screenshot image of this step: https://downloads.intercomcdn.com/i/o/745284588/c6eb3d54c8d02dddb46ca2b2/image.png)
+1. Navigate to our Integrations page. 
+![image](https://github.com/user-attachments/assets/451678ff-b39f-4b66-962b-eae238d30ac7)
 
-And that's it! Your template will wait for you on the Template tab, and will be called "Tolstoy #". (screenshot images: https://downloads.intercomcdn.com/i/o/447237048/9de4ed331e152240f37425b2/image.png & https://downloads.intercomcdn.com/i/o/447237957/9de7ea90d20e494988f207d2/image.png)
+2. Click on Connect next to the Outreach app. 
+![image](https://github.com/user-attachments/assets/f676cd2e-e96f-4ca6-add4-a6a9cad46a92)
 
-The snippet will be in your Snippets tab. (screenshot images: https://downloads.intercomcdn.com/i/o/447240137/dc5a5186369f18578d7a3c5e/image.png & https://downloads.intercomcdn.com/i/o/447240403/39f8bbaf1287ba17b8022284/image.png)
+3. Your account will then be integrated with Outreach! To try the integration out, click on Share.
+![image](https://github.com/user-attachments/assets/21ee2089-4f3b-4c5b-bced-e743c5fc75ce)
+
+
+4. Navigate to the Email tab - click on Select email distribution system, and select Outreach from the dropdown menu. Copy the code and paste it into your tool. 
+![image](https://github.com/user-attachments/assets/bbd39272-fe5d-47ad-921b-06614e0ab6a3)
+
+
+And that's it! Your template will wait for you on the Template tab, and will be called "Tolstoy #". 
+![image](https://github.com/user-attachments/assets/8735ffa3-9ab8-47a7-8805-c5c73a4c52f7)
+![image](https://github.com/user-attachments/assets/8c7ca106-f4d8-49fc-9e40-8b4c644f76ec)
+
+
+The snippet will be in your Snippets tab. 
+![image](https://github.com/user-attachments/assets/260ee2c2-4666-4afe-93c1-0f7be9f509e3)
+![image](https://github.com/user-attachments/assets/1398d5c2-d9b0-43e1-9bd1-a65ecf1e89a7)
+
