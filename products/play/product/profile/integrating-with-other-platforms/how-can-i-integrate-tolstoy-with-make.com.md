@@ -16,5 +16,6 @@
 
 8. That's it! Click on Save at the bottom of the screen. ![image](https://github.com/user-attachments/assets/aea12153-abf0-4588-bd42-4367995fe0a1)
 
-9. Now, connect Tolstoy with the receiving platform. In this example, we set up Tolstoy leads to create new rows in a Google Sheets spreadsheet. ![image](https://github.com/user-attachments/assets/be7e239a-e138-4688-a5b4-d35acd54cf5a)
+9. Now, connect Tolstoy with the receiving platform. In this example, we set up Tolstoy leads to create new rows in a Google Sheets spreadsheet.
+10. ![image](https://github.com/user-attachments/assets/be7e239a-e138-4688-a5b4-d35acd54cf5a)
 
