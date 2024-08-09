@@ -1,4 +1,4 @@
-## How can I crush it with Monday & Tolstoy Integration?
+## how can i crush it with monday & tolstoy integration?
 
 Monday is an amazing platform to monitor projects, run workflows and manage everyday tasks. The Monday and Tolstoy integration allows you to track and manage all of your leads, prospects, applicants or site visitors' interactions with Tolstoys!
 
@@ -7,7 +7,9 @@ Interactive videos are engaging, personal, concise and eye-catching. That's why 
 Continue reading to learn how to use Tolstoy on Monday for your unique needs!
 
 **Get Started**
-Create a Tolstoy to correlate with your Monday board. Once your Tolstoy is published, all user responses will be gathered and presented in your Monday board, enabling you to conveniently monitor all responses! (screenshot image: https://downloads.intercomcdn.com/i/o/406464905/c6b99fdfe3217275d56d690f/image.png)
+Create a Tolstoy to correlate with your Monday board. Once your Tolstoy is published, all user responses will be gathered and presented in your Monday board, enabling you to conveniently monitor all responses! 
+![image](https://github.com/user-attachments/assets/b5148061-5022-41b7-97f1-18800528f39e)
+
 
 **Lead Qualification**
 Tolstoy is an incredible lead qualification tool - the fast and convenient format minimizes user drop off, the interactive video engages the viewer, and the Tolstoy Choices enable you to filter out unsuccessful leads by asking the relevant questions (budget, title, authority, etc).
