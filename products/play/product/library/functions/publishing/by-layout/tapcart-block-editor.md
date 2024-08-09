@@ -1,6 +1,6 @@
 ## Tapcart Block Editor
 
-For the Tapcart Block Editor, there are different approaches when considering the type of implementation and navigation. You can use this guide to see what implementation and which navigation you'll need.
+For the Tapcart Block Editor, there are different approaches when considering the type of implementation and navigation. You can use this guide to see which navigation and what implementation you'll need.
 
 ### Comparison of Navigation Item and Homefeed Top Bar Implementation
 
