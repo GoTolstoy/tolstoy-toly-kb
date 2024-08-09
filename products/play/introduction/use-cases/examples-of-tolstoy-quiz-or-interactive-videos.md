@@ -1,4 +1,4 @@
-## Examples of Tolstoy Quiz Features
+## Examples of Tolstoy Quiz Features or Interactive Videos
 
 - [Korean Skincare Quiz](https://koreanskincare.nl/pages/ksquiz)
 - [Dermaclara](https://www.dermaclara.com/)
