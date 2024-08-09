@@ -2,7 +2,7 @@
 
 To troubleshoot your Tapcart, follow this list:
 
-- Is Tolstoy activated on the Shopify theme?
-- Is the Tapcart project live? (Published = green button)
-- Is the APP KEY copied to the code?
-- Is the app in the latest version?
+- Check if your Tolstoy is activated on the Shopify theme.
+- Check if your Tapcart project is live.
+- Check if the APP KEY is properly copied to the code.
+- Check if your app is in the latest version.
