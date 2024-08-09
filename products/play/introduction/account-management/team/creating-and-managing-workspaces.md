@@ -23,6 +23,4 @@ If you invite a person with an existing account to your team, they will have a w
 
 3. Select the workspace you want to copy the Tolstoy to, and click **Copy**.
 
-   ![screenshot](https://downloads.intercomcdn.com/i/o/748357830/49d2448fbaf377a26304bcb3/image.png)".
-
    ![screenshot](https://downloads.intercomcdn.com/i/o/748357830/49d2448fbaf377a26304bcb3/image.png)
