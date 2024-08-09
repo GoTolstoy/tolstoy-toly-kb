@@ -1,4 +1,4 @@
-## Do you have some setup guide I can read or watch?
+## do you have some setup guide i can read or watch?
 
 Yes. Most of them are available in our Help Center article: https://help.gotolstoy.com/en/
 
