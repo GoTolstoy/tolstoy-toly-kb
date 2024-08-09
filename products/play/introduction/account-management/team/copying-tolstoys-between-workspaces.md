@@ -1,9 +1,17 @@
 ## Copying Tolstoys Between Workspaces
 
-1. Hover over the Tolstoy you want to copy, click on the three dots, and select **Copy to workspace**.
+1. Choose the project you want.
 
-   ![screenshot](https://downloads.intercomcdn.com/i/o/748355535/82a12a7ffe919e2995273ce5/image.png)
+![image](https://github.com/user-attachments/assets/09d75e7b-0380-47b6-8d7e-7e65fe392671)
 
-2. Select the workspace you want to copy the Tolstoy to, and click **Creating and Managing Workspaces**. If you invite a person with an existing account to your team, they will have a workspace with their previously made Tolstoys, and they can switch between the two.
+2. Hover over the Tolstoy you want to copy and click on the three dots.
 
-   ![screenshot](https://downloads.intercomcdn.com/i/o/748357079/1c5489cc913cd835dcf1b565/image.png)
+![image](https://github.com/user-attachments/assets/70c550cc-6551-4046-be6a-673a5eef1e89)
+
+3. Select **Copy to workspace**.
+
+![image](https://github.com/user-attachments/assets/44a2ac53-7308-4b6a-8223-5d98b86f8fd2)
+
+4. Choose the workspace where you want to duplicate the project and then click **Copy**.
+
+![image](https://github.com/user-attachments/assets/f957268b-bfb4-4e6b-82a2-5c06d4e47b57)
