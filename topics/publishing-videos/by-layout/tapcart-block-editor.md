@@ -1,6 +1,6 @@
 ## Tapcart Block Editor
 
-For the Tapcart Block Editor, there are different codes depending on the type of implementation and navigation. Use this guide to determine which navigation and implementation you'll need.
+For the Tapcart Block Editor, there are different approaches when considering the type of implementation and navigation. You can use this guide to see what implementation and which navigation you'll need.
 
 ### Comparison of Navigation Item and Homefeed Top Bar Implementation
 
@@ -10,10 +10,10 @@ Navigation items at the bottom provide quick, direct access to app sections, red
 
 Bottom navigation is preferred for apps requiring frequent access to core features, enhancing usability with prominent, easily accessible icons. Side navigation, however, is better for apps with numerous options, maintaining a cleaner main screen but necessitating more taps to reach content.
 
-#### Bottom Navigation
+- **Bottom Navigation**
 
 ![image](https://github.com/user-attachments/assets/37f2a73d-0a50-467c-8a81-42819457ad13)
 
-#### Side Navigation
+- **Side Navigation**
 
 ![image](https://github.com/user-attachments/assets/f22bad6e-9754-43aa-8e73-0c7068ba6de1)
