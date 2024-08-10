@@ -1,4 +1,4 @@
-## Changing or Removing the text "Start an interactive conversation" in Embed and Widget
+## Changing or Removing the text "Begin an interactive conversation" in Embed and Widget
 
 1. Click the Embed or Widget that you created in the Onsite or Offsite tab.
 
