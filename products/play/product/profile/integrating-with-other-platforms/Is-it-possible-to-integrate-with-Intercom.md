@@ -1,4 +1,4 @@
-## Is it possible to integrate with Intercom?
+## is it possible to integrate with intercom?
 Yes. For Intercom, you can integrate it into the app by going to Profile > Integrations > Connect Intercom
 
 
