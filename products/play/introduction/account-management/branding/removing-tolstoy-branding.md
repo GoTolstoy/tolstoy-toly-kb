@@ -1,4 +1,4 @@
-## Removing "Powered by Tolstoy"
+## Removing Tolstoy Branding
 
 Removing or disabling the Tolstoy branding/watermark is an exclusive feature available for Business and Enterprise users only. To remove the branding on the backend, please follow these steps:
 
