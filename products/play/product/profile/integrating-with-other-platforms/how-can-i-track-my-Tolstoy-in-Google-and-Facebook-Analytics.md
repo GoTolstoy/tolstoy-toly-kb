@@ -1,13 +1,17 @@
-## How can I track my Tolstoy in Google and Facebook Analytics?
+## how can i track my tolstoy in google and facebook analytics?
 
 1. Navigate to the Settings tab (the icon next to the Analytics button on the upper right). 
-   ![Step 1](https://downloads.intercomcdn.com/i/o/892572440/f87dcda6c5b6cf204cfb5e6c/image.png)
+![image](https://github.com/user-attachments/assets/000a25fb-4131-452d-832f-f206ce5f8f95)
 
-2. Scroll down to Tracking. 
-   ![Step 2](https://downloads.intercomcdn.com/i/o/892573007/f54ced58e8e1343439d91f76/image.png)
+
+2. Click Tracking. 
+![image](https://github.com/user-attachments/assets/dbe8d45b-5d69-4559-a912-0fb89b5630d5)
+
 
 3. Paste your Google/Facebook tracking code in their respective fields. 
-   ![Step 3](https://downloads.intercomcdn.com/i/o/892573502/2f3541ddff59adb933107972/image.png)
+![image](https://github.com/user-attachments/assets/087126e5-88d5-4a45-a495-f045191f27a8)
+
 
 4. Save changes. 
-   ![Step 4](https://downloads.intercomcdn.com/i/o/892573699/fdebe728cb52fc7e606dd08d/image.png)
+![image](https://github.com/user-attachments/assets/6a26ec90-3da3-47b3-bb3f-02d16db4df81)
+
