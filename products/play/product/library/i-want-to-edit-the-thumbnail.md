@@ -1,4 +1,4 @@
-##  I want to edit/change the thumbnail
+##  i want to edit/change the thumbnail
 
 1. Go to your Library section on the left panel
 ![image](https://github.com/user-attachments/assets/242c210f-1150-4073-8111-bda74c20e3d5)
