@@ -1,4 +1,4 @@
-## How do I Resolve the Appearance Thumbnail Lock in the Tolstoy App?
+## how do i resolve the appearance thumbnail lock in the tolstoy app?
 
 To resolve the appearance thumbnail lock in the Tolstoy app, you will need to trim your video using a third-party app before importing it to the Tolstoy app. There are many free video editing apps available that you can use to trim your video.
 
