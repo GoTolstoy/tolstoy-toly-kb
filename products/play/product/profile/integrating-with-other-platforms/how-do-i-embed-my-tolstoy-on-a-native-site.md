@@ -1,11 +1,12 @@
-## How do I embed my Tolstoy on a native site?
+## how do i embed my tolstoy on a native site?
 
 Follow these simple steps to add your Tolstoy video to your website. This will allow you to personalize every viewer’s experience and track all engagements and responses.
 
 1. Create your Tolstoy, and click Install. 
-![screenshot](https://downloads.intercomcdn.com/i/o/834716934/d9e284e16a4e5e5ed5b310c8/image.png)
+![image](https://github.com/user-attachments/assets/5de77672-f2f5-4ce2-8e21-47d024f4de7c)
 
 2. Below is the embed code that you will use to embed the Tolstoy on your site! 
-![screenshot](https://downloads.intercomcdn.com/i/o/834711112/6b1dfd65bbe17b7d6b84f3f1/image.png)
+![image](https://github.com/user-attachments/assets/b6ae79eb-c510-420a-ae38-cc9c7497c9cf)
+
 
 3. Paste the code anywhere into your HTML.
