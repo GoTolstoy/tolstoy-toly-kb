@@ -1,6 +1,6 @@
 ### Adding a Link to a GIF in an Email
 
-Yes, it’s possible to add a link to a GIF in an email for branching widgets, embeds, video collection campaigns, or off-site messages.
+Yes, it’s possible to add a link to a GIF in an email for branching widgets, embeds, or off-site messages.
 
 1. Go to your project.
 
