@@ -2,4 +2,4 @@
 
 Yes. You can do a branched widget or embedded video.
 
-Detailed help center article: https://help.gotolstoy.com/en/articles/7548893-how-can-i-create-a-branched-widget
+Detailed help center [article](https://help.gotolstoy.com/en/articles/7548893-how-can-i-create-a-branched-widget)
