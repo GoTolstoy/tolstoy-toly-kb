@@ -1,16 +1,16 @@
-## How to tag product variants
+## how to tag product variants
 
 1. Go to library > select product
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/a03b2a01-9e05-4039-84a4-0fb859b4ec72)
+![image](https://github.com/user-attachments/assets/ab5f99c3-c878-48eb-90a8-3f556420eccd)
 
 
 2. Search for the product you want to add
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/199605aa-f4c0-4cd0-8333-4bf41742bd2f)
+![image](https://github.com/user-attachments/assets/cafd9ad6-2af0-4662-b606-37f375f0040c)
 
-  
+
 4. Hover over to the product you add and "+ Add variant" button will show up
-![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/55a0f806-c537-4bc9-9129-b32bf47f2a67)
+![image](https://github.com/user-attachments/assets/bec6cfb8-72de-484c-8b01-c8ee2946b5b4)
 
 
 5. Choose the variant you want to include. That's it. Hit save once done.
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159901631/b8db0046-5f64-4090-9af2-c4e621cbf88a)
+![image](https://github.com/user-attachments/assets/63ae5912-e9f1-458e-8d79-00c776be6c95)
