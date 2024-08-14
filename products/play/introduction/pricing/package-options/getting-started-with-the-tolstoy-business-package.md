@@ -1,4 +1,4 @@
-## Getting Started with the Business Package
+## Getting Started with the Tolstoy Business Package
 
 Welcome to Tolstoy! We're excited to introduce you to our Business Package, designed for brands with 30K-100K visitors per month and those with multiple stores. This comprehensive package empowers you to scale your video marketing efforts across various platforms and locations effectively.
 
@@ -19,6 +19,5 @@ Benefit from responsive live chat support and VIP service to ensure your questio
 ### Integrations
 
 Integrate seamlessly with leading e-commerce platforms like Shopify and Salesforce Commerce Cloud, social media channels including TikTok and Instagram, and popular CRM systems such as HubSpot. Enhance your workflow with integrations across cloud storage solutions like Google Drive and Dropbox, ensuring your video strategy is streamlined and efficient across all platforms.
-
 
 Get started today with Tolstoy's Business Package and streamline your video marketing strategy across multiple channels. For more info, click [here](https://www.gotolstoy.com/pricing#). Have questions? Reach out to our team—we're here to help you every step of the way!
