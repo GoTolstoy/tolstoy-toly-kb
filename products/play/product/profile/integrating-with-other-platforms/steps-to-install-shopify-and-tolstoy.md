@@ -1,6 +1,6 @@
-## What are the Steps of Shopify and Tolstoy Installation?
+## Steps to Install Shopify and Tolstoy
 
-1. To begin the installation, go to the Shopify app store [Shopify app store](https://apps.shopify.com/tolstoy?search_id=f0c2c7e9-f78d-4186-9658-9b4bfa44984c&surface_detail=Tolstoy&surface_inter_position=1&surface_intra_position=4&surface_type=search). Then, click on Install. ![Step 1](https://downloads.intercomcdn.com/i/o/925202326/7ae854b1674b7a4d2d9a0173/image.png)
+1. To begin the installation, go to the [Shopify app store](https://apps.shopify.com/tolstoy?search_id=f0c2c7e9-f78d-4186-9658-9b4bfa44984c&surface_detail=Tolstoy&surface_inter_position=1&surface_intra_position=4&surface_type=search). Then, click on Install. ![Step 1](https://downloads.intercomcdn.com/i/o/925202326/7ae854b1674b7a4d2d9a0173/image.png)
 
 2. You’ll be taken to Shopify’s install screen. To install the app, click on the green Install App button in the top right corner of the screen. ![Step 2](https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/788768840/c95b0e8a6e077bf6b5f48adc/T-LzMIdv8q_VMdh-OkKJ092GrMQAARVAFmv4VxOWkxRjHDBtwDZI6cYiD8Q3cGU5yfOsfX_G_zo3prCRHl_EzMQgELvMktDfhk25MqM0WLo3e8CECxh54FznlKs0t74pigwSA45TdPdIhmi5EBJXilU)
 
