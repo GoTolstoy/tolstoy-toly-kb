@@ -1,4 +1,4 @@
-## Steps to Embed Tolstoy in a Hubspot Landing Page
+## Embedding Tolstoy in a Hubspot Landing Page
 
 1. Go to your landing page template in Hubspot.
 
