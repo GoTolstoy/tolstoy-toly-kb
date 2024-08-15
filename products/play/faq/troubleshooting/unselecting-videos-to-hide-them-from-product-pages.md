@@ -1,4 +1,4 @@
-## How to Unselect Videos to Hide Them from Product Pages
+## Unselecting Videos to Hide Them from Product Pages
 
 To unselect or hide videos from a Tolstoy video, you can do it in two ways:
 
