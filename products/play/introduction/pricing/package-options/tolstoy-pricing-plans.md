@@ -1,18 +1,18 @@
 ## Tolstoy Pricing Plans
 
 ### Free
-- FREE
+- Free of charge
 
 ### Pro
-- $19/month  
-- 5000 included views/impressions
-- Additional views: $0.010 per view ($10 per 1000 views) 
+- $19/month
+- Includes 5,000 views/impressions
+- Additional views: $10 per 1,000 views (or $0.010 per view)
 
-### Business  
+### Business
 - $299/month
-- 50,000 included views/month  
-- Additional views: $5 per 1000 views
+- Includes 50,000 views/month
+- Additional views: $5 per 1,000 views
 
 ### Enterprise
-- Fixed priced
-- Contact sales
+- Fixed price
+- Contact sales for more information
