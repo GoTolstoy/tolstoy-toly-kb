@@ -1,10 +1,12 @@
-## How do I Add a Tolstoy Widget to my Native Site?
+## how do i add a tolstoy widget to my native site?
 
-Follow these simple steps to add the Tolstoy widget to your native site, or an unlisted platform (Squarespace, Elementor, Webflow, etc).
+1. Navigate to your Installation tab
+2. Copy the code and paste it to your website's <head> section
 
-1. After creating your Tolstoy in the Tolstoy Dashboard > Onsite, click on Install.
-   
-2. Copy the widget code and paste it into your site's header. Set your Tolstoy as live by clicking on the Publish button.
+![image](https://github.com/user-attachments/assets/b03116d1-50e8-46d9-84cf-cf2559a4d769)
 
-   ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/8c147283-4130-4d66-95bb-97c30f3a3f3f)
+3. On your project click the publish button and copy the code and paste it your desired section
+![image](https://github.com/user-attachments/assets/0cf7f3c0-dff0-4017-adf6-062e34d98855)
+
+
 
