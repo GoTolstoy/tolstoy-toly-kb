@@ -1,3 +1,5 @@
 ## Volume on Hero video
 
-The hero video has no sound by default. It's just a looping video of up to 30 seconds to showcase your brand. 🙂
+Go to Design -> Hero -> make sure **Include mute button** is toggled OFF. If you want to mute it, toggle it ON.
+
+![image](https://github.com/user-attachments/assets/fdabe311-8254-4197-93aa-5adacdd204d1)
