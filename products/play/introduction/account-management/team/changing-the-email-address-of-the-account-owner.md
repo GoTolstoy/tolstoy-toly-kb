@@ -1,4 +1,4 @@
-## How can I change the email address of the account owner?
+## Changing the Email Address of the Account Owner
 
 1. Click the **Account profile**, then go to **Settings**.
 
