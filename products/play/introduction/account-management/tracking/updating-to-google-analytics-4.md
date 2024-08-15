@@ -1,4 +1,4 @@
-## How to Update to Google Analytics 4
+## Updating to Google Analytics 4
 
 You can now update your GA4 tracking ID for all Tolstoys in your account settings. Here's how:
 
