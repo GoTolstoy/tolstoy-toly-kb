@@ -1,12 +1,21 @@
-## How do I enable/edit closed captions in my Tolstoy?
+## how do i enable/edit closed captions in my tolstoy?
 
 1. Go to the Video settings on your Videos tab.
 2. Click the CC icon on the left side of your Tolstoy video. 
-   ![Step 2](https://downloads.intercomcdn.com/i/o/890134104/dad3056cd7b2a71fea9d0998/image.png)
+![image](https://github.com/user-attachments/assets/077ce527-b98d-43b4-9c2d-8d79250e59d0)
+
 3. Edit captions as you wish - you can edit the text, change the timing, and add as many subtitles as needed. Click Save when you are done. 
-   ![Step 3](https://downloads.intercomcdn.com/i/o/890136732/b0120bbd67f126e465e2f075/image.png)
+![image](https://github.com/user-attachments/assets/ca09b8f4-edad-4beb-a619-87937702582c)
+
+
+**Note:** If you want to enable the captions for your carousel or stories, you can go to design tab > video feed > turn on the Enable video captions feature
+
+![image](https://github.com/user-attachments/assets/7aeef6ae-d8ca-4bf5-b8ab-e449447238bc)
+
 
 **Note:** You can also add/edit captions in the Library for automated Tolstoy video layouts. Go to Library > hover your mouse over the video you want to add/edit closed captions > click the three dots on the upper right > Edit Captions. Save once done. 
 
-![Screenshot 1](https://downloads.intercomcdn.com/i/o/976038990/c580d59225532a9f73f7fd31/image.png)
-![Screenshot 2](https://downloads.intercomcdn.com/i/o/976039723/44be39abc8be578170bd069c/image.png)
+![image](https://github.com/user-attachments/assets/155798de-4284-4bc0-9123-ff1bae4fcb3d)
+
+![image](https://github.com/user-attachments/assets/d19e1707-bcec-4d88-b68e-04a531f3bf89)
+
