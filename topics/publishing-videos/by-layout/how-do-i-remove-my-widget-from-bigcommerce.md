@@ -1,3 +1,7 @@
-## How do I Remove my Widget from BigCommerce?
+## how do i remove my widget from bigcommerce?
 
-Click the Pause button. ![Step 1](https://downloads.intercomcdn.com/i/o/852356606/34128bda29273b10bc42d969/image.png)
+Click the Pause button. 
+
+![image](https://github.com/user-attachments/assets/cd3865a1-5471-40e9-a537-2aaf912ff1c0)
+
+
