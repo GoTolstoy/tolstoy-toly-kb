@@ -1,4 +1,4 @@
-## Steps to Synchronize Product Tagging Across Multiple Stores
+## Synchronizing Product Tagging Across Multiple Stores
 
 1. **Install the Tolstoy App in Your Shopify Stores**
 
