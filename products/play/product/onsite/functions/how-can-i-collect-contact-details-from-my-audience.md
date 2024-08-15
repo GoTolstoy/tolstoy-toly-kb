@@ -1,13 +1,19 @@
 ## How can I collect contact details from my audience?
 
-In any Tolstoy, you can ask your viewers to identify themselves by adding a contact form that requests their name, email address, phone number, and/or any custom field! To set it up, follow these simple steps!
+### This feature is only applicable to branching widgets or founder videos and embeds.
 
-1. Create your contact form
+You can ask your viewers to identify themselves by adding a contact form that requests their name, email address, phone number, and/or any custom field! To set it up, follow these simple steps!
+
+1. Create your contact form.
    Head over to the Contact form section.
-   ![Step 1](https://downloads.intercomcdn.com/i/o/891495880/17f48352100f9a771dc6cfa1/image.png)
-   ![Step 1](https://downloads.intercomcdn.com/i/o/891499039/6af650135ee895c0eccc2fbf/image.png)
+   ![image](https://github.com/user-attachments/assets/638671da-249c-4648-b29d-37ce133cf072)
+
+
+
    
    Here's how you can customize your contact form!
+
+
    ![Step 1](https://downloads.intercomcdn.com/i/o/663039639/7cba2a8448d65a3aefe1dade/image.png)
 
    - CTA text - enables you to choose the message that will appear in the contact form.
