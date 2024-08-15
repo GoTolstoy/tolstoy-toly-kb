@@ -7,7 +7,6 @@
 
 3. Click **Use code instead** and copy the code.  
 ![image](https://github.com/user-attachments/assets/17a0d3f7-0138-4be2-82b3-4ace48c290b3)
-
 ![image](https://github.com/user-attachments/assets/e87c6872-6cd2-40c1-9a8e-f4eef12cad6f)
 
 ```html
