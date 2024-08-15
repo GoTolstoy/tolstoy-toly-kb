@@ -2,7 +2,8 @@
 
 You can play around with your Tolstoy's URL to present your Tolstoy exactly how you want it! Access your Tolstoy URL by clicking “Share” and copying it from the “Link” tab.
 
-![screenshot](https://downloads.intercomcdn.com/i/o/659245664/1216df2f46eca4a0bb7ceb97/image.png)
+![image](https://github.com/user-attachments/assets/c27aaed5-5854-4012-9d95-7bc9f0a93476)
+
 
 After you copy it, you can start modifying it!
 
@@ -10,9 +11,9 @@ After you copy it, you can start modifying it!
 
 ### Display your Tolstoy in Full Screen
 
-In your Tolstoy URL, add ?host to the end, like so -
+In your Tolstoy URL, add ?host to the end, like this:
 
-**[https://player.gotolstoy.com/7jalzuv4k9aae?host](https://player.gotolstoy.com/7jalzuv4k9aae?host)**
+**https://player.gotolstoy.com/7jalzuv4k9aae?host](https://player.gotolstoy.com/7jalzuv4k9aae?host**
 
 
 Your Tolstoy will now be previewed in full screen! 
@@ -27,7 +28,7 @@ If you want to send your Tolstoy to people without collecting any responses from
 
 Add ?sneakpeek to your Tolstoy URL.
 
-**[https://player.gotolstoy.com/7jalzuv4k9aae?sneakpeek](https://player.gotolstoy.com/7jalzuv4k9aae?sneakpeek)**
+**https://player.gotolstoy.com/7jalzuv4k9aae?sneakpeek](https://player.gotolstoy.com/7jalzuv4k9aae?sneakpeek**
 
 
 Your Tolstoy will now be seen in Preview Mode! 
@@ -41,7 +42,7 @@ Let's say you want your Tolstoy to begin in part 2 or 3 instead of part 1.
 
 simply add ?start=X, X being the part number you want to show.
 
-**[https://player.gotolstoy.com/7jalzuv4k9aae?start=2](https://player.gotolstoy.com/7jalzuv4k9aae?start=2)**
+**https://player.gotolstoy.com/7jalzuv4k9aae?start=2](https://player.gotolstoy.com/7jalzuv4k9aae?start=2**
 
 This Tolstoy will now show at part 2!
 
@@ -49,5 +50,5 @@ This Tolstoy will now show at part 2!
 
 If you're sending your Tolstoy to some viewers who are not registered to the site, putting their email addresses in the URL you send them will ensure that their responses will be saved under their email address instead of as anonymous.
 
-**[https://player.gotolstoy.com/7jalzuv4k9aae?email=example@email.com](https://player.gotolstoy.com/7jalzuv4k9aae?email=example@email.com)**
+**https://player.gotolstoy.com/7jalzuv4k9aae?email=example@email.com](https://player.gotolstoy.com/7jalzuv4k9aae?email=example@email.com**
 
