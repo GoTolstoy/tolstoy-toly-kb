@@ -1,3 +1,3 @@
-## Can videos be shown on mobile in the "For you" format?
+## Can Videos Be Shown on Mobile in the "For You" Format?
 
-Yes, the "For you" video feed can also be displayed on mobile.
+Yes, the **"For You"** video feed can also be displayed on mobile.
