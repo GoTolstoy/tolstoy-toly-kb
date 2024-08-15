@@ -4,7 +4,7 @@
 
    ![screenshot](https://downloads.intercomcdn.com/i/o/939945549/109622f2b2fa1952bb252fe7/image.png)
 
-2. Click on **New Tolstoy**.
+2. Click on New Tolstoy.
 
 3. Select **'For you' video feed**.
 
