@@ -1,4 +1,4 @@
-## How to Add Team Members to Your Tolstoy Account
+## Adding Team Members to Your Tolstoy Account
 
 1. Click the **Account profile**.
 2. Choose **Settings**.
