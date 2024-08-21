@@ -1,3 +1,5 @@
+# Removing Sound from Videos
+
 ## Introduction
 
 In this tutorial, we'll walk you through the steps to remove sound from your videos for your video feeds. Whether you're a brand looking to showcase your videos without any music copyright issues or simply want to have more control over the audio in your video content, this feature will help you achieve your goals.
