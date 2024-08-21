@@ -1,4 +1,4 @@
-## Email Widget Use Cases
+# Email Widget Use Cases
 
 There are two types of carousel widgets. One is dynamic, suitable for email flows triggered by a product-related event. The other is suitable for email campaigns showing the same content in all emails sent.
 
