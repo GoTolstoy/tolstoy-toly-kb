@@ -1,3 +1,4 @@
- ## how to remove the wishlist
+## How to Remove the Wishlist
 
- Go to your design tab > Video feed > look for Hide wishlist and enable the feature.
+1. Go to your **Design** tab.
+2. Look for **Hide wishlist** and enable the feature under the **Video feed** section.
