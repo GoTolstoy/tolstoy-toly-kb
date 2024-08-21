@@ -1,4 +1,4 @@
-## What are Tolstoy Notifications?
+## Understanding Tolstoy Notifications
 
 ### Notifications per Tolstoy
 
