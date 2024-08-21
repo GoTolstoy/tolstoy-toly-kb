@@ -1,3 +1,5 @@
+# UGC Search and Usage Rights Guide
+
 ## Product Overview
 
 UGC Search allows you to search for user-generated posts on Instagram that you're tagged in or that use specific hashtags. Users can browse content they would like to use on their channels through Tolstoy. From there, they can either add it directly to the library (if they already have usage rights) or request usage rights from the creator.
