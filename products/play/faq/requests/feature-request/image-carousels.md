@@ -1,3 +1,5 @@
+# Image Carousels
+
 ## Product Overview
 
 Image carousels allow brands with static images to engage users with more content by combining multiple images into a single, interactive asset. By incorporating image carousels into your widgets and feeds, you can showcase your products in a visually appealing and engaging way alongside your videos, encouraging customers to explore more of your content.
