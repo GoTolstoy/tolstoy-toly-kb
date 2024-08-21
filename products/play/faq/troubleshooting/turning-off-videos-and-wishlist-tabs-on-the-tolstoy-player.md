@@ -1,4 +1,4 @@
-## Turn Off Videos and Wishlist Tabs on the Tolstoy Player
+## Turning Off Videos and Wishlist Tabs on the Tolstoy Player
 
 By removing the "Wishlist" tab on the Tolstoy player, it will also remove the "Videos" tab. This can help viewers focus solely on the videos and provide more space on the player. This feature is applicable for Stories, Carousel, TV Page, and Widgets but not for Hero and Tile. You can easily remove the tabs by following these steps:
 
