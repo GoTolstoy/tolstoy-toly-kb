@@ -1,4 +1,4 @@
-## How to Become an Affiliate
+## Becoming an Affiliate
 
 Sign up using this [URL](https://gotolstoy.firstpromoter.com/). Submit your email, first name, and password. Click on Sign Up.
 
