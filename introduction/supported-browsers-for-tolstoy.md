@@ -1,3 +1,5 @@
+## Supported Browsers for Tolstoy
+
 The Tolstoy app can be used on all browsers:
 
 - Google Chrome
