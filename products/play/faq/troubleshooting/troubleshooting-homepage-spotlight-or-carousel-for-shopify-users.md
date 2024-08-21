@@ -1,4 +1,4 @@
-## Troubleshooting Homepage Spotlight Carousel for Shopify Users
+## Troubleshooting Homepage Spotlight or Carousel for Shopify Users
 
 - **Ensure Products Are Tagged**: Verify that products are tagged on the videos in your carousel. You can choose from your existing playlist or create a new one in the library.
   
