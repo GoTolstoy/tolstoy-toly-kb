@@ -1,4 +1,4 @@
-## Determining If Your Views Have Exceeded the Monthly Unique Views for the Pro Plan
+## Tracking Monthly Unique Views for the Pro Plan
 
 There are two ways to track your unique impressions:
 
