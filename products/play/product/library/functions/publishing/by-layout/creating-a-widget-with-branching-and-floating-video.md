@@ -1,10 +1,10 @@
-## how to create a widget (branching version, floating video, also used for Founder Widget/Story)?
+## Creating a Widget with Branching and Floating Video
 
 Video branching only works on branching widgets and embedded videos. It doesn't apply to feeds like swipeable widgets, stories, carousels, hero, and TV pages.
 
-### Creating:
+### Creating a Widget
 
-1. Create your Widget.
+1. **Create your Widget**
    - In the Tolstoy Dashboard, click on Onsite -> Create Tolstoy -> Create from scratch -> Widget -> Branching.
 
 ![image](https://github.com/user-attachments/assets/9ecfe8d3-e16c-493b-9fc9-d892b1647cc8)
@@ -12,24 +12,21 @@ Video branching only works on branching widgets and embedded videos. It doesn't 
 ![image](https://github.com/user-attachments/assets/7a5301f7-2c9c-4fdb-b088-a5f01e2ee891)
 ![image](https://github.com/user-attachments/assets/e33ce649-d5f9-46f7-8a3d-1b914b193947)
 
-2. Choose where you want your Widget to appear.
+2. **Choose where you want your Widget to appear**
 
 ![image](https://github.com/user-attachments/assets/62b7700f-7915-4294-99eb-17b24c223f2b)
 
-
-3. Choose the video that you want to use from the video files.
+3. **Choose the video that you want to use from the video files**
    - Options include creating an entirely new recorded video, recording your screen, uploading a video file from your computer, choosing a video from your files (this will be empty when you make your first Tolstoy!), and importing from TikTok and Instagram.
+
 ![image](https://github.com/user-attachments/assets/5d74714a-98cc-472a-a77e-20e9e40476de)
 
+4. **Add question and response options using the Custom buttons**
+   - Once you are happy with the first video part, it’s time to add some text and options for the user to interact with Tolstoy using the Custom buttons. Under the Question section, type the question (if any) you want to display. Then, add some choices for the user to select from.
 
-4. Add question and response options using the Custom buttons!
-
-   - Once you are happy with the first video part, it’s time to add some text and options for the user to interact with Tolstoy using the Custom buttons. Under the Question section, type the question (if anything) you want to display. Then, add some choices for the user to select from.
 ![image](https://github.com/user-attachments/assets/291ba419-cc53-48f8-bacf-038bc9c3f1ba)
 ![image](https://github.com/user-attachments/assets/966fd1ec-7c20-4b26-811f-5afccccb8c89)
 ![image](https://github.com/user-attachments/assets/256d909f-e007-406c-b0b8-472cd38ad897)
-
-
 
    - Choose what type of interaction each choice should prompt.
 
@@ -44,26 +41,25 @@ Video branching only works on branching widgets and embedded videos. It doesn't 
      - Promo code gives the user a promo code they get as a reward for watching Tolstoy.
 
    - Note: You can also use Default buttons if you're only planning to collect video, audio, or text responses from your viewers. It's important to know that the default buttons come as a set. When you choose them, all three buttons will show up together, and you can't use them separately.
+
 ![image](https://github.com/user-attachments/assets/eaf50f30-8923-432f-bd28-95b21a7248d9)
 
-
-5. It's time to add parts to your Tolstoy (you need more than one part to make a branching Tolstoy).
+5. **Add parts to your Tolstoy**
    - To add the next part of the Tolstoy, simply click "+ new video". Create however many more parts you want by adding a new part, recording or choosing a video, and adding questions and choices.
+
 ![image](https://github.com/user-attachments/assets/de69c27e-517c-4891-a50c-bdfa2b5b9691)
 ![image](https://github.com/user-attachments/assets/02540608-e3fc-4719-9606-6913aa5125c8)
 
-
-6. Make branching between the different parts.
+6. **Make branching between the different parts**
    - You need to set the links between choices and different parts. Depending on what the user chooses, they can potentially be brought to different parts of the Tolstoy. To establish the different connections, click the dropdown on the right side of each part and choose where the user should be redirected.
-  
+
 ![image](https://github.com/user-attachments/assets/fe33d6fb-cca4-4c2d-83e3-ffc8844656fd)
 
-7. That’s it! Now, depending on which choices a user chooses, they will be sent to different parts of the Tolstoy.
+7. **That’s it! Now, depending on which choices a user chooses, they will be sent to different parts of the Tolstoy.**
+
 ![image](https://github.com/user-attachments/assets/5468e85c-21d0-4466-845d-0f8010a4c7f8)
 
-
-
-### Customize the Widget that you created:
+### Customize the Widget
 
 1. In the Widget that you created (in the Onsite tab), go to the Design tab.
 2. Click the Widget dropdown.
@@ -104,8 +100,8 @@ Video branching only works on branching widgets and embedded videos. It doesn't 
    - **Text color**:
      - That will be the color of the text on your widget and the text bubble.
 
-Widget Vs. Embed
+### Widget vs. Embed
 
-A widget will appear "over top" of the site - it will remain static in its position even when the user scrolls, and it expands only when clicked. It can also be customized. ​
+A widget will appear "over top" of the site - it will remain static in its position even when the user scrolls, and it expands only when clicked. It can also be customized.
 
-An embedded Tolstoy is embedded into your very website. It is "attached" to the site, and will not follow the viewer while scrolling. 
+An embedded Tolstoy is embedded into your very website. It is "attached" to the site and will not follow the viewer while scrolling.
