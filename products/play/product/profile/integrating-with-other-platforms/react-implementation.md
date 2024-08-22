@@ -1,5 +1,5 @@
-## react implementation
+## React Implementation
 
-Our dev team created a Tolstoy implementation on Sandbox environment for react.
+Our dev team created a Tolstoy implementation in a Sandbox environment for React.
 
-Here's the link - https://codesandbox.io/p/sandbox/festive-gould-mkj8m3
+[Here's the link](https://codesandbox.io/p/sandbox/festive-gould-mkj8m3)
