@@ -1,4 +1,4 @@
-## The Widget is Not Appearing on Mobile or Desktop
+## Widget Not Appearing on Mobile or Desktop
 
 1. Please go to your Widget project.
 2. Check out the **Rules** tab.
