@@ -1,4 +1,4 @@
-## How to Reorder Your Videos
+## Reordering Videos
 
 1. Go to the Videos tab.
 
