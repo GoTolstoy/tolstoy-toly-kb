@@ -1,4 +1,4 @@
-## Pause Videos on Your Website
+## How to Pause Videos on Your Website
 
 1. In the Tolstoy Dashboard, click the **Onsite** or **Offsite** tab.
 
