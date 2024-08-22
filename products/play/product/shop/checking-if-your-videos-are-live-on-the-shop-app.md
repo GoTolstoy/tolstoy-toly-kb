@@ -1,4 +1,4 @@
-## How to Check if Your Videos are Live on the Shop App
+## Checking if Your Videos are Live on the Shop App
 
 - If you’re a Shopify customer and Shop eligible, click the **Shop** tab in the Tolstoy Dashboard -> Start Creating -> then just click **Publish** or click the **Sync videos** button on the upper right for both the Shop Home page/Brand page and Shop product pages, whichever is applicable to you.
 
