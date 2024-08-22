@@ -1,4 +1,4 @@
-## How to Create a Carousel
+## Creating a Carousel
 
 1. In the Tolstoy Dashboard, navigate to the **Onsite** tab.
 
