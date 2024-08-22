@@ -1,4 +1,4 @@
-## Downloading Your Final Project
+## Downloading and Renaming Your Final Project
 
 The final project isn't downloadable as a whole. For instance, if you have 5 video parts in a single Tolstoy video layout, you can only download each part individually, but not the entire video as a single file.
 
