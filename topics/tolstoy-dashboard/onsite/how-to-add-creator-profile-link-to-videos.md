@@ -29,3 +29,4 @@
     - Any videos without added creator handles will not display any handle.
 2. Please note, the handles will be clickable on the Spotlight layout to direct users to their profile in a new tab. It is not clickable in the default Carousel widget or within the video feed.
 
+
