@@ -1,4 +1,4 @@
-## How to Show the Rules Tab When Working on Stories
+## Showing the Rules Tab When Working on Stories
 
 If you’re encountering an error, switching to an **Automated** feed type is the solution. Here’s a step-by-step guide:
 
