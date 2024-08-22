@@ -1,4 +1,4 @@
-## How to Publish Videos on the Shop App's Brand Page
+## Publishing Videos on the Shop App's Brand Page
 
 Add videos to your Shop app brand page to let new users explore your products in a way that’s proven to convert better.
 
