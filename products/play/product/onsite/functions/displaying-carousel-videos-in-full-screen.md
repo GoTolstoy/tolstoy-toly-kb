@@ -1,4 +1,4 @@
-## How to Display Carousel Videos in Full Screen
+## Displaying Carousel Videos in Full Screen
 
 Go to the design tab and look for the feature 'View feed in fullscreen.' Turn on the toggle, and it should provide you with a better viewing experience.
 
