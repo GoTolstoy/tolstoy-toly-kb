@@ -1,4 +1,4 @@
-## Steps to Remove a Tolstoy Video
+## How to Remove a Tolstoy Video from Your Website
 
 ### To remove Tolstoy from your website, please follow these steps:
 
