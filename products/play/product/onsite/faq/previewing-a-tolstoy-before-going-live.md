@@ -1,4 +1,4 @@
-## How to Preview a Tolstoy Before Going Live
+## Previewing a Tolstoy Before Going Live
 
 To preview your Tolstoy, follow these simple steps:
 
