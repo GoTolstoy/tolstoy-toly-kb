@@ -1,3 +1,3 @@
-## Can I rearrange the buttons on my interactive video?
+## Rearranging Buttons on Interactive Videos
 
-No. This feature is not possible at this time. You can edit it manually.
+No, this feature is not possible at this time. You can edit it manually.
