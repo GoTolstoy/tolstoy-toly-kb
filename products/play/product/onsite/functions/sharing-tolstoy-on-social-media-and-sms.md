@@ -1,4 +1,4 @@
-## How to Share Tolstoy on Social Media and SMS
+## Sharing Tolstoy on Social Media and SMS
 
 ### This guide is applicable to:
 - Onsite (branching widgets or founder videos and embeds)
