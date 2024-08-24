@@ -21,3 +21,5 @@
    ![image](https://github.com/user-attachments/assets/1aff026e-3094-4d2f-9428-e4dcb5650169)
 
    
+**Note:**
+To display your founder video or widget on specific pages, you can use the **Rules** feature. Check out this [guide](https://help.gotolstoy.com/en/articles/6404076-how-can-i-use-tolstoy-rules-triggers-for-widgets) for full details on how to set it up.
