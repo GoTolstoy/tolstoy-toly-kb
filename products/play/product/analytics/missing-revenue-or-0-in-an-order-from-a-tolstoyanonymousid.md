@@ -1,7 +1,7 @@
-## Missing Revenue or $0 in an Order from a tolstoyAnonymousID
+## Missing Revenue or $0 in an Order from a TolstoyAnonymousID
 
-The **tolstoyAnonymousID** serves as an identifier to track whether a user has interacted with your video content. Importantly, this identifier is not related to the processing of orders. If you're looking to see how long a user engaged with your video, refer to the **Time on Tolstoy** metric.
+The **tolstoyAnonymousID** is a unique identifier used to track user interactions with your video content. If you want to know how long a user watched your video, refer to the **Time on Tolstoy** metric. However, it's important to note that this identifier is not connected to the processing of orders or revenue capture.
 
-If you encounter an order with a $0 amount and the tolstoyAnonymousID is associated with it, this typically indicates that no revenue was captured for that order. This could include in-video revenue, post-video revenue, or indirect revenue. Such an order may appear as a line item in the cart but fails to generate revenue due to issues within your internal workflow.
+If you notice an order with a $0 amount linked to a tolstoyAnonymousID, it usually means that no revenue was generated for that order. This includes in-video purchases, post-video purchases, or any indirect revenue. The order may appear in the cart as a line item, but it does not contribute to your revenue totals.
 
-To resolve this, we recommend reviewing your internal processes to identify any potential issues. If the problem persists, please contact support for further assistance.
+While there are various reasons why revenue might be missing, it could be due to issues within your internal workflow. To resolve this, we recommend reviewing your internal processes. Begin by thoroughly examining your internal workflow to identify any potential issues that could be causing the revenue discrepancy. If the problem persists, please contact support for further assistance.
