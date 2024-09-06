@@ -1,4 +1,4 @@
-## Add to Cart, Buy Now, and Product Page Button Options
+## Add to Cart, Buy Now, and Product Page Button Options for Stories
 
 1. Go to **Design -> Product Card**.
 
@@ -7,4 +7,3 @@
 2. Under **Product buttons**, choose **Primary** or **Secondary** and select **Action**.
 
    ![image](https://github.com/user-attachments/assets/0f7a08ab-c98d-4724-b8e6-3d46bac33073)
-
