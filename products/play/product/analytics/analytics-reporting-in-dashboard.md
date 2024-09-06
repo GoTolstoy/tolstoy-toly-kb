@@ -1,4 +1,4 @@
-## Analytics Reporting in Tolstoy Dashboard
+## Analytics Reporting in Dashboard
 
 1. In the navigation, choose **Analytics**.
 
