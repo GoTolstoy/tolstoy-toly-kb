@@ -6,69 +6,10 @@
 
 2. You can check different analytics views and also filter by project, attribution window, and date period:
 
-### Overview
-- Viewers
-- Total viewer revenue
-- Viewer conversion rate
-- Average order value (AOV)
-- Highest-converting videos
-- Viewer revenue breakdown
-- Conversion rate
-- Average AOV
-- Product click-through rate
-
-### Online Store
-- Page
-- Tolstoy video
-- Conversion
-- Breakdown
-
-### Shop
-- Stats on impressions
-- Clicks
-- Click-through rate (CTR)
-- Videos watched
-- Products clicked
-- Products favorited
-- Store profile views
-- Followers
-- Navigations to the store from every page you have
-
-### Videos
-- Video plays
-- Average videos watched
-- Tolstoy video plays
-- Source
-- Conversion
-- Engagement
-
-### Orders
-- Tolstoy orders
-- Tolstoy orders as a percentage of total orders
-- Date
-- Order number
-- User
-- In-video revenue
-- Post-video revenue
-- Indirect revenue
-- Time spent on Tolstoy
-
-### Engagement
-- Unique impressions
-- Unique plays
-- Unique interactions
-- Events over time
-- Tolstoy events
-
-### Email Flows
-- Click-through rate (CTR)
-- Conversion rate
-- Viewed GIF (opened email)
-- Clicked GIF
-- Viewer revenue breakdown
-- First seen
-- Email
-- Campaign
-- Opened
-- Clicked
-- Converted
+- Overview: Viewers, total viewer revenue, viewer conversion rate, average order value (AOV), highest-converting videos, viewer revenue breakdown, conversion rate, average AOV, product click-through rate.
+- Online Store: Page, Tolstoy video, conversion, and breakdown.
+- Shop: Stats on impressions, clicks, click-through rate (CTR), videos watched, products clicked, products favorited, store profile views, followers, and navigations to the store from every page you have.
+- Videos: Video plays, average videos watched, Tolstoy video plays, source, conversion, and engagement.
+- Orders: Tolstoy orders, Tolstoy orders as a percentage of total orders, date, order number, user, in-video revenue, post-video revenue, indirect revenue, and time spent on Tolstoy.
+- Engagement: Unique impressions, unique plays, unique interactions, events over time, and Tolstoy events.
+- Email Flows: Click-through rate (CTR), conversion rate, viewed GIF (opened email), clicked GIF, viewer revenue breakdown, first seen, email, campaign, opened, clicked, and converted.
