@@ -8,7 +8,6 @@ Tolstoy is a video platform designed to enhance online commerce by integrating i
 - **Shoppable Videos**: Merchants can add shoppable video feeds to their stores, improving product discovery and increasing sales potential.
 - **Video Quizzes**: These are used for product demonstrations and to gather personalized recommendations, enhancing customer satisfaction and loyalty.
 - **Shop App Integration**: Get discovered by millions of shoppers and drive sales from new customers by adding shoppable video feeds to your Shop store. It’s completely free, with just a 5-minute setup.
-- **Video Studio**: Easily create AI-generated videos in just three simple steps. Enjoy full ownership and rights to your videos, making them perfect for showcasing on your website.
 
 ## Reported Benefits
 
