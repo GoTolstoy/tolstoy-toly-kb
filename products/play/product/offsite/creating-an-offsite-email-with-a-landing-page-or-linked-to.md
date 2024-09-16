@@ -8,6 +8,6 @@
 
    ![GIF Section](https://github.com/user-attachments/assets/91ea957e-af8e-47cd-8d5d-7030443da18d)
 
-3. In the **Link to** part, you can choose which page you will use as a landing page that could contain your onsite videos.
+3. In the **Link to** part, you can choose which page you will use as a landing page and could contain your onsite videos.
 
    ![Link to](https://github.com/user-attachments/assets/8518d8a6-efdf-4d8e-9847-6fa36ed6ba68)
