@@ -1,0 +1,3 @@
+## Tracking Offsite Feed Performance with UTM Parameters
+
+To accurately track the performance of offsite feeds, it is essential to add **UTM parameters**. UTM parameters are tags that you can add to the URLs of your marketing or promotional efforts. These tags help in tracking the effectiveness of campaigns by providing detailed insights into the traffic sources and user behavior. By incorporating UTM parameters into your offsite feeds, you can gather precise data on how these feeds are performing, which can inform your marketing strategies and optimizations.

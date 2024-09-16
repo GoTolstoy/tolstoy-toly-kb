@@ -1,0 +1,3 @@
+## Handling Follow-Ups for Urgent Client Requests
+
+When a client has urgent requests, it is crucial to handle follow-ups with **timely updates** and **clear communication**. This ensures that the client is kept informed about the progress and completion of their requests. Regular updates help in managing client expectations and demonstrate a commitment to addressing their needs promptly. Clear communication involves providing specific details about the status of the request, any potential delays, and the expected timeline for resolution. By maintaining consistent and transparent communication, you can build trust and ensure client satisfaction even in urgent situations.

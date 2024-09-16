@@ -1,0 +1,3 @@
+## Resolving Display Issues with Tolstoy Designs on Websites
+
+If a Tolstoy design is not displaying correctly on your website, it is crucial to ensure that you are using the correct Tolstoy block. For instance, if your design inside the app is intended to be a 'Tolstoy Stories' block, make sure you are not using a 'Tolstoy Carousel' block instead. Matching the block type to the design is essential for proper display and functionality.

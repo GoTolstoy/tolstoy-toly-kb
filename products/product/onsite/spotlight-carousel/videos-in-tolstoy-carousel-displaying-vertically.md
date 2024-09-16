@@ -1,0 +1,1 @@
+The videos in the Tolstoy carousel on Product Detail Pages (PDPs) may display vertically due to a customization built for the demo video banner. To resolve this issue, access to the Shopify store is required to check the codes and ensure that other carousels are not affected.

@@ -1,0 +1,3 @@
+## Resolving Incorrect Tolstoy Video Display on Webpages
+
+If a Tolstoy video appears incorrectly on a webpage, the first step is to check the widget's rules. These rules determine where and how the video is displayed. By reviewing and adjusting these rules, you can ensure that the video appears only on the intended pages. If necessary, remove any rules that are causing the video to display incorrectly. This should resolve the issue and ensure the video is shown as intended.

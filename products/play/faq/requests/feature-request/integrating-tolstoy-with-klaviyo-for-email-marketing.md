@@ -1,0 +1,3 @@
+## Integrating Tolstoy with Klaviyo for Email Marketing
+
+Yes, Tolstoy can be integrated with Klaviyo to enhance email marketing strategies by embedding interactive video content. This integration allows marketers to leverage the engaging power of Tolstoy's interactive videos within their Klaviyo email campaigns, providing a more dynamic and engaging experience for recipients. By incorporating interactive video content, businesses can increase engagement rates, improve customer interaction, and ultimately drive better marketing results.

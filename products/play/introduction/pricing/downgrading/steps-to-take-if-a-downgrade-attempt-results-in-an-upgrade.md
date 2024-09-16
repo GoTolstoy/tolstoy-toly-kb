@@ -1,0 +1,1 @@
+If a downgrade attempt results in an upgrade, the customer should immediately report the issue to Tolstoy's support team. This will help correct the error and prevent any unintended charges. Prompt reporting ensures that the support team can address the problem quickly and efficiently, minimizing any potential disruptions or financial impacts.

@@ -1,0 +1,3 @@
+## Currencies API and Its Relation to Video Tagging and Admin Management
+
+The **currencies API** is specifically designed for handling currency-related data and operations. It is **unrelated to video tagging and admin management**. Video tagging involves the process of adding metadata to video content for better organization and searchability, while admin management typically refers to the administrative tasks involved in managing users, permissions, and content within a system. These functionalities are distinct and separate from the purposes served by the currencies API.

@@ -1,0 +1,3 @@
+## Displaying Tolstoy Videos in Landscape Format
+
+Yes, Tolstoy videos can be displayed in landscape format by adding a CSS snippet to the carousel. This allows for a more versatile and visually appealing presentation of video content, especially on wider screens. By customizing the CSS, you can ensure that the videos fit seamlessly into your website's design and provide an optimal viewing experience for your audience.

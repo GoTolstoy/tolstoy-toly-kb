@@ -1,0 +1,3 @@
+# Resolving HTML Errors After Launching PDP Stories
+
+If an HTML error occurs after launching PDP (Product Detail Page) stories, it is crucial to investigate the issue with the help of a developer. To ensure better compatibility and potentially resolve the error, Tolstoy can be integrated into the theme's liquid files. This integration can help streamline the functionality and reduce the likelihood of such errors occurring in the future.

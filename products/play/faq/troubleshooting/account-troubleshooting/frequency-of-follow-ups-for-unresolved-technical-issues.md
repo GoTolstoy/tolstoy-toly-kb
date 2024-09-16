@@ -1,0 +1,3 @@
+## Frequency of Follow-Ups for Unresolved Technical Issues
+
+Follow-ups for unresolved technical issues should be made regularly to ensure that the issue is being actively addressed and to keep all stakeholders informed. Ideally, follow-ups should occur every 1-2 business days. This frequency helps maintain momentum in resolving the issue and ensures that any new developments or obstacles are promptly communicated. Regular follow-ups continue until the issue is resolved or a clear next step is identified.

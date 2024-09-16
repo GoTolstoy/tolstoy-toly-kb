@@ -1,0 +1,3 @@
+## PDP Feeds Not Appearing on Live PDPs
+
+The PDP stories are only available on selected product pages. This limitation might be due to an internal setup with the developers. If you are experiencing issues with PDP feeds not appearing, it is likely because the specific product page has not been configured to display these stories. For further assistance, contacting the development team responsible for the setup might be necessary.

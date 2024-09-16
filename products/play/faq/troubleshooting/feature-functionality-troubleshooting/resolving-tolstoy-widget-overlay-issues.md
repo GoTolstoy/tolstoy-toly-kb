@@ -1,0 +1,3 @@
+## Resolving Tolstoy Widget Overlay Issues
+
+The issue of the Tolstoy widget covering overlay elements was resolved by adjusting the widget's **z-index**. This adjustment ensures that the widget does not cover important overlay elements such as the email capture pop-up and the mini cart drawer. By modifying the z-index, the widget is layered correctly in the stack, allowing other elements to function as intended without being obstructed.

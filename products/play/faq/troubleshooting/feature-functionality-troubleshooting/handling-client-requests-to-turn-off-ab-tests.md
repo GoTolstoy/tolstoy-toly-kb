@@ -1,0 +1,3 @@
+## Handling Client Requests to Turn Off A/B Tests
+
+When a client requests to turn off an A/B test to resolve an issue, it is important to follow a clear and structured approach. **First**, confirm the client's request to ensure there is no misunderstanding. **Next**, proceed to disable the A/B test as requested. **Finally**, verify that the intended content is displayed correctly after the test is turned off. This ensures that the client's concerns are addressed and that the user experience remains consistent and accurate.

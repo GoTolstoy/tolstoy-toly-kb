@@ -1,0 +1,3 @@
+## Handling Sensitive Information Logging on Tolstoy's Live Site
+
+If Tolstoy is logging sensitive information on a client's live site, it is crucial to take immediate action. **Escalate the issue to the development team** right away so they can investigate and resolve the problem as quickly as possible. Additionally, ensure that the client is kept updated on the progress and resolution to maintain transparency and trust. Prompt and effective communication is key in managing such technical issues.

@@ -1,0 +1,3 @@
+## Tolstoy Payment Confirmations and Upgrades
+
+Tolstoy handles payment confirmations and upgrades through direct communication with the client. This process ensures that clients have accepted the payment link and are fully aware of the available upgrade options. By maintaining direct contact, Tolstoy can provide a seamless and transparent experience for clients, ensuring they understand the details of their transactions and any potential upgrades.

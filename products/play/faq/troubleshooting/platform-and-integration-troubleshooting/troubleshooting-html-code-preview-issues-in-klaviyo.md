@@ -1,0 +1,3 @@
+## Troubleshooting HTML Code Preview Issues in Klaviyo
+
+If you are unable to see the preview of your HTML code in Klaviyo, the issue may be related to the specific flow in Klaviyo and the source project of the videos. If the source project is a shop project, it is not onsite and not located on your online store, which can prevent the widgets from connecting properly. Ensuring that the source project is correctly set up and integrated with your online store can help resolve this issue.

@@ -1,0 +1,3 @@
+## Video Carousel Customization on Tolstoy
+
+Yes, you can handpick specific videos to be included in your carousel by using the **Playlist** feature. This allows you to curate a selection of videos that best suit your needs and present them in a carousel format for your audience. The Playlist feature provides flexibility and control over the content displayed, ensuring that only the most relevant and engaging videos are showcased.

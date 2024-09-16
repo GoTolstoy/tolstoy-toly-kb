@@ -1,0 +1,3 @@
+## Custom Events Feature for Tailored Tracking and Analytics
+
+The custom events feature allows for more tailored tracking and analytics, which can be integrated with Tolstoy for enhanced data collection. This feature enables users to define specific events that are relevant to their unique needs, providing more precise and actionable insights. By leveraging custom events, businesses can better understand user behavior, optimize their strategies, and improve overall performance.

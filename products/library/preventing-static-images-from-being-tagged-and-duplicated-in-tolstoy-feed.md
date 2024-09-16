@@ -1,0 +1,3 @@
+## Preventing Static Images from Being Tagged and Duplicated in Tolstoy Feed
+
+Static images that are part of an Instagram carousel post are pulled separately into Tolstoy. To exclude static images, you can change the playlist settings to exclude all images from the video Stories project. This adjustment ensures that only video content is included in your feed, preventing the duplication and tagging of static images.

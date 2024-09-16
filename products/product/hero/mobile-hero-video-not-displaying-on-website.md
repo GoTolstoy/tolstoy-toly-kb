@@ -1,0 +1,1 @@
+If your mobile hero video is not showing up on your site, it might be due to a CSS code that hides the hero section on mobile devices. To resolve this issue, ensure that both 'Display on mobile' and 'Display on desktop' options are enabled under the Rules tab > Devices in your Tolstoy dashboard.

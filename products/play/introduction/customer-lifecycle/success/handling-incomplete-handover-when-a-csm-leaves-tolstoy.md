@@ -1,0 +1,3 @@
+## Handling Incomplete Handover When a CSM Leaves Tolstoy
+
+If a Customer Success Manager (CSM) leaves Tolstoy and the handover process is incomplete, it is crucial for the new CSM to take proactive steps to ensure a smooth transition. The new CSM should promptly reach out to the client to schedule a call. This call aims to understand the current status of the client's needs and projects, address any concerns, and ensure continuity in service. By doing so, the new CSM can build a strong relationship with the client and maintain the high level of service expected from Tolstoy.

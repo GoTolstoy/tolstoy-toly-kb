@@ -1,0 +1,3 @@
+## Tracking Tolstoy Features in Email Campaigns
+
+To effectively track the performance of Tolstoy features in email campaigns, you can utilize the **Tolstoy dashboards** available for each region. These dashboards provide comprehensive data and insights into how the features are performing. Additionally, examining the **Click-Through Rate (CTR)** can offer valuable information about user engagement and the effectiveness of the email campaign. By regularly monitoring these metrics, you can make informed decisions to optimize your email marketing strategies.

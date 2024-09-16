@@ -1,0 +1,1 @@
+To schedule a meeting with the development team, you should use the provided scheduling link to set up a meeting with the Customer Success Manager (CSM). During this meeting, the CSM will discuss your needs and coordinate with the development team to arrange the meeting accordingly.

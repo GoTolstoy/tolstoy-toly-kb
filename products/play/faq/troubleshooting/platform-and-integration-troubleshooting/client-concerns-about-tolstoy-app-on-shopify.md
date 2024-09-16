@@ -1,0 +1,3 @@
+## Client Concerns About Tolstoy App on Shopify
+
+The client expressed concerns regarding the Tolstoy app's design and functionality on their Shopify development store. Specifically, they were worried about not being able to achieve the desired appearance and functionality of the carousel feature across different devices. Ensuring a consistent and visually appealing user experience on various devices is crucial for the client's business, and any issues in this area can significantly impact their satisfaction with the app.
