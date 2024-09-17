@@ -1,3 +1,0 @@
-## Setting Up Custom Blocks for Non-Enterprise Plan Customers
-
-If you are not currently on the enterprise plan but wish to use a custom block setup, you will need to upgrade to the enterprise plan first. Once you have upgraded, you can reach out to the support team to assist you in setting up custom blocks. This ensures that you have access to the necessary features and support for custom configurations.
