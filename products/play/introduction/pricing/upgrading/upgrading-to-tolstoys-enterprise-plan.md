@@ -1,3 +1,0 @@
-## Upgrading to Tolstoy's Enterprise Plan
-
-To upgrade your Tolstoy account to the enterprise plan, the process must be handled by Tolstoy's support team. If you have already signed a contract for the enterprise plan, the upgrade will be managed from the backend by Tolstoy's team. Ensure you have completed all necessary contractual agreements to facilitate a smooth transition to the enterprise plan.

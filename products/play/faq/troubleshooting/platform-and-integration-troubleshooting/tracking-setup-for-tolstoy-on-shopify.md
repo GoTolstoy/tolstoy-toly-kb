@@ -1,0 +1,3 @@
+## Tracking Setup for Tolstoy on Shopify
+
+To set up tracking for Tolstoy's implementation on BlackMilk's Shopify account, Tolstoy has integrated BlackMilk's GA4 tracking ID into the Tolstoy admin. This integration allows Tolstoy events to be fired directly to BlackMilk's GA4 account, ensuring that all interactions and events are accurately tracked and recorded in their Google Analytics 4 (GA4) account.

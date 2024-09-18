@@ -1,3 +1,0 @@
-## Troubleshooting Missing PDP Feeds on Live PDPs
-
-PDP feeds may not appear on live PDPs due to **internal setup issues** or specific configurations that need to be addressed by the client's development team. Ensuring that all configurations are correctly set up and that there are no internal issues is crucial for the proper display of PDP feeds. If problems persist, it may be necessary to consult with the development team to identify and resolve any underlying issues.

@@ -1,3 +1,0 @@
-## Handling Technical Issues During Onboarding
-
-If there is a technical issue during onboarding, it is important to communicate the problem to the client promptly. Providing a clear timeline for resolution is also crucial. In this case, ensure that the client is informed that the issue will be fixed by the end of the day. This approach helps manage client expectations and maintains trust during the onboarding process.

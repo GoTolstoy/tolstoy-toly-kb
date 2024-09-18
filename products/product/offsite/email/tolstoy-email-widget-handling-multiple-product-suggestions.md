@@ -1,3 +1,0 @@
-## Tolstoy Email Widget Handling Multiple Product Suggestions
-
-Yes, **Tolstoy's email widget** can handle multiple product suggestions. It does this by searching for videos tagged with the first product and, if there aren't enough videos, it moves on to the next product. This ensures that users receive relevant video content even if the initial product suggestion doesn't have sufficient video resources.

@@ -1,3 +1,0 @@
-## Handling Different Prices for Products Depending on Locale
-
-Clients can initially upload a CSV file with prices for a single locale (e.g., US or Canada). Tolstoy's team is working on a solution to support multi-currency pricing automatically. This means that while the current system requires a single-currency approach, future updates will allow for more flexibility and automation in managing prices across different locales.

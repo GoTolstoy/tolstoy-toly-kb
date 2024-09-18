@@ -1,0 +1,3 @@
+## New Feature Integration by Spiraledge
+
+Spiraledge has recently integrated an exciting new feature using Tolstoy. They now have the ability to add TikTok UGC (User-Generated Content) GIFs to their email campaigns. This integration allows Spiraledge to enhance their email marketing efforts by incorporating engaging and dynamic content directly from TikTok, making their campaigns more interactive and appealing to their audience.

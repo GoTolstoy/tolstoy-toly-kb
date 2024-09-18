@@ -1,0 +1,3 @@
+# Fixing Design Display Issues in Tolstoy on a Website
+
+If the design in Tolstoy is not displaying correctly on your website, it is important to ensure that the correct Tolstoy block is used in the Shopify theme. For matching the design inside the app, use the **'Tolstoy Stories'** block instead of the **'Tolstoy Carousel'**. This will help ensure that the design appears as intended on your website.

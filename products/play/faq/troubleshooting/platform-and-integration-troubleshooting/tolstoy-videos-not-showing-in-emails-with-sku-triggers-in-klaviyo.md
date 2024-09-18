@@ -1,3 +1,0 @@
-## Tolstoy Videos Not Showing in Emails with SKU Triggers in Klaviyo
-
-When using SKU triggers in Klaviyo, Tolstoy videos may not appear in emails for a couple of reasons. Firstly, if there are fewer than three videos that match the product from the event trigger, the videos will not show up. Secondly, the issue could be related to the dynamic carousel by SKU not functioning correctly. Ensuring that there are at least three matching videos and checking the functionality of the dynamic carousel can help resolve this issue.

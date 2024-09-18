@@ -1,3 +1,0 @@
-## Show or Hide Stories in the Theme Using CSS
-
-To manage the visibility of stories within your theme, a CSS code snippet has been prepared. This snippet allows you to show or hide stories as needed. The specific code will be sent separately for integration into your theme editor. By incorporating this CSS snippet, you can easily control the display of stories without altering the core structure of your theme.

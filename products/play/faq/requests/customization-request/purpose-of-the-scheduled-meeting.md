@@ -1,0 +1,3 @@
+## Purpose of the Scheduled Meeting
+
+The meeting is scheduled to discuss **carousel customization**. This will involve going over the various options and features available for customizing carousels, ensuring that they meet the specific needs and preferences of the project or client. The discussion will likely cover aspects such as design, functionality, and user experience to create an effective and engaging carousel.

@@ -1,7 +1,5 @@
-## Syncing Multiple Google Drive Folders
+# Feature Requests for Tolstoy
 
-Currently, Tolstoy doesn't support syncing multiple Google Drive folders. However, users can create custom playlists to separate content for different accounts.
+## Grouping Photos by Color Variant Using Alt Text
 
-## Moving Tabs to the Right
-
-At present, it is not possible to move tabs to the right in Tolstoy. Nevertheless, options to change the size of the tabs to avoid covering the Videos tab are being explored.
+Currently, Tolstoy does not support referencing alt text to group photos per color variant. However, this feature request has been noted for future enhancements. This means that while you cannot use alt text for this purpose at the moment, it is a potential feature that may be included in future updates to improve the platform's functionality.

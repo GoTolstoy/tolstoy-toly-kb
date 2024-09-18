@@ -1,3 +1,0 @@
-## Resolving Issues Linking YouTube Account to Tolstoy
-
-If you encounter an issue when trying to link your YouTube account to Tolstoy and it does not redirect as expected, please check if you have allowed the necessary permissions. Ensuring that all required permissions are granted can often resolve the issue. If the problem persists, it is recommended to contact Tolstoy support for further assistance. They can provide more detailed guidance and help troubleshoot the issue effectively.

@@ -1,3 +1,3 @@
 ## Resolving Admin Restrictions When Joining Slack
 
-If you encounter admin restrictions when trying to join Slack, there are a couple of steps you can take to resolve the issue. First, try using a different email address, such as a personal one, to see if that bypasses the restriction. If the problem persists, you should consult your Slack admin to approve the necessary permissions. This will ensure that you have the appropriate access to join the Slack workspace.
+If you encounter admin restrictions when trying to join Slack, it means that your access is being limited by the administrative settings of the Slack workspace. To resolve this issue, you should consult your Slack admin. The Slack admin has the authority to approve permissions and can grant you the necessary access to accept invitations and join the workspace. Make sure to provide any relevant details to the admin to expedite the process.

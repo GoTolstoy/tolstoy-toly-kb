@@ -1,0 +1,3 @@
+## Technical Issues with Tolstoy Implementation
+
+Roberto is experiencing difficulties installing Tolstoy on the Vitasei website. The primary issue stems from a previous video provider's setup, which is causing conflicts and preventing a smooth installation of Tolstoy. To resolve this, it may be necessary to remove or reconfigure the existing setup from the previous provider before attempting to install Tolstoy again. Ensuring that there are no residual configurations or scripts from the old provider can help facilitate a successful implementation of Tolstoy.

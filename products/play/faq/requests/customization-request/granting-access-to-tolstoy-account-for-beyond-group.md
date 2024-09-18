@@ -1,0 +1,3 @@
+## Granting Access to Tolstoy Account for Beyond Group
+
+Yes, Beyond Group can be granted access to Solawave's Tolstoy account as confirmed by Danielle Schwolow. This means that the necessary permissions and access rights can be configured to allow Beyond Group to utilize the Tolstoy account associated with Solawave. Ensure that the access is granted following the appropriate security protocols and guidelines to maintain the integrity and security of the account.

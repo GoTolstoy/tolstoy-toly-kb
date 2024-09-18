@@ -1,3 +1,0 @@
-## Integrating Video Tiles into Image Galleries with Tolstoy
-
-Yes, Tolstoy can integrate video tiles into existing image galleries and implement auto-play functionality for videos. This feature allows for a more dynamic and engaging user experience by combining static images with interactive video content. By leveraging this capability, users can enhance their galleries, making them more informative and visually appealing.

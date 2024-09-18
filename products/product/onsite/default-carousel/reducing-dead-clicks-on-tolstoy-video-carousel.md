@@ -1,3 +1,0 @@
-## Reducing Dead Clicks on Tolstoy Video Carousel
-
-One effective way to reduce dead clicks on the Tolstoy video carousel is to use the **default style carousel**. This style opens up the feed player when a tile is clicked, which can help in minimizing the occurrence of dead clicks. By ensuring that each click leads to an engaging action, user interaction with the carousel becomes more seamless and effective.

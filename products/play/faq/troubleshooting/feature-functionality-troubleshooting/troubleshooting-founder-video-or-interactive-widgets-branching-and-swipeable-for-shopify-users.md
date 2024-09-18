@@ -1,4 +1,4 @@
-## troubleshooting founder video or interactive widgets branching and swipeable for shopify users
+## Troubleshooting founder video or interactive widgets branching and swipeable for shopify users
 
 1. Make sure that your Shopify is connected to your Tolstoy account.
 Click your profile > Click Integration > double-check if your store is connected. If not, enter your Store name, then click connect.
@@ -12,4 +12,3 @@ Click your profile > Click Integration > double-check if your store is connected
 
 4. ​Check on your project and see if there are rules implemented. Page rules indicates where your widget will appear on your site.
 ![image](https://github.com/user-attachments/assets/de459bf3-fd1e-48c5-90e5-1796d20d3deb)
-

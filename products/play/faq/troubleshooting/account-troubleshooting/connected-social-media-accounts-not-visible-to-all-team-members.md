@@ -1,0 +1,3 @@
+## Connected Social Media Accounts Not Visible to All Team Members
+
+This issue typically arises due to individual user settings within the same organization. Each member might need to connect their personal accounts for visibility or check the integration settings. Ensure that the social media accounts are connected under the organization's main account, check for any specific permissions or settings that might be restricting visibility, and refresh the integration to ensure all data is fully synced.

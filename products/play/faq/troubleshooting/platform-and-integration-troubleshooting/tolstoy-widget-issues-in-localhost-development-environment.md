@@ -1,3 +1,0 @@
-## Tolstoy Widget Issues in Localhost Development Environment
-
-The Tolstoy widget may not function properly in a localhost or development environment. This is a common issue that developers encounter when testing widgets locally. To resolve this issue, it is recommended to deploy the necessary changes to a live preview link. This allows the widget to operate in an environment that more closely resembles the production setup, ensuring that it functions correctly.

@@ -1,3 +1,0 @@
-## Benefits of Syncing with the Catalog
-
-Syncing with the catalog allows for tagging videos with products. This feature is particularly useful for businesses and content creators who want to enhance their videos with product information. By tagging products in videos, viewers can easily identify and learn more about the products featured, leading to a more interactive and informative viewing experience. This can also drive product discovery and potentially increase sales, as viewers can directly engage with the products showcased in the video.

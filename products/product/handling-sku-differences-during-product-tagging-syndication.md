@@ -1,3 +1,0 @@
-## Handling SKU Differences During Product Tagging Syndication
-
-When encountering SKU differences during product tagging syndication, it is essential to manually tag the products. This ensures that each product is correctly identified and syndicated, maintaining the integrity and accuracy of the product data across platforms. Manual tagging helps to address discrepancies and ensures that the correct product information is conveyed to the end-users.

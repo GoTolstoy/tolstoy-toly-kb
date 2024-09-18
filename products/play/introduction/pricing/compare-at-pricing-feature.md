@@ -1,3 +1,0 @@
-## Compare At Pricing Feature
-
-The **'Compare At' pricing feature** allows products to display discounted prices. This feature is crucial for the client's sale scripts as it highlights the savings customers can make by purchasing at the current price compared to the original price. By showing both the original and discounted prices, it effectively communicates the value of the discount and can help drive sales.

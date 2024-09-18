@@ -1,3 +1,0 @@
-## Steps to Take When a Collaborator Request Fails
-
-If a collaborator request fails, there are a couple of actions you can take to resolve the issue. First, try resending the invite. Sometimes, the initial request may not go through due to temporary technical issues. If resending the invite does not work, you can use a collaborator code provided by the client. This code can be used to manually add the collaborator to the project, bypassing the need for an invite. By following these steps, you can ensure that your collaborator is successfully added to the project.

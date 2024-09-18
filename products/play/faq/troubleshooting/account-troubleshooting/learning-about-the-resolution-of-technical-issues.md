@@ -1,3 +1,0 @@
-## Learning About the Resolution of Technical Issues
-
-Customers can learn about the resolution of their technical issues by asking their Customer Success Manager (CSM) for details. This approach helps customers understand the process that was followed to resolve the issue, which can be beneficial for handling similar issues in the future. By gaining insights from their CSM, customers can become more knowledgeable and self-sufficient in managing technical challenges.

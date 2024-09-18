@@ -1,0 +1,3 @@
+# Purpose of Onboarding Call
+
+The purpose of the onboarding call is to discuss the next steps on Beauty & Hair's requests and address analytical questions related to tracking from their Data Analyst, Anthony. This call is essential for ensuring that all parties are aligned on the project requirements and timelines. It also provides an opportunity to clarify any doubts and ensure that the data tracking mechanisms are correctly understood and implemented.

@@ -1,3 +1,0 @@
-## Sale Price Not Displaying on Tolstoy Shoppable Widget
-
-If the sale price is not displaying on the shoppable widget in Tolstoy, it is likely because the sale price is set through a Subscription App. Tolstoy can only pull pricing data directly from the Shopify API. Therefore, any pricing information set outside of Shopify's native system, such as through third-party apps, will not be reflected in the Tolstoy shoppable widget.

@@ -1,1 +1,0 @@
-The Tolstoy app is downloaded, 44% of products have videos assigned, and initial QA results show expected behavior. Design confirmation is pending.

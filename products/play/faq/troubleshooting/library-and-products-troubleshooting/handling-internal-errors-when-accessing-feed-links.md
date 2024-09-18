@@ -1,3 +1,0 @@
-## Handling Internal Errors When Accessing Feed Links
-
-If you encounter an internal error when accessing a feed link, it is important to report the issue to the technical support team. Make sure to provide details such as the feed name, the link you were trying to access, and any error messages you received. This information will help the support team diagnose and resolve the issue more efficiently.

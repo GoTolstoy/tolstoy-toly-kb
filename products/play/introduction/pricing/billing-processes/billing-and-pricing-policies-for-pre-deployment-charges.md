@@ -1,3 +1,0 @@
-## Billing and Pricing Policies for Pre-Deployment Charges
-
-If a client is charged before Tolstoy is deployed, there are a couple of options to address the situation. A refund can be processed to return the charged amount to the client. Alternatively, a new payment link with an extended trial period can be generated to compensate for the premature charge. For significant amounts, approval from higher management may be required to proceed with these actions.

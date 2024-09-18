@@ -1,3 +1,0 @@
-## Optimal Placement for Tolstoy Widget on Client's Site
-
-The Tolstoy widget should be added within the 'Products Benefit Bar' snippet on the client's Product Detail Page (PDP). This section is always visible, ensuring the widget will render correctly and consistently. By placing the widget in this location, clients can ensure that it is prominently displayed and accessible to users, enhancing the overall user experience.

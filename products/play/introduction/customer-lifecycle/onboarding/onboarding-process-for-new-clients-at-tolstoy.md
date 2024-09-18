@@ -1,3 +1,0 @@
-## Onboarding Process for New Clients at Tolstoy
-
-The onboarding process for new clients at Tolstoy is designed to ensure that clients receive immediate responses and assistance. This process involves setting up a call with the Head of Customer Success. Additionally, the CEO, Dov Kaufmann, is actively involved in the onboarding process to provide further support and ensure a smooth transition for new clients.

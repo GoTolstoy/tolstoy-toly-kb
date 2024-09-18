@@ -1,3 +1,0 @@
-## Integrating Tolstoy Feeds Into Klaviyo Emails Without Zapier
-
-You can integrate Tolstoy feeds into Klaviyo emails directly using the Tolstoy API. This method requires some technical setup but allows for a more customized integration. To get started, access the API documentation from your Tolstoy account. The API will enable you to create and manage your Tolstoy feeds directly, providing a seamless integration with Klaviyo without the need for third-party tools like Zapier.

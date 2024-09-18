@@ -1,0 +1,3 @@
+# What To Do If The Initial Solution For Applying Tolstoy To An Email Campaign Doesn't Work
+
+If the initial solution for applying Tolstoy to an email campaign doesn't work, you can use **'Trending videos'** on your Tolstoy offsite. This feature is specifically designed for campaigns as opposed to Abandonment flows. For further guidance, there is a dedicated help article available that can provide more detailed instructions and troubleshooting steps.

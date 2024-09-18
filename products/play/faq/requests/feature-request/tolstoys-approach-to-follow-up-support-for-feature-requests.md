@@ -1,3 +1,0 @@
-## Tolstoy's Approach to Follow-Up Support for Feature Requests
-
-Tolstoy's team is dedicated to ensuring customer satisfaction by actively following up on feature requests. They provide interim solutions to address immediate needs and keep customers informed about the progress of the requested features. This proactive approach helps maintain transparency and trust between Tolstoy and its users, ensuring that their needs are met promptly and effectively.
