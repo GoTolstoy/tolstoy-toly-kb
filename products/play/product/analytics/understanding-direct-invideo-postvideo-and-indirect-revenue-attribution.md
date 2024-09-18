@@ -35,6 +35,6 @@ Revenue from anyone who interacted with Tolstoy but didn't make a direct purchas
 
 ### Scenario 4: Indirect Revenue
 
-**Situation**: A customer watches a Tolstoy video (Video E), interacts with the content but does not make a direct purchase. Several days later, they purchase the featured product through a different platform or store.
+**Situation**: A customer watches a Tolstoy video (Video E), interacts with the content but does not make a direct purchase. Several days later, they purchase the featured product on site.
 
-**Revenue Attribution**: Video E may not show any direct revenue in the Videos tab, but the interaction still contributes to Indirect revenue. Indirect revenue data can be used for insights into brand awareness or customer engagement. The Overview tab will not show any revenue from this interaction, as the purchase did not occur through Tolstoy.
+**Revenue Attribution**: Video E may not show any direct revenue in the Videos tab, but the interaction still contributes to Indirect revenue. Indirect revenue data can be used for insights into brand awareness or customer engagement. The Overview tab will show the revenue from this interaction in the 'Indirect Revenue' section under the total revenue.
