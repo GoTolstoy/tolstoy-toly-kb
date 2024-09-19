@@ -1,4 +1,7 @@
-## collection page videos
+## Collection page videos
+
+[Video tutorial](https://www.loom.com/share/03c040bdf4e441ccb7f998805bd84d1d?sid=16e0d010-e4d5-447f-bf22-3b4f3058ffb2)
+
 
 Collection page videos allow brands to enhance their collection pages with dynamic video content, replacing static product images with engaging videos. By incorporating videos into your collection pages, you can showcase your products in a visually appealing and interactive way, encouraging customers to click through to your product pages.
 
