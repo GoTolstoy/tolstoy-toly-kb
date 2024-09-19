@@ -1,4 +1,4 @@
-# Troubleshooting Not Appearing Videos
+# Troubleshooting Not Appearing Videos, Incorrect Videos, or Video Order
 
 ## Key Factors to Check
 
@@ -36,4 +36,4 @@
 
 1. **Mismatched Project Type:** Ensure the correct project type is used for the page.
 2. **Allow Non-Tagged Videos:** Check if the setting is off for PDPs.
-3. **Abusive Implementation:** Avoid placing Homepage projects on PDPs and vice versa to prevent pinning and display issues.\
+3. **Abusive Implementation:** Avoid placing Homepage projects on PDPs and vice versa to prevent pinning and display issues.
