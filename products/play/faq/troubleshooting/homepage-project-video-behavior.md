@@ -4,7 +4,9 @@
 
 1. **Project Type**: A Homepage project will display all videos together, regardless of individual product tags.
 2. **Target Page**: When a Homepage project is implemented on a homepage, all videos are displayed together with no product-specific filtering.
-3. **Allow Non-tagged Videos on PDPs Setting**: This setting has no effect on Homepage projects. Whether toggled on or off, all videos will be shown.
+3. **Non-tagged Videos on PDPs Setting**:
+   - Toggled On (Default): Will show all videos on PDP.
+   - Toggled Off: Will only show product-specific on PDP.
 
 ## Expected Behavior
 
