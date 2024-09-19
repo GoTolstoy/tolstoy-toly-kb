@@ -1,4 +1,4 @@
-"# Troubleshooting Not Appearing Videos
+# Troubleshooting Not Appearing Videos
 
 ## Steps to Troubleshoot
 
@@ -31,4 +31,4 @@
 - **Misconfigured Allow Non-tagged Videos Setting**: Videos not tagged to products may not appear if this setting is toggled off.
 - **Pinning Setup Issues**: Videos might not be appearing if pinning is misconfigured.
 
-If videos still do not appear after following these steps, try refreshing the widget and clearing any cached data on the site. If the issue persists, contact support."
+If videos still do not appear after following these steps, try refreshing the widget and clearing any cached data on the site. If the issue persists, contact support.
