@@ -2,6 +2,8 @@
 
 This guide will walk you through how to upload your product catalog to Tolstoy using a CSV file. If you need to display product data (such as images, prices, and descriptions) in Tolstoy experiences, you'll need to set up a daily export of your product catalog, host it at a public URL, and connect it in the Tolstoy settings.
 
+This is the same process followed for Pinterest and Meta.
+
 **Step 1: Prepare Your CSV File**
 
  
