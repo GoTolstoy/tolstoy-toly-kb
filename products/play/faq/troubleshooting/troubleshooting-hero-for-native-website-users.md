@@ -10,7 +10,7 @@
 ![image](https://github.com/user-attachments/assets/b2e9e0bb-d4dd-4096-870a-33e648229062)
 
 
-3. Copy and paste the code in your site's <head> section if you haven't already.
+3. Copy and paste the code in your site's head section if you haven't already.
 
 ![image](https://github.com/user-attachments/assets/827fc447-dff1-47c9-8d7a-6836f897bb2a)
 
