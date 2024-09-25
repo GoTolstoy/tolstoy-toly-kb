@@ -12,7 +12,7 @@ Before you begin, make sure that you have already imported a CSV file to have th
    ![image](https://github.com/user-attachments/assets/4cb71f39-bee8-4313-be8f-1b8163b81edd)
 
 
-2. Copy and paste the code in your site's head section. Click the 'Mark as complete' button if you haven't already.
+2. Copy and paste the code in your site's `<head>` section. Click the 'Mark as complete' button if you haven't already.
 
    ![image](https://github.com/user-attachments/assets/959f5506-3089-48ee-8556-d7c8adecd6e0)
 
