@@ -8,7 +8,7 @@
 
    ![image](https://github.com/user-attachments/assets/fbaa2931-4afa-4b6b-96a1-b1b2296ee391)
 
-3. Copy and paste the code in your site's head section if you haven't already.
+3. Copy and paste the code in your site's `<head>` section if you haven't already.
 
    ![image](https://github.com/user-attachments/assets/096377d6-cbbc-459b-a041-ad6a3c7debe8)
 
