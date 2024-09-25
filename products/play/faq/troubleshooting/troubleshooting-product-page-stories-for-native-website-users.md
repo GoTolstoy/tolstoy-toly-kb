@@ -1,6 +1,6 @@
 ## Troubleshooting Product Page Stories for Native Website Users
 
-Before you begin, make sure that you have already imported a CSV file to have the ability to tag products to videos in your library. Here's a detailed article for [uploading a CSV file for native site]([https://help.gotolstoy.com/en/articles/8212545-how-to-upload-csv-file-for-native-site](https://help.gotolstoy.com/en/articles/9915467-how-to-upload-your-product-catalog-via-csv)).
+Before you begin, make sure that you have already imported a CSV file to have the ability to tag products to videos in your library. Here's a detailed article for [uploading a CSV file for native site](https://help.gotolstoy.com/en/articles/9915467-how-to-upload-your-product-catalog-via-csv).
 
 1. After creating your video stories, head to the Installation section in your Tolstoy account.
 
