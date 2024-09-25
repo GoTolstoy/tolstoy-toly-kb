@@ -19,7 +19,7 @@
     - Go to the project where you want to display the content creator handle.
     - The handle can be displayed on the widget, within the video feed, or both.
     - To add to widget:
-        - Go to Design → Widget → Behavior → toggle onDisplay Creator Handle
+        - Go to Design → Widget → Behavior → toggle on Display Creator Handle
         - For the widget, you can select if you want it added to the bottom left or top left of the video tile.
     - To add to the video feed:
         - Design → Video Feed → Behavior → Display Creator Handle
