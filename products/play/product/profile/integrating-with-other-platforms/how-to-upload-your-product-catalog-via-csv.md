@@ -100,4 +100,4 @@ Ensure your CSV file matches these column names exactly, as Tolstoy will not acc
 
 - Only .csv file formats are supported at this time. Ensure that the file uses commas as delimiters between values.
 
-
+**Note:** If you need help publishing a Google Drive CSV product catalog as a URL before uploading it to Tolstoy, here's a [detailed guide](https://help.gotolstoy.com/en/articles/8212545-publishing-a-google-drive-csv-product-catalog-as-a-url). 
