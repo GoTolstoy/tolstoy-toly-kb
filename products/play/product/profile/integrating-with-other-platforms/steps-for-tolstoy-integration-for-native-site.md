@@ -83,7 +83,6 @@ When you add the code above to your purchase thank you page, make sure to replac
 Some mandatory fields include the **ORDER_ID, TOTAL_PRICE, USER_EMAIL, and ORDER_CURRENCY.**
 
  
-
 A complete list of mandatory fields is in the table below and you need to replace portions of the code with the **correct placeholders**
 
 
