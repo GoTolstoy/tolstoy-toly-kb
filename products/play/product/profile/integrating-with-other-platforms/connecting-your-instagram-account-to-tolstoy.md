@@ -31,3 +31,9 @@ Before you connect your Instagram account to Tolstoy, ensure that you have the c
    ![Connection Confirmation](https://tolstoy-2c549356d0c0.intercom-attachments-7.com/i/o/777944055/2c1688b91b4d2ca7241a1642/AjW7JlN8IhmFg0lpJKSKgHWZ864iCSmIqWdvfUVYbxS_4s6rr4fOfbjM2fj-v-YztByJhiCbCgn08EJ9JsOUWuU4hK-HRsY5J9O5RtqBWk3z0BnDfZgAOeai97TSv515cnVrvMcTYgzfR1y5rABgVcM)
 
 5. Those videos are now available in your Tolstoy account to tag products and increase your sales.
+
+   ![image](https://github.com/user-attachments/assets/4339f46c-3f36-4f68-afc4-b90a6efcebb5)
+
+**Note:**
+To learn more about the Instagram Autotag feature, check out this [helpful article](https://help.gotolstoy.com/en/articles/9394079-how-does-the-instagram-autotag-feature-work)!
+
