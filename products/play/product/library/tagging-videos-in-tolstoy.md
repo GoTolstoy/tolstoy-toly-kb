@@ -1,4 +1,6 @@
-## Tagging Individual Videos
+## How do I tag my videos in Tolstoy?
+
+### Tagging Individual Videos
 
 1. Go to your Library section on the left panel. Once your Tolstoy library loads, click on Products.
 
@@ -12,7 +14,7 @@
 
 ![image](https://github.com/user-attachments/assets/6243c8cd-e7df-411a-ba48-66ce7b9506ac)
 
-## Tagging Multiple Videos
+### Tagging Multiple Videos
 
 1. Start in your Tolstoy video library. Click the top left corner of all the videos that you want to tag for a product or products. Then, a black navigation bar will appear at the top of the screen. You will use this in the next step.
 
@@ -31,13 +33,13 @@
 ![image](https://github.com/user-attachments/assets/09a04129-cff3-4a0b-834b-da8b1ff7a684)
 ![image](https://github.com/user-attachments/assets/b645407e-6be5-4ec2-bdde-621e7d864dbb)
 
-## Suggested Products
+### Suggested Products
 
 The "Suggested products" label now appears in the video library. You can filter by All Videos, All Images, Carousels, or your sources like Instagram or TikTok. To use the suggested products feature, click on the "Suggested products" option next to the filter button at the top. From the main library interface, you can easily tag suggested products by clicking the checkmark or dismiss them by clicking the X button. This feature helps you tag more content efficiently.
 
 ![image](https://github.com/user-attachments/assets/2f91866b-23c4-4cfd-9b38-b8ec36c29b60)
 
-## Instagram Autotag
+### Instagram Autotag
 
 To learn more about the Instagram Autotag feature, check out this [helpful article](https://help.gotolstoy.com/en/articles/9394079-how-does-the-instagram-autotag-feature-work)!
 
