@@ -30,4 +30,4 @@ Your feedback is crucial in helping Toly improve. Each interaction with Toly is 
 
 ## How to Get Started?
 
-Simply start a conversation with Toly through our support chat on our website or app. Ask him anything, and he’ll do his best to assist you. If Toly can’t resolve your issue, he’ll offer an option to **Talk to Support** to ensure you’re seamlessly connected with one of our human support agents who can help.
+Simply start a conversation with Toly through our support chat on our website or app. Ask him anything, and he’ll do his best to assist you. If Toly can’t resolve your issue, he’ll offer an option to **Talk to Support** to ensure you’re seamlessly connected with one of our human support agents who can help..
