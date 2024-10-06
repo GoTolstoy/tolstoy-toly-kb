@@ -11,7 +11,3 @@ For a cleaner mobile look or to save space in a widget, a vertical orientation i
 2. In the Player settings, change the orientation to your preference, then click Save.
 
    ![image](https://github.com/user-attachments/assets/424f9fef-826c-4124-9a69-7466de21d02f)
-
-
-
-

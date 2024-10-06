@@ -13,7 +13,3 @@
 3. If the video is set to fill the screen, both arrows will be pointing inwards.
 
 ![image](https://github.com/user-attachments/assets/852025e0-de88-4d45-8cb8-e62c183fae2f)
-
-
-
-

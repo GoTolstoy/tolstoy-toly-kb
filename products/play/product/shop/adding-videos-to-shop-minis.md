@@ -7,4 +7,3 @@
 ![image](https://github.com/user-attachments/assets/2855b5d0-9ea2-4cda-967e-30a7d87a8f93)
 
 - Click the **Publish** or **Sync videos** button on the upper right when done. The videos will automatically show on your Shop store.
-

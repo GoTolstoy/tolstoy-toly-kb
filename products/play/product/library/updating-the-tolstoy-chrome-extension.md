@@ -17,4 +17,3 @@ Make sure that the [Tolstoy Free Screen and Video Recorder](https://chrome.googl
 4. Click **Update**. And you're all set!
 
    ![Step 4](https://downloads.intercomcdn.com/i/o/502387226/fb937a3b24ef023f6b394f28/image.png)
-

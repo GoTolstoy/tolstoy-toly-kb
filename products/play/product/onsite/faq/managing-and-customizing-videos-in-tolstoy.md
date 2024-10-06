@@ -8,4 +8,3 @@
 
 3. To customize, go to the "Design" tab.
    ![image](https://github.com/user-attachments/assets/4e314898-1af5-49f4-a49d-c88aa0219dbe)
-

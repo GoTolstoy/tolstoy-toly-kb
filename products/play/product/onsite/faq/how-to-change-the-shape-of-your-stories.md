@@ -11,4 +11,3 @@
 3. Look for Border Radius. Edit based on your preference or go to Layout -> Items Shape -> select between Rectangle or Circle.
    
    ![image](https://github.com/user-attachments/assets/35ba88eb-8f30-448d-a25e-5f7beef1ca1a)
-

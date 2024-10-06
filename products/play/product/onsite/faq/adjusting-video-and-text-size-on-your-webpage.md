@@ -14,4 +14,3 @@ To adjust the video size and text size of a Tolstoy video on your webpage:
 4. Adjust the "Text size" for the Title and Story name (if a stories project is chosen).
    ![image](https://github.com/user-attachments/assets/864d8ee4-a808-4b50-b852-c4fd2d1bc2df)
    ![image](https://github.com/user-attachments/assets/12c7028c-ba2e-434b-91f6-7984480145b3)
-

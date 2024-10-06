@@ -42,4 +42,3 @@ The "Suggested products" label now appears in the video library. You can filter 
 ### Instagram Autotag
 
 To learn more about the Instagram Autotag feature, check out this [helpful article](https://help.gotolstoy.com/en/articles/9394079-how-does-the-instagram-autotag-feature-work)!
-

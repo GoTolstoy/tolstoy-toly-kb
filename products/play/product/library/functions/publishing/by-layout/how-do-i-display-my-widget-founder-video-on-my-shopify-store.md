@@ -25,7 +25,3 @@ Here are the steps:
 4. Finally, click Publish.
 
 ![image](https://github.com/user-attachments/assets/e8365830-d596-4c23-89ea-cc9326e06823)
-
-
-
-

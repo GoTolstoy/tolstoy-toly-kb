@@ -44,8 +44,3 @@
 9. Paste it in the Installation section for CSV.
 
 ![image](https://github.com/user-attachments/assets/46d0d80f-8549-4938-8111-ddbfbd47c6bf)
-
-
-
-
-

@@ -11,5 +11,3 @@ Follow these simple steps to set this up!
 
 2. In the **Event triggers** subsection, toggle on **Exit Intent**. Click **Save** to save your changes.
    ![image](https://github.com/user-attachments/assets/5cacd1f7-3a7a-45fa-97a4-a7cbaaadef7c)
-
-   

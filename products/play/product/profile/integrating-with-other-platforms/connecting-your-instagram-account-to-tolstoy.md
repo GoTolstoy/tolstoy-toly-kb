@@ -36,4 +36,3 @@ Before you connect your Instagram account to Tolstoy, ensure that you have the c
 
 **Note:**
 To learn more about the Instagram Autotag feature, check out this [helpful article](https://help.gotolstoy.com/en/articles/9394079-how-does-the-instagram-autotag-feature-work)!
-

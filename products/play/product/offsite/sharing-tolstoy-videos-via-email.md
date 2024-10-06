@@ -105,5 +105,3 @@ If you are struggling to center your Tolstoy within the email, you can use this 
 </td>
 </tr>
 </table>
-
-

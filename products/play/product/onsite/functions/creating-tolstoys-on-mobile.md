@@ -22,4 +22,3 @@
 
 Make sure your settings are set to vertical orientation when recording from your phone!
 ​
-

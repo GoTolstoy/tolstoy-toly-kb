@@ -41,4 +41,3 @@ Choose from your video files.
 You may also choose **New asset** (e.g., Upload file, Record video, Record screen, or Import from URL or TikTok).
 
 ![image](https://github.com/user-attachments/assets/8fe462c7-7131-4506-8755-6af89ec4c581)
-

@@ -25,5 +25,3 @@
 3. Choose Branching if it's an interactive video or Swipeable if it's shoppable.
 
    ![image](https://github.com/user-attachments/assets/0ea86098-d7e6-4c62-a01c-15eb58bc4e99)
-
-

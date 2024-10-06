@@ -9,4 +9,3 @@ Two options:
 2. **Tolstoy Project Settings**: Click Settings (the icon next to the Analytics button on the upper right). There, you'll find your Publish ID.
 
    ![image](https://github.com/user-attachments/assets/58b223e8-9fbc-4da6-b2f0-6ab1fee1cabb)
-

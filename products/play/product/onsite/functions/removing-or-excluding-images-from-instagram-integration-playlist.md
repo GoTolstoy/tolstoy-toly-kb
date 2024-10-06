@@ -9,6 +9,3 @@ Two options:
 2. Hover over the image and click the **hide** icon on the upper right.
 
    ![image](https://github.com/user-attachments/assets/b1b39647-3b51-4ba7-8cb2-2bf84a0def47)
-
-
-

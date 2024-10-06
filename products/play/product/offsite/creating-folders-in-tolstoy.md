@@ -17,6 +17,3 @@ Luckily, you can now create folders for your Tolstoys to keep your account nice 
    ![image](https://github.com/user-attachments/assets/25c48fd6-a234-4ff0-ad62-e49601f4bc3e)  
    ![image](https://github.com/user-attachments/assets/c0efa4dc-c11b-43c5-95ac-b8f8bec1ce82)  
    ![image](https://github.com/user-attachments/assets/99bba5d4-7510-4e54-aa9d-94ad6b074bde)
-
-
-

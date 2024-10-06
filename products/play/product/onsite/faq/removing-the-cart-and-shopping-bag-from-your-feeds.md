@@ -5,7 +5,3 @@
 
 2. Turn off the toggle for **Checkout & shopping bag**. Save.
    ![image](https://github.com/user-attachments/assets/880ec967-04b3-4413-abad-5e617868a96d)
-   
-
-   
-

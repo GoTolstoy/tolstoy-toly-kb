@@ -47,5 +47,3 @@
   - **Screenshot of Integration Page**: [Screenshot](https://app.gotolstoy.com/integrations)
 
     ![image](https://github.com/user-attachments/assets/7b7252c5-f3bf-43d8-8503-e635a75c177d)
-
-

@@ -14,4 +14,3 @@ The modal that appears after clicking on a video asset in the Library and Projec
         - Buttons to either "Discard" changes or "Save" them. Users can modify the product tags and either cancel or confirm these changes.
 
 This modal is designed to facilitate detailed content management within the library, allowing users to efficiently associate videos with specific products, enhancing the content’s relevance and utility in marketing and sales activities. The layout is user-friendly, prioritizing ease of navigation and action, with clear visual cues and accessible functionality.
-    

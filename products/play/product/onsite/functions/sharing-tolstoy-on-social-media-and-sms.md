@@ -12,4 +12,3 @@
 
 3. Click on the social media icon you would like to use to share your Tolstoy. Your post or message will contain the link to your Tolstoy!
    ![Step 3](https://downloads.intercomcdn.com/i/o/433972188/a4b85d852be0ffa3e32e8fb5/image.png)
-

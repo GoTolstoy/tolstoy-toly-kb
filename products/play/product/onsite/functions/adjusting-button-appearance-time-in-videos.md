@@ -12,5 +12,3 @@ To do this, follow these steps:
 6. Once done, click the green check mark to save it.
 
 ![image](https://github.com/user-attachments/assets/7fd8605f-d96d-493a-9d5c-fcb3d4a9770f)
-
-

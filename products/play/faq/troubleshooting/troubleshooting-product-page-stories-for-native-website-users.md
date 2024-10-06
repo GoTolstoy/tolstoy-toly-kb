@@ -30,4 +30,3 @@ Before you begin, make sure that you have already imported a CSV file to have th
 4. Copy the following code, and place it in your site's code. Make sure to change the **PRODUCT_ID** if needed. Click the 'Done' button when you're finished.
 
    ![image](https://github.com/user-attachments/assets/d8ced053-8c73-49d6-a404-85a8958227c7)
-

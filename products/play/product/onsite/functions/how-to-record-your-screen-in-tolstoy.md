@@ -19,5 +19,3 @@
 5. Continue editing your Tolstoy. Make sure that it is set to Fit to Screen so viewers can see your entire screen.
 
    ![image](https://github.com/user-attachments/assets/fdbe49a1-d8e5-47fe-ac2c-648d4c2640e0)
-
-

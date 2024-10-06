@@ -13,4 +13,3 @@
    Duplicate as a bubble or embed if the Tolstoy project chosen is interactive (branching widget/founder video or embed).
 
    ![Step 2.2](https://downloads.intercomcdn.com/i/o/763186072/1bae5439f1e174be83eaf84b/image.png)
-

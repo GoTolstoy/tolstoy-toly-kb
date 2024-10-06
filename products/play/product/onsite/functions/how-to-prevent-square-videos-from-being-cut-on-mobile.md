@@ -8,4 +8,3 @@
 4. On the video player preview on the left, click **fit to screen** (both arrows pointing outwards).
 
 ![image](https://github.com/user-attachments/assets/105b1945-c237-485c-915f-e01b75655571)
-

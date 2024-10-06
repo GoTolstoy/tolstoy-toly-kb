@@ -21,4 +21,3 @@ Make sure that you’re Shop eligible first. Check this [link](https://help.shop
 ### OR
 
 ![image](https://github.com/user-attachments/assets/0e7ec26d-d63c-4e9a-9ae9-e7709ff1b8a6)
-

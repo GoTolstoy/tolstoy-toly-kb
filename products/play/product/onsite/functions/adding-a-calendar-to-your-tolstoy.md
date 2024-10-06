@@ -7,4 +7,3 @@
 2. Choose "Link."
 3. Paste your calendar link and click "Save" when you're done.
    ![Step 3](https://downloads.intercomcdn.com/i/o/890131409/63232e53a9ba0b21590f250a/image.png)
-

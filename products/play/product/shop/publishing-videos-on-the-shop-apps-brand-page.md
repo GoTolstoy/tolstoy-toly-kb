@@ -55,4 +55,3 @@ The order of the videos in a carousel can be changed if you want to highlight sp
 
 **Important:**  
 Always click the Sync videos button if you are adding, deleting, or making any changes to the videos. Also, our videos only appear on the **SHOP mobile app**. They are not shown on the SHOP app browser site.
-

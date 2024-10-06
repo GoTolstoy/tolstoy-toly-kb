@@ -13,4 +13,3 @@
 3. Click **Save** when you're ready.
 
    ![image](https://github.com/user-attachments/assets/5369beb1-7ee0-4693-9dc9-a4ff3f4455c5)
-

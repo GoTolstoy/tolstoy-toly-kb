@@ -25,4 +25,3 @@ Wondering how you can set up and link your phone number so your audience can rea
 5. Type "tel:(your phone number)" example: tel:+972544674489 and hit Save.
    
    ![image](https://github.com/user-attachments/assets/72c9db99-37c5-49c8-8359-96db8b9bac28)
-

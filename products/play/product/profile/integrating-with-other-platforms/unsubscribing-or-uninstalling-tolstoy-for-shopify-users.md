@@ -13,5 +13,3 @@
 3. Look for Tolstoy Shoppable Video & UGC -> click the three dots -> Uninstall.
 
 ![image](https://github.com/user-attachments/assets/8fc11841-83ed-4a34-8746-0c45257aa424)
-
-

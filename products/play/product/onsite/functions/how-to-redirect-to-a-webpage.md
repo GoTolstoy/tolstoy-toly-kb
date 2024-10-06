@@ -19,4 +19,3 @@ You can redirect your audience to a webpage after they answer your prompt! To se
    ![image](https://github.com/user-attachments/assets/38ba8e82-e6a6-430e-9165-0f47d4ccf251)
 
 And that’s it! All of your changes are saved, and your audience will be redirected to different URLs based on their answers.
-

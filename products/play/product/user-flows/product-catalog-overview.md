@@ -16,4 +16,3 @@ This screen is set up to enable users to visually manage their product catalog a
 **Screenshot** of the [Products page](https://app.gotolstoy.com/products)
 
 ![image](https://github.com/user-attachments/assets/366e601b-031d-4df8-99db-24a1147d82b1)
-

@@ -18,4 +18,3 @@ There are two ways to get and copy the link to your Tolstoy videos:
 
 4. Click on Copy Link.  
    ![Step 3](https://tolstoy-2c549356d0c0.intercom-attachments-1.com/i/o/774803307/d3a3ea37ec110b63779edbde/570d6d31-4b9e-4265-b1ad-c261420b85ad.png)
-

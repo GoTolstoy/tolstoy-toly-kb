@@ -32,4 +32,3 @@ The app's main navigation is on the right side, containing the following menu it
 - Tags and Labels
 
 In addition, there is a help agent named Toly whom customers can ask questions and get help from.
-

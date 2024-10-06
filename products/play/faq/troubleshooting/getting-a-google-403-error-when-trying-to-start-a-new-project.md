@@ -21,12 +21,3 @@ This usually happens when there's a permission issue with accessing Google servi
 5. Sign in.
 
 ![image](https://github.com/user-attachments/assets/11d199c1-2041-4dd0-8a7d-13bc1dc7bdff)
-
-
-
-
-
-
-
-
-
