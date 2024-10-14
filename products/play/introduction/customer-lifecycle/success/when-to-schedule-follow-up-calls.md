@@ -1,0 +1,3 @@
+## When to Schedule Follow-Up Calls
+
+Follow-up calls are an essential part of maintaining client relationships and ensuring continuous progress. To maximize their effectiveness, follow-up calls should be scheduled based on the client's availability. Ideally, these calls should be arranged within a week or two after the initial contact or meeting. This timeframe helps to keep the momentum going and ensures that any issues or questions can be addressed promptly. By aligning the follow-up schedule with the client's availability, you demonstrate respect for their time and increase the likelihood of a productive conversation.

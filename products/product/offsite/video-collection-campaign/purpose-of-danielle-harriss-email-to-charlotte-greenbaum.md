@@ -1,0 +1,3 @@
+## Purpose of Danielle Harris's Email to Charlotte Greenbaum
+
+Danielle Harris forwarded an email to Charlotte Greenbaum to showcase an example of an email video collection campaign for Sober(ish) products. The purpose of this campaign was to encourage customers to submit a video in order to receive free products. This example was likely intended to provide Charlotte with a reference or inspiration for similar campaigns.

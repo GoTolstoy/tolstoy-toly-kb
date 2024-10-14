@@ -1,0 +1,3 @@
+## Responsibility of the 1r Agency in Tolstoy Integration
+
+The 1r agency plays a crucial role in the integration of Tolstoy by being responsible for **creating a block within the theme**. This block is essential as it is where the Tolstoy widget script will be added and styled. Proper implementation of this block ensures that the Tolstoy widget functions correctly and integrates seamlessly with the existing theme.

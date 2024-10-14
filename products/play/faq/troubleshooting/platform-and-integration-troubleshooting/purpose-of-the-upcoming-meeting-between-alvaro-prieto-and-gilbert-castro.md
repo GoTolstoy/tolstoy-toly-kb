@@ -1,0 +1,3 @@
+## Purpose Of The Upcoming Meeting Between Alvaro Prieto And Gilbert Castro
+
+The upcoming meeting between Alvaro Prieto and Gilbert Castro is intended for initial troubleshooting and addressing doubts related to the CSV catalogue model and meta synchronization issues with Instagram accounts. This meeting aims to resolve any uncertainties and technical issues that may be affecting the synchronization process, ensuring a smoother and more efficient workflow.

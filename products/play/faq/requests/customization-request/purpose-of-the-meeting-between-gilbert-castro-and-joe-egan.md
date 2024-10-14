@@ -1,0 +1,3 @@
+## Purpose of the Meeting Between Gilbert Castro and Joe Egan
+
+The meeting between Gilbert Castro and Joe Egan is scheduled to discuss the **multibrand/store setup with Tolstoy**. This meeting aims to explore and address the various aspects and considerations involved in setting up multiple brands or stores using Tolstoy's platform. The discussion will likely cover the technical, operational, and strategic elements necessary for a successful implementation.

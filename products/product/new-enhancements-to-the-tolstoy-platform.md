@@ -1,0 +1,3 @@
+# New Enhancements to the Tolstoy Platform
+
+Tolstoy regularly updates its platform with new features and enhancements. These updates are designed to improve user experience, add new functionalities, and ensure the platform remains cutting-edge. For the most detailed and up-to-date information on the latest enhancements, please refer to the latest release notes or contact your Customer Success Manager.

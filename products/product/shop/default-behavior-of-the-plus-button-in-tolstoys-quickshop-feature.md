@@ -1,0 +1,3 @@
+# Default Behavior of the Plus Button in Tolstoy's Quickshop Feature
+
+In Tolstoy's Quickshop feature, the **default behavior of the + button** is to add the tagged item directly to the cart. This functionality streamlines the shopping experience by allowing users to quickly and easily add products to their cart without navigating away from the current page. This feature is designed to enhance user convenience and improve the overall efficiency of the shopping process.

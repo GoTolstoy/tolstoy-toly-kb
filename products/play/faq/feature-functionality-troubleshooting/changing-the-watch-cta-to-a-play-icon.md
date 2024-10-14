@@ -1,0 +1,3 @@
+## Changing The Watch CTA To A Play Icon
+
+Yes, the 'Watch' CTA can be changed to a 'Play' icon (▶️). This allows for a more visually intuitive experience for users, making it clear that the action will play a video or media content. To implement this change, you would need to update the button or link element in your code to replace the text 'Watch' with the play icon (▶️). This can be done using HTML or a front-end framework of your choice.

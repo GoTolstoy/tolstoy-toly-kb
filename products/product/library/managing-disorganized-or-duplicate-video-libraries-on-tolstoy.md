@@ -1,0 +1,3 @@
+# Managing Disorganized or Duplicate Video Libraries on Tolstoy
+
+If you find that your video libraries on Tolstoy are disorganized or contain duplicate files, this might be a syncing issue. To resolve this, the tech team can investigate the problem and ensure that duplicates are removed and everything is properly organized. It's important to reach out to the support team so they can address the issue promptly and maintain the efficiency of your video libraries.

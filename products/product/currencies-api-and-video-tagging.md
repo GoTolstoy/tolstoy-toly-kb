@@ -1,0 +1,3 @@
+# Currencies API and Video Tagging
+
+The **Currencies API** is not related to video tagging or admin management. The Currencies API is typically used for financial applications, such as retrieving exchange rates and converting currencies. On the other hand, video tagging involves adding metadata to video content to make it more searchable and organized. These two functionalities serve entirely different purposes and are used in different contexts.

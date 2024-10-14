@@ -1,0 +1,3 @@
+# Next Steps After Adding the Spotlight Carousel
+
+After adding the Spotlight Carousel, the next step for Goddiva is to work on creating content for the home page banner. This involves designing and developing engaging and visually appealing content that will capture the attention of visitors. Once the content is ready, it will be updated on the home page to enhance the overall user experience and drive engagement.

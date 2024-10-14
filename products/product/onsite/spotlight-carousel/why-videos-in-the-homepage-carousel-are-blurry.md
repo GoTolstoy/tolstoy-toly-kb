@@ -1,0 +1,3 @@
+## Why Videos in the Homepage Carousel Are Blurry
+
+The videos in the homepage carousel appeared blurry due to a technical issue that was escalated to the development team for resolution. This issue may affect the visual quality of the videos, making them appear unclear or pixelated. The development team is actively working on identifying the root cause and implementing a fix to ensure that the videos display at their intended quality. We appreciate your patience as we resolve this matter.

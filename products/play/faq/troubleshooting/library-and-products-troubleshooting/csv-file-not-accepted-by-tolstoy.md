@@ -1,0 +1,3 @@
+# CSV File Not Accepted by Tolstoy
+
+If your CSV file is not being accepted by Tolstoy, it is crucial to ensure that the header columns in your CSV file match exactly with the sample provided inside the Tolstoy app. This means that the names, order, and formatting of the headers should be identical to the sample. Any deviation from the sample headers can result in the file being rejected. Double-check your CSV file against the sample to ensure compliance.

@@ -1,0 +1,3 @@
+# Why Kill Cliff Removed Tolstoy Stories From Their Website
+
+Kill Cliff decided to remove Tolstoy Stories from their website because they felt they were not getting $300 in value from the app. This decision was likely based on an evaluation of the app's performance and its return on investment. When businesses invest in tools or applications, they expect a certain level of value or benefit in return. In this case, Kill Cliff determined that the value provided by Tolstoy Stories did not justify the cost, leading to the removal of the app from their website.

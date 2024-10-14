@@ -1,0 +1,3 @@
+# Purpose Of Roni's Follow-Up Email To Karishma
+
+Roni's follow-up email to Karishma aimed to discuss an example of an abandonment checkout flow that incorporates dynamic GIFs. Roni requested feedback on both the experience and the setup of this example during their upcoming call. This follow-up was intended to ensure that Karishma had the opportunity to review the example and provide her insights during their discussion.

@@ -1,0 +1,3 @@
+# Purpose of Follow-Up Email
+
+Roni's follow-up email serves a dual purpose. Firstly, Roni is reaching out to discuss a **strategic opportunity** with Milk Makeup. This indicates that there is a potential collaboration or partnership that could be beneficial for both parties. Secondly, Roni aims to **coordinate the addition of new Hydro Grip videos**. This suggests that there are new video assets related to the Hydro Grip product that need to be integrated or utilized in some capacity. The follow-up email is a means to ensure that these objectives are addressed and to facilitate further communication on these matters.

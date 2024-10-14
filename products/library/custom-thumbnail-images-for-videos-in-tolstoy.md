@@ -1,0 +1,3 @@
+# Custom Thumbnail Images for Videos in Tolstoy
+
+Tolstoy now supports custom thumbnail images for videos. This feature was developed and deployed specifically for Hannah Kim's project. With this new capability, users can upload and set their own thumbnail images for their videos, allowing for greater customization and control over the visual presentation of their content. This enhancement helps in creating a more engaging and visually appealing experience for viewers.

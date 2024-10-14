@@ -1,0 +1,3 @@
+# Resolving Dragging and Pinning Issues in PDP Stories Playlist
+
+If you encounter issues with dragging or pinning in your PDP Stories Playlist, please note that our team has already deployed a fix for this problem. However, if you continue to experience these issues, it is important to reach out to our support team for further assistance. They will be able to provide you with the necessary help to resolve the problem.

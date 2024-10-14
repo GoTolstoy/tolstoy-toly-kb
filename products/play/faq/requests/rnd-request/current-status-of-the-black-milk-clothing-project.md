@@ -1,0 +1,3 @@
+## Current Status of the Black Milk Clothing Project
+
+The go-live date for the Black Milk Clothing project is currently being reassessed. As a result, all migration User Acceptance Testing (UAT), implementation, and related tasks are paused until a new date is confirmed. This pause is necessary to ensure that all aspects of the project are thoroughly reviewed and any potential issues are addressed before proceeding further.

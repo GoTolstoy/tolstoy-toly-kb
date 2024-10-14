@@ -1,0 +1,3 @@
+# Tolstoy Tracking and Analytics Capabilities
+
+Tolstoy offers robust tracking and analytics capabilities that provide valuable insights into user interactions and their impact on business metrics. With Tolstoy, clients can track and attribute revenue directly to their interactions, giving a clear picture of how these engagements contribute to sales. Additionally, Tolstoy analyzes click rates, allowing clients to understand user engagement levels and optimize their strategies accordingly. These features enable businesses to see the direct impact of their interactions on both sales and engagement metrics, making data-driven decisions more accessible and effective.

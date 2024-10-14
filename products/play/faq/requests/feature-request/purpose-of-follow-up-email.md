@@ -1,0 +1,3 @@
+# Purpose of Follow-Up Email
+
+The purpose of the follow-up email is to arrange a quick sync to discuss the remaining projects for Calpak, particularly those involving Ashley Kwo. This email serves as a reminder and a prompt to ensure that all necessary discussions and decisions are made in a timely manner. By scheduling this sync, the team can align on priorities, address any outstanding issues, and ensure that the projects are progressing as planned.

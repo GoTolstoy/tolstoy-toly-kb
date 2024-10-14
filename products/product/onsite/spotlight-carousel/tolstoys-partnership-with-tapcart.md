@@ -1,0 +1,3 @@
+# Tolstoy's Partnership with Tapcart
+
+Tolstoy has established a direct partnership with Tapcart, a leading mobile app platform. This collaboration allows Tolstoy to facilitate introductions for clients who are interested in leveraging Tapcart's services. Through this partnership, clients can benefit from the combined strengths of both platforms, enhancing their mobile app experiences and capabilities.

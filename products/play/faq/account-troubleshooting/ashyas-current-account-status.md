@@ -1,0 +1,3 @@
+# Ashya's Current Account Status
+
+Ashya has upgraded her Tolstoy account. This means she now has access to additional features and benefits that come with the upgraded plan. Upgrading an account typically provides users with enhanced capabilities, more resources, and better support options. If you have any questions about the specific features included in the upgraded plan, please refer to the Tolstoy support documentation or contact their customer service team for more details.

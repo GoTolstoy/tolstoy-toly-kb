@@ -1,0 +1,3 @@
+# Setting Up Shoppable Videos in Tapcart PDPs
+
+To set up shoppable videos in Tapcart Product Detail Pages (PDPs), you need to schedule an onboarding call. This call will guide you through the process and ensure that your shoppable videos are properly integrated into your Tapcart PDPs. The onboarding call is essential for a smooth setup and to address any specific requirements or questions you may have.

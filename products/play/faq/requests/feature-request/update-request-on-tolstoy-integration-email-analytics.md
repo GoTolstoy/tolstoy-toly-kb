@@ -1,0 +1,3 @@
+# Update Request on Tolstoy Integration Email Analytics
+
+Sydney requested an update on the status of the email analytics for the Tolstoy integration. This involves providing the latest information on how the email analytics feature is progressing, any recent developments, and expected timelines for completion or further updates. Ensuring that Sydney is kept informed about these aspects will help in maintaining transparency and aligning expectations regarding the integration's capabilities.

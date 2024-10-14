@@ -1,0 +1,3 @@
+# Recommended Position for Tolstoy Stories on a Product Page
+
+When integrating Tolstoy stories into your product page, positioning is key to ensuring they capture the attention of your visitors. Tolstoy recommends placing stories either **above** or **below the 'Add to Cart' button**. This strategic placement ensures optimal visibility and engagement, as it is a focal point for users who are considering making a purchase.
