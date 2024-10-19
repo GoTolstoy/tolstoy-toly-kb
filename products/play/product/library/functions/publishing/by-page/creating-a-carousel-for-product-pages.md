@@ -22,6 +22,8 @@
 
 ![Videos](https://github.com/user-attachments/assets/ae1de252-e682-438d-a166-e35e18acdaf0)
 
-    **Tip**: Once you create the Carousel, it will automatically have a set condition/playlist which is “Product tagged.” This means that all videos that have tagged products will show in the carousel that you created. You can tag videos with products in the “Videos” tab.
+    💡 **Tip:** Once you create the Carousel, it will automatically have a set playlist of "Product tagged". This means that all videos with tagged products will show in the carousel you created (you can tag videos with products in the "Library" tab). You can set up custom Playlist (by labeling videos with the playlist name) and if you select this playlist in the carousel that you created, videos with the selected labels will show in the carousel.
+
+    To learn more about Labels and Playlists for automatic feeds, check out our [help article](https://help.gotolstoy.com/en/articles/8291034-what-are-labels-and-playlists-for-automatic-feeds).
 
 6. Click Publish when ready.
