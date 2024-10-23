@@ -14,7 +14,7 @@ The Carousel feature in Tolstoy helps you create short, engaging videos that cat
 
    ![image](https://github.com/user-attachments/assets/b478ed66-03d0-45e2-9200-5b9c5b9af80e)
 
-   - 💡 Tip: The Spotlight Carousel is a newly released carousel type. You can switch it back to the default style within the design tab.
+   - 💡 Tip: The Spotlight Carousel is a newly released carousel type. You can switch it back to the default style within the 'Widget' subsection in the 'Design' tab.
      ![image](https://github.com/user-attachments/assets/4b2024f6-c63d-45ed-8810-f2cda33e4df7)
 
     
