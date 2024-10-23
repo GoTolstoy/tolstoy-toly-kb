@@ -1,4 +1,4 @@
-## Creating a Homepage Spotlight Carousel
+## Creating a Default or Homepage Spotlight Carousel
 
 The Carousel feature in Tolstoy helps you create short, engaging videos that catch your customers' attention.
 
