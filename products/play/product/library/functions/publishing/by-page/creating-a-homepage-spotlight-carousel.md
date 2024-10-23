@@ -26,4 +26,4 @@ The Carousel feature in Tolstoy helps you create short, engaging videos that cat
 
    ![image](https://github.com/GoTolstoy/tolstoy-toly-kb/assets/159800692/e29220f2-94da-4edf-9d11-26e5ac689ef3)
 
-   - The condition will be 'Product tagged' by default. (Note: Videos will show here if you tag a product to a video in the Tolstoy Dashboard -> Library. If you’re Non-Shopify, you can add a CSV file for your products, and if you’re on Shopify, your products are automatically synced in Tolstoy.)
+   - 💡Tip: Once you create the Spotlight, it will automatically have a set playlist of “Product tagged”, this means that all videos that have tagged products will show in the spotlight. You can tag products to videos in your 'Library'.
