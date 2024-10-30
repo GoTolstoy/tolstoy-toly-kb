@@ -11,3 +11,11 @@ You can now update your GA4 tracking ID for all Tolstoys in your account setting
 
 
 To find your Google tag ID, go to [Google Support](https://support.google.com/analytics/answer/9539598). You can also overwrite all previous individual Tolstoy's tracking IDs.
+
+Excited to dive deeper into Google Analytics? Look no further! 
+
+This article has got you covered:
+[How can I create Tolstoy Audience in Google Analytics](https://help.gotolstoy.com/en/articles/8193362-how-can-i-create-tolstoy-audience-in-google-analytics)
+
+
+Enjoy exploring and learning more about Google Analytics! 😊
