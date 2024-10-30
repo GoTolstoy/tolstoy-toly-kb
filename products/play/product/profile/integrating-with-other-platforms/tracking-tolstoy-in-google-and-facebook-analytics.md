@@ -1,17 +1,24 @@
 ## Tracking Tolstoy in Google and Facebook Analytics
 
-1. Navigate to the **Settings** tab (the icon next to the Analytics button on the upper right).
+1. Navigate to the **Settings** tab on the upper right. 
 
-   ![image](https://github.com/user-attachments/assets/000a25fb-4131-452d-832f-f206ce5f8f95)
+   ![image](https://github.com/user-attachments/assets/ea32abde-ac18-4e8b-9776-025d90dde28e)
+
+   You can go there by clicking your video project on the Onsite tab. In this example, it's the 'spotlight' carousel project.
    
-3. Click **Tracking**.
+   ![image](https://github.com/user-attachments/assets/74f88990-6948-4d0f-abb2-d4d494087914)
 
-   ![image](https://github.com/user-attachments/assets/dbe8d45b-5d69-4559-a912-0fb89b5630d5)
 
-5. Paste your Google/Facebook tracking code in their respective fields.
+2. Scroll down to **Tracking**.
 
-   ![image](https://github.com/user-attachments/assets/087126e5-88d5-4a45-a495-f045191f27a8)
+   ![image](https://github.com/user-attachments/assets/fe152f49-7dc5-47a0-965e-b3b6663f24ad)
 
-7. Save changes.
 
-   ![image](https://github.com/user-attachments/assets/6a26ec90-3da3-47b3-bb3f-02d16db4df81)
+3. Paste your Google/Facebook tracking codes in their respective fields. 
+
+   ![image](https://github.com/user-attachments/assets/47232473-0371-4a94-b0ee-93d7459af886)
+
+
+4. **Save** the changes. 
+
+   ![image](https://github.com/user-attachments/assets/c40dc1e1-462c-4291-8b52-522d96d957f3)
