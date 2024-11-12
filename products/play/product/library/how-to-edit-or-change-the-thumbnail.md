@@ -12,6 +12,6 @@
    
    ![Set Thumbnail](https://github.com/user-attachments/assets/21230620-7d5a-4baa-9b92-f83a96f37778)
 
-4. Drag the blue slider to where you want the thumbnail to be. Click "Save" once done.
+4. Either 'Select part from video' by dragging the blue slider to where you want the thumbnail to be or 'Upload image'. Click "Save" once done.
    
    ![Save Thumbnail](https://github.com/user-attachments/assets/b03b5488-5132-4fd8-8245-c9b631a388e2)
