@@ -34,7 +34,7 @@ The goal of this class of integrations is for users to easily access existing so
 
 - **YouTube**
 
-  The integration allows users to connect their YouTube account and select specific folders to auto-display video files from the selected folders in the Tolstoy app. Even though the files are automatically displayed under the YouTube source in the Library, the files are not auto-imported. A file is only imported after tagging it with a product or a playlist. There can only be one YouTube account connected per Tolstoy account.
+  The YouTube integration is no longer working. Unfortunately, we no longer support this integration at this time. So sorry for the inconvenience and thanks for your understanding. 
 
 #### AI
 
