@@ -1,0 +1,3 @@
+# Temporary Solution for Drafted Product Issue
+
+When faced with a technical issue related to a drafted product, Christine implemented a temporary solution to mitigate the problem. She **disconnected the drafted product from the carousel video**. This action was taken to prevent the error from occurring, ensuring that the system could continue to function without disruption. This temporary measure allows for continued use of the carousel video feature while a more permanent fix is developed.

@@ -1,0 +1,3 @@
+## Auto-Play Video Functionality in PDP Carousel
+
+When it comes to the Product Detail Page (PDP) carousel, the auto-play video functionality is not an out-of-the-box feature. This means that it is not available as a standard feature that can be easily enabled or configured without additional work. Instead, implementing this functionality requires custom development by Tolstoy's team. If you need this feature, you will need to reach out to Tolstoy's team for assistance in developing and integrating the auto-play video functionality into your PDP carousel.

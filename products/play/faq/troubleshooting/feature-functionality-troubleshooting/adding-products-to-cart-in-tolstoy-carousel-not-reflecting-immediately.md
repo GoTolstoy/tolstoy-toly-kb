@@ -1,0 +1,3 @@
+## Adding Products to Cart in Tolstoy Carousel Not Reflecting Immediately
+
+When you add a product to the cart within the Tolstoy carousel, you might notice that it does not reflect in the main cart drawer immediately. This issue occurs because the add-to-cart action within the Tolstoy carousel does not automatically update the main cart drawer without a page refresh. The development team is aware of this problem and is actively working on a fix to ensure that the cart updates in real-time without requiring a page refresh.

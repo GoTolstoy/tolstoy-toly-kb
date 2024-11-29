@@ -1,0 +1,3 @@
+# Handling Multiple Products with Tolstoy's Email Widget
+
+Tolstoy's email widget is designed to efficiently handle multiple products. When a user interacts with the widget, it searches for videos tagged to the first product. If no videos are found for that product, the widget automatically moves on to search for videos tagged to the next product. This ensures that users always receive relevant video content, even if the initial product does not have any associated videos.

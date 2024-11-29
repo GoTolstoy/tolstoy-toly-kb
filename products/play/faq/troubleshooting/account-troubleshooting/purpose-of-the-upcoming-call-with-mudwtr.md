@@ -1,0 +1,3 @@
+# Purpose of the Upcoming Call with MudWtr
+
+The upcoming call with MudWtr is scheduled for a Tolstoy account check-up. This call aims to review the current status of the MudWtr account, address any issues or concerns, and ensure that everything is functioning smoothly. It is an opportunity to discuss any recent changes, updates, or improvements that may benefit the account. The check-up will help maintain a strong and effective partnership between MudWtr and Tolstoy.

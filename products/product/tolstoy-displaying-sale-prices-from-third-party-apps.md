@@ -1,0 +1,3 @@
+# Tolstoy Displaying Sale Prices from Third-Party Apps
+
+Tolstoy cannot display the sale price from a third-party app because it pulls data directly from the Shopify API. If the sale price is set directly inside the product settings, Tolstoy should be able to display it. This means that for Tolstoy to show the sale price, the price must be configured within Shopify's own product settings rather than through an external application.

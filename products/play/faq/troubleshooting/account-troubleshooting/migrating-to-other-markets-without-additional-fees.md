@@ -1,0 +1,3 @@
+# Migrating to Other Markets Without Additional Fees
+
+When managing your account, you might wonder if there are any additional fees associated with migrating to other markets. The good news is that there are no extra fees for this process. All three markets are included in the existing bundle price, ensuring a seamless and cost-effective transition. This means you can expand your reach and explore new opportunities without worrying about incurring additional costs.

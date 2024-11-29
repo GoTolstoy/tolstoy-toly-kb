@@ -1,0 +1,3 @@
+# Technical Issues with 'Always Start on Mute' Setting for Widgets
+
+Marina reported a technical issue where the 'always start on mute' setting was not functioning correctly for her widgets. This setting is intended to ensure that widgets start in a muted state by default, but in Marina's case, the widgets were not adhering to this configuration. This issue can disrupt user experience, especially in environments where sound should be minimized or controlled. It is important to investigate the root cause of this malfunction to provide a timely resolution and maintain the reliability of the widget settings.

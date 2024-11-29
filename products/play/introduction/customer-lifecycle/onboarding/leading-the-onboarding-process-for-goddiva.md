@@ -1,0 +1,3 @@
+# Leading the Onboarding Process for Goddiva
+
+In the context of account management, the onboarding process for Goddiva is being led by Amor from the customer success team. This ensures that Goddiva receives personalized and effective guidance as they integrate and start using the services provided. The customer success team plays a crucial role in facilitating a smooth transition and helping clients achieve their goals efficiently.

@@ -1,0 +1,3 @@
+## Account Management for Primally Pure at Tolstoy
+
+When it comes to managing accounts at Tolstoy, each client is assigned a dedicated account manager to ensure personalized and efficient service. For Primally Pure, the assigned account manager is **Gilbert Castro**. Gilbert is responsible for overseeing all aspects of the account, providing support, and ensuring that Primally Pure's needs are met effectively.
