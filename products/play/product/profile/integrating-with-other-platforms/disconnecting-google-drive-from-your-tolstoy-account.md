@@ -9,4 +9,4 @@
 
 2. Click the **X** next to the account you want to remove or disconnect.
 
-   !![image](https://github.com/user-attachments/assets/2b0359c4-c675-4070-8c3c-6912a9a9037e)
+   ![image](https://github.com/user-attachments/assets/2b0359c4-c675-4070-8c3c-6912a9a9037e)
