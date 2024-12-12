@@ -1,10 +1,10 @@
 ## Adding Tolstoy to Your WordPress Site
 
-Learn how to add your Tolstoy to your WordPress site as an embedded video or a widget!
+Learn how to add your Tolstoy to your WordPress site 
 
 ### Adding Your Widget to WordPress via the Tolstoy App Plugin
 
-1. Navigate to the Tolstoy Integrations page.
+1. Click your profile letter on the lower left, then Integrations.
 2. Go to the WordPress integration and click Connect. This will download the Tolstoy plugin as a zip file, named "Tolstoy".
 3. Go to your WordPress dashboard and click Plugins.
 4. Click Upload Plugin.
@@ -26,6 +26,10 @@ Learn how to add your Tolstoy to your WordPress site as an embedded video or a w
 7. Search for Custom HTML.
 8. Paste the Tolstoy HTML code and click Update.
 
+### For other video projects like carousel or homepage spotlight and stories, click the Publish button on the upper right and copy the code.
+![image](https://github.com/user-attachments/assets/826150ea-eb38-4ad6-9f00-a649beb9ad53)
+
+
 **Note:** There are other ways to connect the Tolstoy script (widget or embed) to your WordPress site:
 - **Manual Method:** Paste the code into your theme file. Go to the theme file editor, find the header.php file, and paste the code there.
-- **Using a Third-Party Plugin:** Use a third-party plugin like WP Rocket or Elementor to make the connection.
+- **Using a Third-Party Plugin:** Use a third-party plugin like WP Rocket or Elementor to make the connection. Make sure to clear the cache for the Tolstoy script so the video renders properly.
